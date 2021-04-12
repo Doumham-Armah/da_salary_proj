@@ -1,0 +1,942 @@
+company_name,job_title,salary_estimate,location,rating,size,founded,type_of_ownership,industry,sector,revenue
+,Staff Data Analyst (Digitalization),,"Tempe, AZ",3.5,1001 to 5000 Employees,2002,Company - Private,Investment Banking & Asset Management,Finance,$500 million to $1 billion (USD)
+,Data/Reporting Analyst,$40K - $74K (Glassdoor est.),"Miami Lakes, FL",3.1,1001 to 5000 Employees,2009,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Governance Analyst,,"Myerstown, PA",,Unknown,,,,,
+,Experienced Lumber & Building Materials Data Analyst,,"South Dennis, MA",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Lead Data Analyst,$48K - $82K (Glassdoor est.),"Harrisburg, PA",3.1,1001 to 5000 Employees,1963,Nonprofit Organization,Lending,Finance,$500 million to $1 billion (USD)
+,Supply Chain Data Analyst,$65K - $79K (Employer est.),"Pleasant Prairie, WI",3.6,5001 to 10000 Employees,1980,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Operations Data Analyst,$32K - $57K (Glassdoor est.),"Rancho Cucamonga, CA",3.2,1001 to 5000 Employees,1976,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable
+,Life Data Analyst,$38K - $69K (Glassdoor est.),"Columbia, MO",4.4,1001 to 5000 Employees,1946,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD)
+,Sr. Data Analyst,,"Tempe, AZ",3.5,1001 to 5000 Employees,2002,Company - Private,Investment Banking & Asset Management,Finance,$500 million to $1 billion (USD)
+,Digital Engagement Data Analyst/Admin,$50K - $59K (Glassdoor est.),"Ogden, UT",3.8,1001 to 5000 Employees,1939,Nonprofit Organization,Investment Banking & Asset Management,Finance,$100 to $500 million (USD)
+,Master Data Analyst,$42K - $75K (Glassdoor est.),"Covington, KY",3.2,10000+ Employees,2004,Company - Private,Miscellaneous Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Data Quality Assurance Analyst,$51K - $94K (Glassdoor est.),"Warrenton, VA",4.2,5001 to 10000 Employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD)
+,Treasury Data Analyst,$46K - $82K (Glassdoor est.),"Miami Lakes, FL",3.1,1001 to 5000 Employees,2009,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,"ERP Analyst, Data Conversion",$79K - $81K (Glassdoor est.),"Somerset, NJ",3.5,10000+ Employees,2007,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+,IT Data Analyst,$37K - $68K (Glassdoor est.),"Greenville, SC",4.4,1001 to 5000 Employees,1986,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Data Standard Analyst - Biostatistics Team,$34K - $82K (Glassdoor est.),"Cincinnati, OH",3.0,1001 to 5000 Employees,1992,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,Contract Data Analyst,$54K - $98K (Glassdoor est.),"Arlington, VA",3.9,501 to 1000 Employees,1999,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,Healthcare Data Analyst,,Kentucky,3.4,1001 to 5000 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,"Financial Data Solutions, Sr. Data & Information Reporting Analyst",$84K - $104K (Glassdoor est.),"Phoenix, AZ",3.3,10000+ Employees,1864,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Senior Data Analyst,$38K - $68K (Glassdoor est.),"Lenexa, KS",2.5,1001 to 5000 Employees,1984,Company - Public,Lending,Finance,$100 to $500 million (USD)
+,ETL/ Data Warehouse Test Analyst,$51K - $59K (Glassdoor est.),"Richardson, TX",3.4,10000+ Employees,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Quality Assurance Analyst - Data Warehouse ETL (South of Milwaukee),$69K - $79K (Glassdoor est.),"Milwaukee, WI",3.6,5001 to 10000 Employees,1980,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable
+,CRA Data Analyst,$43K - $78K (Glassdoor est.),"Miami Lakes, FL",3.1,1001 to 5000 Employees,2009,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Regulatory Affairs Data Analyst,$47K - $85K (Glassdoor est.),"Naples, FL",4.0,1001 to 5000 Employees,1981,Company - Private,Health Care Products Manufacturing,Manufacturing,$1 to $2 billion (USD)
+,Lead Data Analyst,$30K - $53K (Glassdoor est.),"College Station, TX",4.4,10000+ Employees,1871,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Lead Data Analyst for Datawarehouse,$56K - $95K (Glassdoor est.),"Tempe, AZ",3.3,10000+ Employees,1864,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Senior Product Data Analyst,,"San Francisco, CA",,Unknown,,,,,
+,GME Research Data Developer Analyst,$52K - $99K (Glassdoor est.),"Gainesville, GA",3.5,5001 to 10000 Employees,1951,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Web and Marketing Data Analyst,$48K - $85K (Glassdoor est.),"Newport News, VA",3.6,10000+ Employees,1953,Subsidiary or Business Segment,Wholesale,Business Services,$10+ billion (USD)
+,Quality Assurance Analyst - Data Warehouse ETL,,"Pleasant Prairie, WI",3.6,5001 to 10000 Employees,1980,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Data Engineering Analyst,$67K - $131K (Glassdoor est.),"Waltham, MA",3.4,1001 to 5000 Employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD)
+,GBSD Sr Data Analyst – Systems Engineer,$64K - $82K (Glassdoor est.),"Roy, UT",4.0,10000+ Employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,IT Data Analyst III,$82K - $143K (Glassdoor est.),"Newark, NJ",4.0,5001 to 10000 Employees,1932,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Quality Analyst I,$46K - $82K (Glassdoor est.),"Minneapolis, MN",4.0,201 to 500 Employees,1992,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,ETL QA/Data Analyst,,United States,4.8,1001 to 5000 Employees,1996,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD)
+,Sr. Staff Data Analyst (Consumer Web Products),,"San Mateo, CA",3.5,1001 to 5000 Employees,2002,Company - Private,Investment Banking & Asset Management,Finance,$500 million to $1 billion (USD)
+,"Data Management Business Analyst-Sourcing Analytics, CT or Remote",$74K - $105K (Glassdoor est.),"New Britain, CT",3.6,10000+ Employees,1843,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD)
+,Sr. Staff Data Analyst (Marketing Multi Product),,"San Mateo, CA",3.5,1001 to 5000 Employees,2002,Company - Private,Investment Banking & Asset Management,Finance,$500 million to $1 billion (USD)
+,"Sr Business/Data Analyst, Technology",$48K - $94K (Glassdoor est.),"Saint Petersburg, FL",4.0,10000+ Employees,1962,Company - Public,Brokerage Services,Finance,$5 to $10 billion (USD)
+,Senior Data Analyst,$64K - $111K (Glassdoor est.),"Atlanta, GA",3.8,5001 to 10000 Employees,1848,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Quality Analyst,$45K - $82K (Glassdoor est.),"Phoenix, AZ",3.6,1001 to 5000 Employees,1986,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Call Center System ~ Data Analyst,,"Carrollton, TX",4.1,1 to 50 Employees,2006,Company - Private,Home Centers & Hardware Stores,Retail,Unknown / Non-Applicable
+,Supply Chain Data Analyst (South of Milwaukee),$65K - $79K (Employer est.),"Milwaukee, WI",3.6,5001 to 10000 Employees,1980,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Quality Metrics and Data Analyst,,"Liverpool, NY",3.5,501 to 1000 Employees,,Government,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Program Finance & Data Analyst,$68K - $94K (Glassdoor est.),"Washington, DC",2.9,201 to 500 Employees,1969,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD)
+,E-Commerce Sale Data Analyst(Bilingual),,"Industry, CA",,Unknown,,,,,
+,eCommerce/Marketing Data Analyst,$61K - $73K (Glassdoor est.),"Arlington Heights, IL",3.4,501 to 1000 Employees,,Company - Private,,,$100 to $500 million (USD)
+,Data Analyst Asset Tracking Admin,,"Santa Ana, CA",,Unknown,,,,,
+,Healthcare Data Analyst,,"Pasadena, CA",4.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst-Business Information Specialist,$42K - $72K (Glassdoor est.),"Flint, MI",3.0,10000+ Employees,1981,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Supply Chain Data Analyst (North of Chicago),$65K - $79K (Employer est.),"Chicago, IL",3.6,5001 to 10000 Employees,1980,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Digital Data Analyst,$48K - $60K (Glassdoor est.),"Chicago, IL",3.6,10000+ Employees,1998,Company - Private,Insurance Agencies & Brokerages,Insurance,$1 to $2 billion (USD)
+,Research Data Analyst,$31K - $57K (Glassdoor est.),"Detroit, MI",4.1,501 to 1000 Employees,1871,College / University,Colleges & Universities,Education,$100 to $500 million (USD)
+,"ETL, Data Warehouse Test Analyst",$51K - $58K (Glassdoor est.),"Atlanta, GA",3.4,10000+ Employees,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Marketing Data Analyst,,"Coburg, OR",,1 to 50 Employees,,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Business Analyst - Data Science,$37K - $68K (Glassdoor est.),"Fort Wayne, IN",3.6,501 to 1000 Employees,1899,Subsidiary or Business Segment,Insurance Carriers,Insurance,$1 to $2 billion (USD)
+,Senior Benefits Data Analyst - Compliance,$42K - $72K (Glassdoor est.),"North Canton, OH",3.5,10000+ Employees,1899,Company - Public,Industrial Manufacturing,Manufacturing,$2 to $5 billion (USD)
+,Business Analyst - Data Operations,$31K - $55K (Glassdoor est.),"Plymouth, MN",2.9,51 to 200 Employees,1965,Private Practice / Firm,Legal,Accounting & Legal,$10 to $25 million (USD)
+,Data Intelligence Analyst,,"Lexington-Fayette, KY",3.9,10000+ Employees,1991,Company - Private,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD)
+,Metrics & Data Analytics Analyst,$68K - $94K (Glassdoor est.),"Washington, DC",3.8,10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+,Capital Portfolio Data Analyst-Remote,,"Wilmington, NC",2.5,51 to 200 Employees,2002,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD)
+,HR Systems and Data Analyst - Augsburg University,$37K - $67K (Glassdoor est.),"Minneapolis, MN",3.8,501 to 1000 Employees,1869,College / University,Colleges & Universities,Education,$50 to $100 million (USD)
+,AML Data Analyst,,"Boston, MA",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Data Reporting Analyst,,"Greer, SC",3.7,10000+ Employees,1948,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Business System Analyst 3 (Quality Control Data Analyst) - SOM:Cancer Center -Davis,$74K - $83K (Glassdoor est.),"Sacramento, CA",4.4,10000+ Employees,1905,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst/Tableau Developer,$59K - $106K (Glassdoor est.),"Washington, DC",4.4,51 to 200 Employees,2005,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Compliance Data Analyst,,"Springfield, MA",,Unknown,,,,,
+,Sales Data Analyst,$41K - $74K (Glassdoor est.),"Carson, CA",3.5,201 to 500 Employees,1986,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD)
+,Lead Reporting Data Analyst,$87K - $117K (Glassdoor est.),"Minneapolis, MN",4.0,201 to 500 Employees,1992,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Quantitative Data Analyst,$60K - $63K (Glassdoor est.),"Cambridge, MA",3.1,51 to 200 Employees,2005,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Business Data Analyst,$30K - $57K (Glassdoor est.),"Raleigh, NC",2.2,501 to 1000 Employees,1996,Company - Private,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,"Marketing Data Analyst, Portsmouth",$36K - $65K (Glassdoor est.),"Portsmouth, NH",3.6,501 to 1000 Employees,1957,Nonprofit Organization,Banks & Credit Unions,Finance,$2 to $5 billion (USD)
+,Data Visualization Analyst,$34K - $65K (Glassdoor est.),"Vienna, VA",4.2,51 to 200 Employees,2012,Company - Public,Consulting,Business Services,$1 to $5 million (USD)
+,Test Analyst - ETL/Data Warehouse/Unix/Report Testing/Analytics,$48K - $56K (Glassdoor est.),"Saint Louis, MO",3.4,10000+ Employees,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,"Enterprise Data, Financial Data Analyst - Content Design Specialist",,"New York, NY",4.1,10000+ Employees,1981,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst-HEDIS & Star,$80K - $91K (Glassdoor est.),"Long Beach, CA",4.1,501 to 1000 Employees,1977,Nonprofit Organization,Insurance Carriers,Insurance,$2 to $5 billion (USD)
+,Senior Crew Data Analyst,$85K - $95K (Glassdoor est.),"Memphis, TN",3.9,10000+ Employees,1971,Subsidiary or Business Segment,Express Delivery Services,Transportation & Logistics,$10+ billion (USD)
+,Travel Data Analyst,$49K - $55K (Glassdoor est.),"Worthington, OH",2.9,501 to 1000 Employees,1977,Franchise,Membership Organizations,Business Services,$1 to $5 million (USD)
+,"Senior Data Analyst, Data Transformation",$64K - $109K (Glassdoor est.),"Charlotte, NC",3.3,10000+ Employees,1864,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Corporate Quality Data Analyst,,"Danbury, CT",3.3,5001 to 10000 Employees,,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Talend Big Data Hadoop Systems Analyst,,Remote,4.0,51 to 200 Employees,2005,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+,Jr. Business Data Analyst,,"Harrisburg, PA",4.8,201 to 500 Employees,1997,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,"Data Analyst HR and Finance; Stamford, CT",,United States,3.9,1001 to 5000 Employees,2006,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+,Variable Data Analyst,$74K - $80K (Glassdoor est.),"Peabody, MA",3.2,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Lending Data Analyst,$44K - $78K (Glassdoor est.),"Rolling Meadows, IL",3.5,501 to 1000 Employees,1935,Nonprofit Organization,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+,"Senior Analyst, Data & Analytics",$61K - $133K (Glassdoor est.),"San Francisco, CA",4.0,51 to 200 Employees,2011,Company - Private,Internet,Information Technology,$25 to $50 million (USD)
+,IT Data Analyst - Administration,$47K - $59K (Glassdoor est.),"San Diego, CA",3.6,1001 to 5000 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst-Power BI Developer,$71K - $110K (Glassdoor est.),"Irvine, CA",,Unknown,,,,,
+,Operations Data Analyst,,"Oxnard, CA",,Unknown,,,,,
+,Seasonal Data Capture Analyst,$30K - $55K (Glassdoor est.),"Bozeman, MT",3.0,51 to 200 Employees,,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Research Analyst - Data Science Division,$66K - $132K (Glassdoor est.),"Arlington, VA",3.6,501 to 1000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD)
+,"Data Analyst, Advanced Analytics",$47K - $84K (Glassdoor est.),"Richmond, VA",3.8,5001 to 10000 Employees,1919,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD)
+,Data Governance Analyst,$42K - $75K (Glassdoor est.),"Chaska, MN",3.6,1001 to 5000 Employees,1966,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD)
+,Senior Data Analyst,$45K - $80K (Glassdoor est.),"Honolulu, HI",2.6,201 to 500 Employees,1994,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst I - Cox Business Indirect Sales,$42K - $72K (Glassdoor est.),"Las Vegas, NV",4.0,10000+ Employees,1962,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Data Governance Analyst,$38K - $68K (Glassdoor est.),"Kansas City, MO",3.7,10000+ Employees,1885,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Financial Data Analyst,,"Chatsworth, CA",4.0,201 to 500 Employees,,Company - Private,Home Furniture & Housewares Stores,Retail,Unknown / Non-Applicable
+,Data Operations Analyst,$39K - $57K (Glassdoor est.),"Jacksonville, FL",4.0,10000+ Employees,1969,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD)
+,"Enterprise Data, Financial Data Analyst - Content Design Specialist Contractor",$58K - $98K (Glassdoor est.),"New York, NY",4.1,10000+ Employees,1981,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,IT Data Analyst-Remote,,"Painted Post, NY",2.5,51 to 200 Employees,2002,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD)
+,Senior Data Analyst,$77K - $87K (Glassdoor est.),"San Diego, CA",3.5,10000+ Employees,1933,Company - Public,Transportation Management,Transportation & Logistics,$5 to $10 billion (USD)
+,Epic Clarity Data Analyst,$55K - $75K (Glassdoor est.),"Malden, MA",3.7,1001 to 5000 Employees,1891,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,BI Data Analyst,$43K - $78K (Glassdoor est.),"Baltimore, MD",3.8,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,MASTER DATA ANALYST,$41K - $73K (Glassdoor est.),"Largo, FL",3.2,51 to 200 Employees,,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+,Data Science Support Analyst (Journeyman),$104K - $171K (Glassdoor est.),"McLean, VA",3.5,1001 to 5000 Employees,1971,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,GBSD Sr Data Analyst – Systems Engineer,$64K - $82K (Glassdoor est.),"Roy, UT",4.0,10000+ Employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,Lead Data Analyst,$42K - $79K (Glassdoor est.),"Nashville, TN",3.1,51 to 200 Employees,1994,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Data Security Analyst,$76K - $87K (Glassdoor est.),"Burlingame, CA",3.5,501 to 1000 Employees,1996,Company - Private,Federal Agencies,Government,$10 to $25 million (USD)
+,Clinical Data Analyst - Patient Experience,$58K - $71K (Glassdoor est.),"Honolulu, HI",4.2,1001 to 5000 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Senior Financial Analyst-Data Analytics,$41K - $65K (Glassdoor est.),"Portland, ME",3.8,5001 to 10000 Employees,1848,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Engineering Analyst,$67K - $131K (Glassdoor est.),"Waltham, MA",3.4,1001 to 5000 Employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD)
+,SQL Data Analyst,$48K - $71K (Glassdoor est.),"Denver, CO",2.9,51 to 200 Employees,,Nonprofit Organization,Investment Banking & Asset Management,Finance,$5 to $10 million (USD)
+,Data Support Analyst,,"Baytown, TX",3.5,5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+,Data Analyst (2476),,"San Juan, PR",,Unknown,,,,,
+,Business Intelligence & Data Analyst,,"Austin, TX",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,"Data Analyst – Casper, Wyoming (Job ID: 2020-1228)",,"Casper, WY",3.3,51 to 200 Employees,1957,Company - Private,Transportation Management,Transportation & Logistics,$100 to $500 million (USD)
+,Quality Data Analyst - Healthcare,,"Toledo, OH",2.7,51 to 200 Employees,,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD)
+,Payroll & Data Analyst,,"Plymouth, MN",,1 to 50 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Senior Data Analyst,,Virginia,3.8,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,Senior Data Analyst,,"Ann Arbor, MI",3.6,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,"Data Analyst - Denver, CO",,"Denver, CO",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Data Engineer Analyst / Developer,$83K - $95K (Glassdoor est.),"Hartford, CT",4.1,10000+ Employees,1853,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Tableau Admin / Data Analyst,$33K - $33K (Glassdoor est.),"Roy, UT",3.5,1001 to 5000 Employees,1971,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Energy Data Analyst,$58K - $106K (Glassdoor est.),"Roanoke, VA",3.1,51 to 200 Employees,2003,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$25 to $50 million (USD)
+,"Data Quality Analyst (Trinity County, CA)",$43K - $45K (Glassdoor est.),"Eureka, CA",3.9,10000+ Employees,1966,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD)
+,Pharmacy Data Analyst,$53K - $80K (Glassdoor est.),"Garden Grove, CA",,Unknown,,,,,
+,Data Analyst,$46K - $84K (Glassdoor est.),"San Diego, CA",3.5,51 to 200 Employees,1987,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Lead Medical Coding Data Analyst,$11 - $21 Per Hour(Glassdoor est.),"Indianapolis, IN",4.5,51 to 200 Employees,1965,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Sr. Data Analyst - Insurance Pricing Specialist,$53K - $94K (Glassdoor est.),"Brea, CA",3.8,1001 to 5000 Employees,1961,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD)
+,Marketing Data Analyst USC or GC only - T,,"Tampa, FL",,1 to 50 Employees,,Company - Public,,,Unknown / Non-Applicable
+,"Data Analyst, Digital",$44K - $78K (Glassdoor est.),"Sycamore, IL",3.8,1001 to 5000 Employees,1916,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$100 to $500 million (USD)
+,Senior Data Science Analyst - Center for Digital Health,$72K - $120K (Glassdoor est.),"Rochester, MN",4.2,10000+ Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Senior Application Analyst - Data Visualization & SQL,$44K - $70K (Glassdoor est.),"Wayne, PA",3.4,10000+ Employees,1978,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Senior Data Analyst,$49K - $91K (Glassdoor est.),"Durant, OK",4.5,51 to 200 Employees,,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD)
+,HCM Data Analyst,$37K - $44K (Glassdoor est.),"Oklahoma City, OK",4.4,1001 to 5000 Employees,1998,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Product Data Analyst,$52K - $93K (Glassdoor est.),"Colmar, PA",3.1,1001 to 5000 Employees,1918,Company - Public,Automotive Parts & Accessories Stores,Retail,$500 million to $1 billion (USD)
+,Senior Media Data & Reporting Analyst,$91K - $101K (Glassdoor est.),"New York, NY",2.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Scientific Data Analyst,$49K - $90K (Glassdoor est.),"Atlanta, GA",4.3,501 to 1000 Employees,1999,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+,Complaint Data Analyst,,"Westborough, MA",,Unknown,,,,,
+,Analyst - Data Pricing & Strategy,,"Dallas, TX",3.7,10000+ Employees,1995,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities",$10+ billion (USD)
+,"Senior Quality, Safety, Health Equity Data Analyst / 40 Hours / BWH APSI",$41K - $73K (Glassdoor est.),"Boston, MA",3.9,5001 to 10000 Employees,1996,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Technical Data Analyst,$30K - $52K (Glassdoor est.),"Ladera Ranch, CA",2.0,201 to 500 Employees,1993,Company - Private,Security Services,Business Services,$25 to $50 million (USD)
+,Compliance Data Analyst,,"Spartanburg, SC",3.8,5001 to 10000 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Business Intelligence Data Analyst - Google Cloud,,"Austin, TX",,Unknown,,,,,
+,Quality Data Analyst (Healthcare),,"Charlotte, NC",2.5,51 to 200 Employees,2002,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD)
+,Campaign Manager (Data Analyst),,"Smithfield, RI",3.4,1001 to 5000 Employees,1986,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Production Data Analyst (Analista de Datos de Producción),,"Los Alamitos, CA",,Unknown,,,,,
+,ETL Data Analyst,,"Charlotte, NC",4.2,1001 to 5000 Employees,1997,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Lead Data Science Analyst,$85K - $118K (Employer est.),"Riverwoods, IL",3.9,1001 to 5000 Employees,1985,Company - Public,Banks & Credit Unions,Finance,$25 to $50 million (USD)
+,Data Analyst Coordinator,$38K - $66K (Glassdoor est.),"King of Prussia, PA",3.4,10000+ Employees,1978,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Healthcare Data Analyst,,"Birmingham, AL",2.7,1 to 50 Employees,,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Healthcare Data Analyst - East Nashville,,"Nashville, TN",,Unknown,,,,,
+,Senior Business Analyst - Data Solutions,$58K - $106K (Glassdoor est.),"Denver, CO",2.7,501 to 1000 Employees,1971,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Clinical Data Analyst,,"Spokane, WA",,Unknown,,,,,
+,Data Analyst IV,,"Fremont, CA",3.5,1001 to 5000 Employees,2001,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,Supply Chain Data Analyst (Local Candidate's Preferred),,"Eagle, CO",,Unknown,,,,,
+,Marketing Data Analyst,,"Odessa, FL",,Unknown,,,,,
+,Big Data Analyst,,"Burbank, IL",3.5,5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+,ELINT Data Analyst,$44K - $81K (Glassdoor est.),"Austin, TX",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Insight Analyst,$74K - $95K (Glassdoor est.),"McLean, VA",4.0,10000+ Employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,Marketing Data Analyst,,"Odessa, FL",,Unknown,,,,,
+,Operations Cloud Data Programmer/Analyst,,"Lansing, MI",3.5,201 to 500 Employees,1971,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Business Data Analyst,,"Augusta, GA",3.5,5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+,Data Analyst - Fidelity Investments,,"Smithfield, RI",2.5,1 to 50 Employees,,Nonprofit Organization,Social Assistance,Non-Profit,Less than $1 million (USD)
+,Data Science Analyst - RH,$42K - $74K (Glassdoor est.),"Rosemont, IL",3.8,10000+ Employees,1976,Company - Private,Wholesale,Business Services,$25 to $50 million (USD)
+,Excel Data Analyst and Programmer,,"Magnolia, TX",,Unknown,,,,,
+,Sr. Investments Data Analyst,$71K - $83K (Glassdoor est.),"New York, NY",3.7,5001 to 10000 Employees,1860,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD)
+,SAS/Unix Data Analyst,,"Elk Grove Village, IL",,Unknown,,,,,
+,"Data Analyst - Boston, MA",,"Boston, MA",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Data Analyst/ Excel Report Analyst,,"Raymond, OH",3.5,5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+,Data Analyst - Sales,,"Portland, OR",,Unknown,,,,,
+,Market Intelligence and Data Analytics Analyst II,$48K - $82K (Glassdoor est.),"Lake Mary, FL",3.2,10000+ Employees,1935,Company - Public,Wholesale,Business Services,$10+ billion (USD)
+,Master Data Coordinator (Master Data Analyst),$45K - $78K (Glassdoor est.),"Saint Louis, MO",4.2,10000+ Employees,1963,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+,Marketing Data Analyst,$40K - $63K (Glassdoor est.),"Troy, OH",4.6,201 to 500 Employees,1992,Company - Private,Real Estate,Real Estate,$100 to $500 million (USD)
+,Guest Data Analyst,$33K - $57K (Glassdoor est.),"Ankeny, IA",3.2,10000+ Employees,1967,Company - Public,Gas Stations,Retail,$5 to $10 billion (USD)
+,Marketing Data Analyst – Remote,,"Philadelphia, PA",4.7,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Senior Data Governance Analyst,$93K - $106K (Glassdoor est.),"Irving, TX",3.7,1001 to 5000 Employees,2006,Company - Private,Lending,Finance,$500 million to $1 billion (USD)
+,AML Data Analyst,,"Boston, MA",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Senior Data Analyst,$51K - $90K (Glassdoor est.),"Atlanta, GA",3.6,5001 to 10000 Employees,1969,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD)
+,Quality Assurance Analyst - Data Warehouse ETL (North of Chicago),$41K - $87K (Glassdoor est.),"Chicago, IL",3.6,5001 to 10000 Employees,1980,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable
+,"Data Quality Analyst (Butte County, CA)",$32K - $57K (Glassdoor est.),"Chico, CA",3.9,10000+ Employees,1966,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD)
+,Sr. Data Analyst,,Remote,3.1,501 to 1000 Employees,1996,Subsidiary or Business Segment,Telecommunications Services,Telecommunications,$5 to $10 billion (USD)
+,Data Governance Analyst,,"Orlando, FL",4.2,10000+ Employees,1966,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD)
+,Senior Data Analyst,$85K - $111K (Glassdoor est.),"Boston, MA",4.5,51 to 200 Employees,1988,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,"Data Analyst, Linkage Capabilities Transformation",$39K - $69K (Glassdoor est.),"Center Valley, PA",3.4,1001 to 5000 Employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD)
+,Payroll Data Analyst,,"Washington, DC",3.7,10000+ Employees,1967,Government,Passenger Rail,Travel & Tourism,Less than $1 million (USD)
+,Master Data Reporting Analyst,$51K - $108K (Glassdoor est.),"Wilton, CT",4.1,10000+ Employees,1984,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD)
+,Clinical Informatics Analyst- UAB Data Analytics (Full Time),$53K - $70K (Glassdoor est.),"Birmingham, AL",3.8,10000+ Employees,1945,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Operations Data Analyst,$38K - $70K (Glassdoor est.),"Birmingham, AL",4.3,501 to 1000 Employees,1985,Company - Private,Transportation Management,Transportation & Logistics,$10 to $25 million (USD)
+,"Data Analyst I (3rd Shift, Wednesday-Saturday 6p.m. - 5a.m. MST)",,Colorado,3.9,1 to 50 Employees,1997,Company - Private,,,Unknown / Non-Applicable
+,Product Data Analyst,,"Menlo Park, CA",4.0,1001 to 5000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+,Field Data Collection Analyst (GIS),$36K - $65K (Glassdoor est.),"Chicago, IL",3.4,1001 to 5000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,"Sr. Data Analyst, BI",$52K - $88K (Glassdoor est.),"Palm Beach Gardens, FL",4.0,5001 to 10000 Employees,1956,Company - Private,Automotive Parts & Accessories Stores,Retail,$2 to $5 billion (USD)
+,Data Analyst - Remote,$38K - $42K (Glassdoor est.),"Chicago, IL",3.6,201 to 500 Employees,2001,Subsidiary or Business Segment,IT Services,Information Technology,$25 to $50 million (USD)
+,HRIS Analyst - Data & Systems Oracle Fusion,$57K - $69K (Glassdoor est.),"Orlando, FL",3.6,5001 to 10000 Employees,1992,Subsidiary or Business Segment,Transportation Management,Transportation & Logistics,$1 to $2 billion (USD)
+,"Product Data Analyst , Sales",,"Columbia, MD",3.4,201 to 500 Employees,1991,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD)
+,Data Analyst I,$47K - $87K (Glassdoor est.),"Beaverton, OR",4.7,5001 to 10000 Employees,2009,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD)
+,"Data Analyst, Business Intelligence",$64K - $126K (Glassdoor est.),"New York, NY",4.0,1 to 50 Employees,2011,Company - Private,Internet,Information Technology,Less than $1 million (USD)
+,Data Analyst - Sales Performance,$30K - $53K (Glassdoor est.),"Brentwood, TN",3.5,10000+ Employees,1904,Subsidiary or Business Segment,Logistics & Supply Chain,Transportation & Logistics,$5 to $10 billion (USD)
+,Data Governance Analyst,$38K - $68K (Glassdoor est.),"Kansas City, MO",3.7,10000+ Employees,1885,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data Analyst – Institutional Clients Group Analytics AVP,$52K - $93K (Glassdoor est.),"New York, NY",3.9,10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Digital Marketing Data Analyst,$36K - $66K (Glassdoor est.),"Reading, PA",3.5,10000+ Employees,1969,Company - Private,Transportation Management,Transportation & Logistics,$5 to $10 billion (USD)
+,Private Equity Strategy and Data Analyst,,"New York, NY",,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Clinical Data Analyst,,"Maple Grove, MN",3.8,5001 to 10000 Employees,1979,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD)
+,Systems and Data Analyst,,"Philadelphia, PA",2.8,501 to 1000 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,Configuration Data Management Analyst,$32K - $67K (Glassdoor est.),"Bridgeton, MO",3.7,5001 to 10000 Employees,1968,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
+,Data Integration Analyst,,"Kansas City, KS",4.0,1 to 50 Employees,1988,Company - Private,Accounting,Accounting & Legal,$5 to $10 million (USD)
+,Analyst – Data Center Operations,$89K - $115K (Glassdoor est.),"Ashburn, VA",4.1,10000+ Employees,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,ERAP Data Analyst,$43K - $44K (Glassdoor est.),"Altamonte Springs, FL",3.9,10000+ Employees,1966,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD)
+,E-commerce Data Analyst,$44K - $79K (Glassdoor est.),"Chicago, IL",3.5,10000+ Employees,1912,Company - Public,Lending,Finance,Unknown / Non-Applicable
+,"Business Analyst III(Healthcare, PM ,Data Analysis)",,"Springfield, OR",3.5,10000+ Employees,1984,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Analyst - Inference and Insights,,California,4.8,51 to 200 Employees,2011,Company - Private,Internet,Information Technology,$50 to $100 million (USD)
+,"Data Analyst, Business Intelligence",$75K - $147K (Glassdoor est.),"Bellevue, WA",4.6,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,"Data Analyst, Product",$49K - $87K (Glassdoor est.),"Salt Lake City, UT",4.4,1001 to 5000 Employees,2000,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,M&A Product Master Data Support Analyst,,"Carlisle, MA",3.5,5001 to 10000 Employees,1946,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+,"Data Analyst - Seattle, WA",,"Seattle, WA",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,"Data Analyst, Product",,"San Francisco, CA",5.0,51 to 200 Employees,2018,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Lead Medical Coding Data Analyst,$11 - $21 Per Hour(Glassdoor est.),"Indianapolis, IN",4.5,51 to 200 Employees,1965,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,"Data Analyst, Chargebacks",,"New York, NY",4.6,501 to 1000 Employees,2013,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Senior Data Quality Analyst,,"Denver, CO",2.2,1 to 50 Employees,,Nonprofit Organization,,,$1 to $5 million (USD)
+,"Data Analyst - Kansas City, MO",,"Kansas City, MO",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,"Data Analyst, Business Intelligence",,"New York, NY",4.2,1001 to 5000 Employees,1999,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+,Full-Time Python Data Analyst Role,,"Fort Lauderdale, FL",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,IT Data Warehousing analyst,,"Troy, MI",4.1,501 to 1000 Employees,2003,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Remote Jr. Data Analyst,,Remote,,Unknown,,,,,
+,Provider Data Analyst,$55K - $71K (Glassdoor est.),"Fort Lauderdale, FL",,Unknown,,,,,
+,Data Analyst- Data Quality,,"Santa Barbara, CA",4.8,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Privacy Analyst,,"Omaha, NE",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,"Statistician-Data Analyst I, FIS University Program",$72K - $78K (Glassdoor est.),"Woodbury, MN",3.8,10000+ Employees,1968,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+,Customer Success Data Analyst,,"Chicago, IL",4.4,51 to 200 Employees,1998,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Research Data Analyst,$43K - $76K (Glassdoor est.),"New Haven, CT",4.5,10000+ Employees,1701,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Strategic Data Analyst,,"Aloma, FL",3.8,5001 to 10000 Employees,1979,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD)
+,"Analyst, Data Visualization",$77K - $87K (Glassdoor est.),"Dallas, TX",4.1,201 to 500 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Marketing Data Analyst,,California,3.4,201 to 500 Employees,2015,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+,Data Analyst - USA West (Remote),,Remote,4.8,51 to 200 Employees,2008,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD)
+,"Data Analyst, Business Intelligence",$82K - $91K (Glassdoor est.),"New York, NY",4.1,1001 to 5000 Employees,2007,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,"Senior Analyst, Data Strategy",$57K - $122K (Glassdoor est.),"Richmond, VA",3.8,5001 to 10000 Employees,1919,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD)
+,"Data Center Logistics Analyst, University Grad",$78K - $116K (Glassdoor est.),"Ashburn, VA",4.3,10000+ Employees,2004,Company - Public,Internet,Information Technology,$5 to $10 billion (USD)
+,Technical Sales Engineer & Digital Data Marketing Analyst (Pittsburgh PA),,"Cranberry Township, PA",,Unknown,,,,,
+,Data Analyst,,"Austin, TX",4.1,1 to 50 Employees,,Contract,,,Unknown / Non-Applicable
+,Data Analyst I,$47K - $57K (Glassdoor est.),"Highland, CA",3.6,1001 to 5000 Employees,1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD)
+,"Data and Policy Analyst, Early Care & Education",,"Alameda, CA",3.9,51 to 200 Employees,1998,Government,State & Regional Agencies,Government,Unknown / Non-Applicable
+,Sales Data Analyst,,"Chicago, IL",4.5,51 to 200 Employees,2010,Company - Private,Food & Beverage Manufacturing,Manufacturing,$25 to $50 million (USD)
+,ELINT Data Analyst,$44K - $81K (Glassdoor est.),"Austin, TX",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Looker Data Analyst,$44K - $85K (Glassdoor est.),"New York, NY",3.9,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD)
+,Fixed Term Junior Data Analyst,$48K - $88K (Glassdoor est.),"New York, NY",3.9,201 to 500 Employees,2001,Company - Private,Internet,Information Technology,$50 to $100 million (USD)
+,"Analyst, Data Visualization",,Texas,4.0,1 to 50 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst III,,"New York, NY",4.4,51 to 200 Employees,2014,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD)
+,IT Systems & Data Analyst,,"Irvine, CA",4.7,1 to 50 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Marketing Data Analyst,,"Evanston, IL",4.3,5001 to 10000 Employees,1851,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst - New York Life Investments,$46K - $81K (Glassdoor est.),"Jersey City, NJ",4.0,10000+ Employees,1845,Company - Private,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD)
+,Data Analyst (Job #1182),$36K - $66K (Glassdoor est.),"Arlington, VA",3.9,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,"Data Analyst, Experienced Professional",,"New York, NY",4.9,201 to 500 Employees,2018,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable
+,"Sr Analyst, Business Analytics – Data Analytics Development",$57K - $98K (Glassdoor est.),"Chicago, IL",3.4,10000+ Employees,2015,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD)
+,"Data Analyst II - Risk Adjustment Analyst - San Antonio, TX",$49K - $79K (Glassdoor est.),"San Antonio, TX",3.6,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Vendor Master Data Analyst - 6+ Month Contract - $17/hr,$40K - $75K (Glassdoor est.),"San Antonio, TX",3.4,1001 to 5000 Employees,1976,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+,Excel Data Analyst,$29K - $40K (Glassdoor est.),"Jacksonville, FL",3.9,1001 to 5000 Employees,1994,Company - Public,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,"Data Engineering Analyst, Finance Data and Analytics",$67K - $98K (Glassdoor est.),"Chicago, IL",4.5,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Integrity Analyst I,$40K - $75K (Glassdoor est.),"Carlsbad, CA",3.8,1 to 50 Employees,1990,Company - Private,Miscellaneous Manufacturing,Manufacturing,$5 to $10 million (USD)
+,Data Analyst,,"Washington, DC",4.8,51 to 200 Employees,1984,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+,GIS Data Analyst,,"San Francisco, CA",3.4,1 to 50 Employees,,Company - Private,,,$5 to $10 million (USD)
+,Marketing Data Analyst,,"Lincoln, NE",,Unknown,,,,,
+,Data Analytics Analyst,,"Wayne, PA",4.2,51 to 200 Employees,1995,Private Practice / Firm,Accounting,Accounting & Legal,$25 to $50 million (USD)
+,Analyst – Data Center Operations,$89K - $115K (Glassdoor est.),"Ashburn, VA",4.1,10000+ Employees,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Data Analyst I - Wholesale,$75K - $85K (Glassdoor est.),"Costa Mesa, CA",4.9,201 to 500 Employees,2011,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable
+,Data Operations Analyst,$32K - $57K (Glassdoor est.),"Chicago, IL",4.0,1001 to 5000 Employees,1972,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD)
+,Data & Insights Analyst,,"Austin, TX",4.4,51 to 200 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD)
+,Market Data Analyst,$31K - $55K (Glassdoor est.),"Reno, NV",3.7,5001 to 10000 Employees,1862,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Sr. Data Analyst,,"Provo, UT",3.1,1001 to 5000 Employees,,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable
+,Part-time Qualitative Data Analyst,,Massachusetts,4.0,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,"Lead Data Analyst, Tax Information Reporting and Control Analytics",$64K - $113K (Glassdoor est.),"Fairport, NY",3.9,1001 to 5000 Employees,1985,Company - Public,Banks & Credit Unions,Finance,$25 to $50 million (USD)
+,Business Data Analyst,$38K - $75K (Glassdoor est.),"Lafayette, IN",3.7,10000+ Employees,1915,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD)
+,Data Support Analyst,,Remote,4.7,51 to 200 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,REMOTE - Pharmacy Data Analyst,,Remote,4.8,1001 to 5000 Employees,2000,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst - Inference and Insights,,California,4.8,51 to 200 Employees,2011,Company - Private,Internet,Information Technology,$50 to $100 million (USD)
+,Sr. Tableau Developer/ Sr. Data Analyst,,"Indianapolis, IN",3.9,201 to 500 Employees,2005,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Science Analyst,,California,3.8,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Integration Analyst,,"Kansas City, KS",4.0,1 to 50 Employees,1988,Company - Private,Accounting,Accounting & Legal,$5 to $10 million (USD)
+,Data Analyst IV (Healthcare Analytics),$74K - $124K (Glassdoor est.),"Tigard, OR",3.5,10000+ Employees,1984,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Analytics Analyst,$54K - $64K (Glassdoor est.),"Industry, CA",3.7,10000+ Employees,2000,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,E-commerce Data Analyst,$44K - $79K (Glassdoor est.),"Chicago, IL",3.5,10000+ Employees,1912,Company - Public,Lending,Finance,Unknown / Non-Applicable
+,Business Data Analyst,,"East Syracuse, NY",3.5,1001 to 5000 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD)
+,"Business Analyst III(Healthcare, PM ,Data Analysis)",,"Springfield, OR",3.5,10000+ Employees,1984,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Healthcare Data Analyst (Remote Opportunity),$65K - $80K (Glassdoor est.),"Washington, DC",4.6,51 to 200 Employees,,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+,Scientist Level 1 - Data Analyst - US,$52K - $88K (Glassdoor est.),"Northbrook, IL",3.9,1001 to 5000 Employees,1995,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,Automation Data Analyst,$60K - $78K (Glassdoor est.),"Saint Louis, MO",3.7,10000+ Employees,1852,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD)
+,Data Analyst,$32K - $59K (Glassdoor est.),"Danville, KY",3.1,5001 to 10000 Employees,1987,Company - Public,IT Services,Information Technology,$25 to $50 million (USD)
+,Data Analyst,,"Lincoln, NE",4.0,51 to 200 Employees,,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Marketing Data Analyst,,"Washington, DC",4.2,201 to 500 Employees,1988,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Lead Medical Coding Data Analyst,$11 - $21 Per Hour(Glassdoor est.),"Indianapolis, IN",4.5,51 to 200 Employees,1965,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,"Data Analyst, Product",,"San Francisco, CA",5.0,51 to 200 Employees,2018,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Senior Data Quality Analyst,,"Denver, CO",2.2,1 to 50 Employees,,Nonprofit Organization,,,$1 to $5 million (USD)
+,"Data Analyst, Chargebacks",,"New York, NY",4.6,501 to 1000 Employees,2013,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Data Analyst III Peri-and-Post Approval Studies,$100K - $114K (Glassdoor est.),"Waltham, MA",3.2,501 to 1000 Employees,2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,"Data Analyst, Product",$49K - $89K (Glassdoor est.),"New York, NY",4.5,501 to 1000 Employees,2011,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD)
+,"Data Analyst - Kansas City, MO",,"Kansas City, MO",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Research Data Analyst,,"Chicago, IL",4.3,5001 to 10000 Employees,1851,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,$47K - $84K (Glassdoor est.),"Brooklyn, NY",4.3,51 to 200 Employees,1999,Company - Private,"Gift, Novelty & Souvenir Stores",Retail,$10 to $25 million (USD)
+,"Data Analyst (New York based, relocation required)",$56K - $104K (Glassdoor est.),"New York, NY",4.2,1001 to 5000 Employees,2005,Company - Public,Internet,Information Technology,$500 million to $1 billion (USD)
+,"Data Analyst, Business Intelligence",,"New York, NY",4.2,1001 to 5000 Employees,1999,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+,SQL Data Integration Analyst,$51K - $64K (Glassdoor est.),"Los Angeles, CA",4.5,1001 to 5000 Employees,1987,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Operations Data Analyst - Advisor Commissions (Remote),$55K - $123K (Glassdoor est.),"Charlotte, NC",3.9,1001 to 5000 Employees,2017,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable
+,Claims Data Analyst,$50K - $87K (Glassdoor est.),"Albany, NY",4.1,501 to 1000 Employees,1984,Nonprofit Organization,Insurance Carriers,Insurance,$25 to $50 million (USD)
+,Data Analyst I,$60K - $63K (Glassdoor est.),"Denver, CO",5.0,51 to 200 Employees,2001,Company - Private,IT Services,Information Technology,$5 to $10 million (USD)
+,Marketing Data Analyst,,"New York, NY",4.7,51 to 200 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+,"Data Analyst, Product",,"Salt Lake City, UT",4.8,51 to 200 Employees,2005,Company - Private,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,Provider Data Analyst,$55K - $71K (Glassdoor est.),"Fort Lauderdale, FL",,Unknown,,,,,
+,Entry Level Data Center Analyst,,"Dallas, TX",3.7,1 to 50 Employees,,Nonprofit Organization,Education Training Services,Education,Unknown / Non-Applicable
+,Remote Jr. Data Analyst,,Remote,,Unknown,,,,,
+,"Data Analyst, Contractor",,United States,,Unknown,,,,,
+,Customer Success Data Analyst,,"Chicago, IL",4.4,51 to 200 Employees,1998,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Data Privacy Analyst,,"Omaha, NE",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,DATA ANALYST,$44K - $78K (Glassdoor est.),"Chicago, IL",2.8,51 to 200 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD)
+,Data Analyst - Clean Cooking (Temporary),,Remote,3.8,1 to 50 Employees,,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,Remote,4.9,51 to 200 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,"Statistician-Data Analyst I, FIS University Program",$72K - $78K (Glassdoor est.),"Woodbury, MN",3.8,10000+ Employees,1968,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+,Jr. Data Analyst,,"Dahlgren, VA",3.8,501 to 1000 Employees,2007,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD)
+,Research Data Analyst,$43K - $76K (Glassdoor est.),"New Haven, CT",4.5,10000+ Employees,1701,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Accessibility Data Analyst (auditor),,"Chicago, IL",4.4,1001 to 5000 Employees,1986,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Division of Intuit,,Senior Business Data Analyst,4.2,5001 to 10000 Employees,1983,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+,"Analyst, Data Visualization",$77K - $87K (Glassdoor est.),"Dallas, TX",4.1,201 to 500 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Visualization Analyst,$30K - $55K (Glassdoor est.),"Chicago, IL",3.1,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Marketing Data Analyst,,California,3.4,201 to 500 Employees,2015,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+,Data Analyst in SQA,,"Boston, MA",4.7,51 to 200 Employees,2011,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Data Analyst Fellow,$65K - $66K (Glassdoor est.),"New York, NY",5.0,1 to 50 Employees,2013,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,QA Data Analyst,,"New York, NY",4.9,1 to 50 Employees,2014,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Business/Data Analyst,$64K - $117K (Glassdoor est.),"Washington, DC",4.0,1 to 50 Employees,2007,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Quantitative/Data Analyst Intern,,"New York, NY",,Unknown,,,,,
+,"Data Analyst, Business Intelligence",$82K - $91K (Glassdoor est.),"New York, NY",4.1,1001 to 5000 Employees,2007,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst- Privacy and Data Policy,,"Washington, DC",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Student Data Analyst,$31K - $43K (Glassdoor est.),"Normal, IL",4.3,1001 to 5000 Employees,1857,College / University,Colleges & Universities,Education,$100 to $500 million (USD)
+,"Data Center Logistics Analyst, University Grad",,"Ashburn, VA",4.3,10000+ Employees,2004,Company - Public,Internet,Information Technology,$5 to $10 billion (USD)
+,"Analyst, Data Analytics",$49K - $88K (Glassdoor est.),"Deerfield, IL",3.2,10000+ Employees,1901,Company - Public,Drug & Health Stores,Retail,$10+ billion (USD)
+,Investment Data Analyst,$121K - $126K (Glassdoor est.),"New York, NY",4.2,501 to 1000 Employees,2001,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+,Data Analyst I,,Remote,3.8,501 to 1000 Employees,1981,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst - USA West (Remote),,Remote,4.8,51 to 200 Employees,2008,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD)
+,Research Data Analyst,,Remote,4.8,51 to 200 Employees,2009,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Austin, TX",4.1,1 to 50 Employees,,Contract,,,Unknown / Non-Applicable
+,Data Analyst - Partnership Operations,,"New York, NY",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Technical Sales Engineer & Digital Data Marketing Analyst (Pittsburgh PA),,"Cranberry Township, PA",,Unknown,,,,,
+,"Data and Policy Analyst, Early Care & Education",,"Alameda, CA",3.9,51 to 200 Employees,1998,Government,State & Regional Agencies,Government,Unknown / Non-Applicable
+,Junior Data Analyst,$50K - $87K (Glassdoor est.),"Arlington, VA",3.9,5001 to 10000 Employees,1924,Company - Private,Accounting,Accounting & Legal,$1 to $2 billion (USD)
+,Data Analyst I,$47K - $57K (Glassdoor est.),"Highland, CA",3.6,1001 to 5000 Employees,1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD)
+,Talent Acquisition Data Analyst,,Illinois,3.4,1001 to 5000 Employees,1995,Company - Public,Internet,Information Technology,$1 to $2 billion (USD)
+,Data Analyst-Technical-Staff,$66K - $110K (Glassdoor est.),"Salt Lake City, UT",3.7,10000+ Employees,1975,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,ELINT Data Analyst,$44K - $81K (Glassdoor est.),"Austin, TX",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Visualization Analyst,$42K - $77K (Glassdoor est.),"Springfield, VA",4.1,10000+ Employees,2013,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD)
+,Analyst - Data Analytics,$34K - $67K (Glassdoor est.),"New York, NY",4.4,201 to 500 Employees,2000,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Science Analyst - Technology Strategic Planning,$106K - $144K (Glassdoor est.),"Pleasanton, CA",4.3,10000+ Employees,2005,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD)
+,Blockchain Data Analyst,,"Tysons Corner, VA",3.3,1001 to 5000 Employees,1989,Company - Public,Computer Hardware & Software,Information Technology,$500 million to $1 billion (USD)
+,Salesfore Data Analyst,,Remote,4.6,51 to 200 Employees,2011,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD)
+,Senior Data Analyst,$39K - $69K (Glassdoor est.),"Plano, TX",3.1,1001 to 5000 Employees,1990,Company - Private,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,Data Visualization Analyst,$42K - $77K (Glassdoor est.),"Springfield, VA",4.1,10000+ Employees,2013,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD)
+,Blockchain Data Analyst,,"Tysons Corner, VA",3.3,1001 to 5000 Employees,1989,Company - Public,Computer Hardware & Software,Information Technology,$500 million to $1 billion (USD)
+,Data Analyst,,"Chicago, IL",4.0,1 to 50 Employees,1988,Company - Private,Accounting,Accounting & Legal,$5 to $10 million (USD)
+,Data Science Analyst - Technology Strategic Planning,$106K - $144K (Glassdoor est.),"Pleasanton, CA",4.3,10000+ Employees,2005,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD)
+,Health Data Analyst / Statistician Intermediate,$31K - $55K (Glassdoor est.),"Ann Arbor, MI",4.4,10000+ Employees,1817,College / University,Colleges & Universities,Education,$5 to $10 billion (USD)
+,"Data Analyst, Business Intelligence",$53K - $107K (Glassdoor est.),"New York, NY",3.9,501 to 1000 Employees,2017,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Looker Data Analyst,$44K - $85K (Glassdoor est.),"New York, NY",3.9,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD)
+,Sales Data Analyst,,"Chicago, IL",4.5,51 to 200 Employees,2010,Company - Private,Food & Beverage Manufacturing,Manufacturing,$25 to $50 million (USD)
+,Fixed Term Junior Data Analyst,$48K - $88K (Glassdoor est.),"New York, NY",3.9,201 to 500 Employees,2001,Company - Private,Internet,Information Technology,$50 to $100 million (USD)
+,Quality Data Analyst,$51K - $88K (Glassdoor est.),"Anchorage, AK",2.8,1 to 50 Employees,1953,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,"Data Analyst, Data Analytics",$58K - $103K (Glassdoor est.),"Oakland, CA",3.2,201 to 500 Employees,1915,Company - Private,Insurance Carriers,Insurance,$25 to $50 million (USD)
+,"Senior Analyst, Data Strategy",$57K - $122K (Glassdoor est.),"Richmond, VA",3.8,5001 to 10000 Employees,1919,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD)
+,"Analyst, Data Visualization",,Texas,4.0,1 to 50 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Quantitative Business Analyst - Strategic Data Solutions,$45K - $83K (Glassdoor est.),"Austin, TX",4.3,10000+ Employees,1976,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data Analyst III,,"New York, NY",4.4,51 to 200 Employees,2014,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD)
+,Recruiting Data Analyst,$72K - $113K (Glassdoor est.),"Palo Alto, CA",3.4,51 to 200 Employees,2004,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+,Data Analyst (FACETS®),,Remote,3.6,1001 to 5000 Employees,1933,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD)
+,Informatics Data Analyst,,"Bronx, NY",3.6,201 to 500 Employees,1985,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Environmental Data Analyst - 1 to 5 Years Experience,$42K - $76K (Glassdoor est.),"New York, NY",4.3,1001 to 5000 Employees,1970,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD)
+,Research Data Analyst,$40K - $72K (Glassdoor est.),"Saddle Brook, NJ",3.9,10000+ Employees,1906,Company - Public,Real Estate,Real Estate,Unknown / Non-Applicable
+,Planning Data Analyst - Mahwah NJ,$58K - $106K (Glassdoor est.),"Mahwah, NJ",3.1,5001 to 10000 Employees,1991,Company - Public,Health Care Products Manufacturing,Manufacturing,$5 to $10 billion (USD)
+,Hotel Data Quality Analyst,,Remote,5.0,1 to 50 Employees,,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,Less than $1 million (USD)
+,Data Analyst III,,"Tampa, FL",3.9,1001 to 5000 Employees,1996,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Marketing Data Analyst,,"Evanston, IL",4.3,5001 to 10000 Employees,1851,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Strategic Data Analyst,,Remote,5.0,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst - Strategy,$54K - $98K (Glassdoor est.),"San Francisco, CA",3.4,501 to 1000 Employees,2001,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,"Data Analyst, Contractor",,United States,,Unknown,,,,,
+,Research/Data Analyst,,"Folsom, CA",4.3,51 to 200 Employees,2001,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+,Technical Data Analyst,,"Covington, KY",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst (GIS),$35K - $64K (Glassdoor est.),"Leander, TX",3.4,1001 to 5000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Data Analyst,,"Springdale, AR",3.7,10000+ Employees,1948,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Secret Cleared Data Analyst,,"Washington, DC",4.0,1001 to 5000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+,Data Analyst - New York Life Investments,$46K - $81K (Glassdoor est.),"Jersey City, NJ",4.0,10000+ Employees,1845,Company - Private,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD)
+,Product Data Analyst,,United States,4.4,501 to 1000 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD)
+,Business and Data Intelligence Analyst,,"Omaha, NE",3.8,1001 to 5000 Employees,2010,Company - Private,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD)
+,Marketing Data Analyst,,"Orlando, FL",5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Summer Intern: Product Data Analyst,$53K - $98K (Glassdoor est.),"New York, NY",4.3,1001 to 5000 Employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Data Analyst (Job #1182),$36K - $66K (Glassdoor est.),"Arlington, VA",3.9,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,"Sr Analyst, Business Analytics – Data Analytics Development",$57K - $98K (Glassdoor est.),"Chicago, IL",3.4,10000+ Employees,2015,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD)
+,Data Analyst (GIS),$35K - $64K (Glassdoor est.),"Leander, TX",3.4,1001 to 5000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Data Analyst,$30K - $64K (Glassdoor est.),"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Insight Analyst,$74K - $95K (Glassdoor est.),"McLean, VA",4.0,10000+ Employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,Research Data Analyst,$35K - $61K (Glassdoor est.),"Boston, MA",4.2,5001 to 10000 Employees,1869,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Marketing Data Analyst,$44K - $86K (Glassdoor est.),"New York, NY",3.8,51 to 200 Employees,2012,Company - Private,Financial Analytics & Research,Finance,Unknown / Non-Applicable
+,Quality Improvement Data Analyst - Nutrition,$35K - $61K (Glassdoor est.),"Boston, MA",4.2,5001 to 10000 Employees,1869,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Global Process Data Analyst,$32K - $61K (Glassdoor est.),"Fort Worth, TX",4.5,1 to 50 Employees,,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD)
+,"Data Analyst, Experienced Professional",,"New York, NY",4.9,201 to 500 Employees,2018,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable
+,Research Data Analyst,$54K - $93K (Glassdoor est.),"San Francisco, CA",4.3,10000+ Employees,1864,College / University,Colleges & Universities,Education,$25 to $50 million (USD)
+,Business Data Analyst,$68K - $80K (Glassdoor est.),"New York, NY",4.0,51 to 200 Employees,2015,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Analyst-Data Analytics Intern,,United States,4.1,5001 to 10000 Employees,,Company - Private,,,Unknown / Non-Applicable
+,"Strategic Data Analyst, Population Health Innovation Institute",$39K - $68K (Glassdoor est.),"Brooklyn Heights, Cuyahoga, OH",4.0,5001 to 10000 Employees,1837,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,"Portfolio Operations - Data Science, Product Analyst",$62K - $109K (Glassdoor est.),"New York, NY",4.0,1001 to 5000 Employees,1985,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD)
+,Data Analyst,,Remote,3.8,1001 to 5000 Employees,2004,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,"Data Visualization Analyst, Operations Strategy & Analytics",$36K - $72K (Glassdoor est.),"Boston, MA",3.5,10000+ Employees,2002,Company - Public,Home Furniture & Housewares Stores,Retail,$5 to $10 billion (USD)
+,eCommerce Data Analyst,,"Waukesha, WI",3.7,10000+ Employees,1948,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Data Governance Analyst,$44K - $79K (Glassdoor est.),"Saint Louis, MO",4.0,10000+ Employees,1922,Company - Private,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD)
+,"Data Analyst, Paid Search",$44K - $85K (Glassdoor est.),"New York, NY",3.9,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD)
+,Research Data Analyst,$39K - $69K (Glassdoor est.),"Miami, FL",4.3,10000+ Employees,,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Master Data Analyst,,"Mount Sterling, IL",4.1,5001 to 10000 Employees,1960,Company - Private,Wholesale,Business Services,$5 to $10 billion (USD)
+,IT Technical Data Analyst,$42K - $75K (Glassdoor est.),"Greensboro, NC",3.5,10000+ Employees,1917,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD)
+,Health Care Data Analyst,$44K - $80K (Glassdoor est.),"Northbrook, IL",3.1,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Grants Manager/Data Analyst,$106K - $137K (Glassdoor est.),"Charlotte, NC",1.0,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst (Lab Technician) Supporting the FBI Laboratory,$43K - $56K (Glassdoor est.),"Quantico, VA",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Data Analyst,,"Birmingham, AL",4.2,501 to 1000 Employees,2000,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,GIS Data Analyst,,"Washington, DC",,Unknown,,,,,
+,Research Data Analyst,$45K - $82K (Glassdoor est.),"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Sr. Data Analyst,,Remote,,Unknown,,,,,
+,"Analyst, Data Management",,"Tacoma, WA",3.5,10000+ Employees,1994,Company - Public,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Visualization & Research Analyst,$36K - $71K (Glassdoor est.),"Scottsdale, AZ",3.2,501 to 1000 Employees,1996,College / University,Colleges & Universities,Education,$10 to $25 million (USD)
+,Investment Data Quality Analyst,$47K - $83K (Glassdoor est.),"Minneapolis, MN",3.9,5001 to 10000 Employees,1902,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD)
+,Senior Data Analyst,,Remote,3.7,201 to 500 Employees,2017,Company - Private,Internet,Information Technology,$500 million to $1 billion (USD)
+,Health Data Analyst,,"Tulsa, OK",,Unknown,,,,,
+,"Analyst, Privacy Operations – Data Privacy Office / Data Governance",$52K - $100K (Glassdoor est.),"Stamford, CT",3.2,1001 to 5000 Employees,1981,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD)
+,Research and Data Systems Analyst 2,$32K - $61K (Glassdoor est.),"Cambridge, MA",4.5,10000+ Employees,1861,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,SHE Data & Analytics Analyst,$50K - $86K (Glassdoor est.),"Loveland, CO",4.0,10000+ Employees,2018,Company - Public,Farm Support Services,Agriculture & Forestry,$5 to $10 billion (USD)
+,DATA ANALYST (TEMPORARY),$48K - $84K (Glassdoor est.),"Seattle, WA",4.3,10000+ Employees,1861,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Research Analyst,$38K - $78K (Glassdoor est.),"Parsippany, NJ",3.9,10000+ Employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+,Arizona School Data Analyst - (AZVA),$38K - $69K (Glassdoor est.),"Glendale, AZ",3.2,5001 to 10000 Employees,1999,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD)
+,Data Analyst Supporting the FBI,$51K - $53K (Glassdoor est.),"Washington, DC",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Field Data Collection Analyst (GIS),$36K - $65K (Glassdoor est.),"Chicago, IL",3.4,1001 to 5000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,(NJ) Data Analyst,,"Jersey City, NJ",3.5,201 to 500 Employees,1960,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable
+,"Data Analyst, Sales",,"McLean, VA",4.4,51 to 200 Employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Attendance and Truancy Data Analyst,$45K - $79K (Glassdoor est.),"Chicago, IL",3.5,10000+ Employees,1883,School / School District,K-12 Education,Education,Unknown / Non-Applicable
+,Data Analyst III,,"Washington, DC",,Unknown,,,,,
+,Analyst Data Access,,"New York, NY",3.8,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Senior Healthcare Data Analyst,,"Chicago, IL",,Unknown,,,,,
+,Technical Data Analyst,,"Washington, DC",3.3,10000+ Employees,1955,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Finance Data Analyst II,$46K - $80K (Glassdoor est.),"Herndon, VA",3.2,5001 to 10000 Employees,1999,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD)
+,Data Security and Data Privacy Analyst,,"San Francisco, CA",4.1,1001 to 5000 Employees,2008,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable
+,IT Data Analyst,,"Sacramento, CA",,Unknown,,,,,
+,Marketing Data Analyst,,United States,,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Counterterrorism Data Exploitation Analyst (Mid-Level),$64K - $109K (Glassdoor est.),"McLean, VA",3.5,1001 to 5000 Employees,1971,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Data Analyst,,"Pittsburgh, PA",,Unknown,,,,,
+,Data Analyst (SQL/Oracle),,"Richmond, VA",,Unknown,,,,,
+,Analyst II - Data Analytics,$64K - $107K (Glassdoor est.),"Detroit, MI",4.1,5001 to 10000 Employees,1919,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD)
+,Data Analyst,$49K - $89K (Glassdoor est.),"Bethesda, MD",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Research Analyst,$38K - $78K (Glassdoor est.),"Parsippany, NJ",3.9,10000+ Employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+,Marketing Data Analyst,$67K - $117K (Glassdoor est.),"Oakland, CA",4.3,5001 to 10000 Employees,1939,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD)
+,Arizona School Data Analyst - (AZVA),$38K - $69K (Glassdoor est.),"Glendale, AZ",3.2,5001 to 10000 Employees,1999,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD)
+,Data Analyst Supporting the FBI,$51K - $53K (Glassdoor est.),"Washington, DC",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,"Data Analyst, Sales",,"McLean, VA",4.4,51 to 200 Employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,(NJ) Data Analyst,,"Jersey City, NJ",3.5,201 to 500 Employees,1960,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable
+,Operations Data Analyst,,"Lansing, MI",3.7,1001 to 5000 Employees,,Subsidiary or Business Segment,Insurance Carriers,Insurance,Unknown / Non-Applicable
+,IT Data Analyst,$32K - $58K (Glassdoor est.),"Coral Gables, FL",4.0,10000+ Employees,,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst Supporting the DEA,$45K - $80K (Glassdoor est.),"Richmond, VA",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Attendance and Truancy Data Analyst,$45K - $79K (Glassdoor est.),"Chicago, IL",3.5,10000+ Employees,1883,School / School District,K-12 Education,Education,Unknown / Non-Applicable
+,Analyst Data Access,,"New York, NY",3.8,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Technical Data Analyst,,"Washington, DC",3.3,10000+ Employees,1955,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Finance Data Analyst II,$46K - $80K (Glassdoor est.),"Herndon, VA",3.2,5001 to 10000 Employees,1999,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD)
+,IT Data Analyst,,"Sacramento, CA",,Unknown,,,,,
+,Marketing Data Analyst,,Georgia,3.7,10000+ Employees,1863,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Link Analyst,$52K - $93K (Glassdoor est.),"Mount Laurel, NJ",3.5,1001 to 5000 Employees,1971,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Data Security and Data Privacy Analyst,,"San Francisco, CA",4.1,1001 to 5000 Employees,2008,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst (Houston),$43K - $56K (Glassdoor est.),"Houston, TX",3.9,10000+ Employees,1966,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD)
+,Counterterrorism Data Exploitation Analyst (Mid-Level),$64K - $109K (Glassdoor est.),"McLean, VA",3.5,1001 to 5000 Employees,1971,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Data Analyst,,"Pittsburgh, PA",,Unknown,,,,,
+,Data Analyst – SQL / Big Data,,"Redmond, WA",4.5,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Marketing Data Analyst,,"Sherman Oaks, CA",4.7,1 to 50 Employees,,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,"City Research Scientist II / Data Analyst, Bureau of HIV",$46K - $101K (Glassdoor est.),"Queens Village, NY",3.5,5001 to 10000 Employees,,Government,Municipal Governments,Government,Unknown / Non-Applicable
+,Data Analyst,$45K - $75K (Glassdoor est.),"Nashville, TN",4.7,51 to 200 Employees,2006,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst,$56K - $100K (Glassdoor est.),"Bethesda, MD",3.5,201 to 500 Employees,1998,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,BSA/AML Data Analytics & Performance Analyst,$58K - $104K (Glassdoor est.),"New York, NY",4.0,10000+ Employees,1898,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Analyst/Programmer,$39K - $68K (Glassdoor est.),"Bloomington, MN",3.6,10000+ Employees,1976,Company - Public,Real Estate,Real Estate,$500 million to $1 billion (USD)
+,Senior Data Analyst,$79K - $90K (Glassdoor est.),"Wilmington, DE",3.5,10000+ Employees,1912,Company - Public,Lending,Finance,Unknown / Non-Applicable
+,Data Analyst - Customer Support,,"Fremont, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,"Data Analyst, Supply Chain (HID1392)",,"Austin, TX",4.3,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Senior Data Science Analyst,,Remote,3.4,10000+ Employees,1975,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Data Analyst,$37K - $67K (Glassdoor est.),"New York, NY",4.0,51 to 200 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Research Analyst Fellow,,"New York, NY",5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Santa Fe, NM",3.1,51 to 200 Employees,,Company - Private,,,$10 to $25 million (USD)
+,Equity Research Data Analyst,$45K - $80K (Glassdoor est.),"Santa Cruz, CA",4.1,1001 to 5000 Employees,1965,College / University,Colleges & Universities,Education,$100 to $500 million (USD)
+,Research Data Analyst,$45K - $82K (Glassdoor est.),"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Journalist - Visualization Analyst,$32K - $76K (Glassdoor est.),"New York, NY",3.8,5001 to 10000 Employees,1918,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD)
+,Data Analyst/Contractor,$56K - $73K (Glassdoor est.),"Philadelphia, PA",3.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Quality Analyst,,Remote,4.5,1 to 50 Employees,2016,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,"Data Analyst, Marketing",$35K - $64K (Glassdoor est.),"New York, NY",4.3,201 to 500 Employees,,Company - Public,,,Unknown / Non-Applicable
+,(Senior/ Lead) Product Analyst - Data Intelligence,$97K - $159K (Glassdoor est.),"San Francisco, CA",4.5,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data Governance Analyst,,"Charlotte, NC",3.1,10000+ Employees,1969,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+,"Data Analyst, High Tech Product & Enablement Platforms",$64K - $101K (Glassdoor est.),"Austin, TX",4.2,10000+ Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Research Data Management Analyst - Kaiser Permanente Bernard J. Tyson School of Medicine,$77K - $94K (Glassdoor est.),"Pasadena, CA",4.1,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Data Analyst - Payments,$47K - $87K (Glassdoor est.),"Santa Barbara, CA",4.6,1001 to 5000 Employees,2006,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Data Center Analyst,$26K - $36K (Glassdoor est.),"Atlanta, GA",4.4,10000+ Employees,1970,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Cleared Data Analyst,,"Andrews AFB, MD",4.4,1 to 50 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Finance Data Analyst,$48K - $75K (Glassdoor est.),"Bronx, NY",3.1,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst/Programmer,$44K - $47K (Glassdoor est.),"Falls Church, VA",2.6,1 to 50 Employees,1990,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD)
+,Data and Research Analyst,$40K - $107K (Glassdoor est.),"Tampa, FL",3.9,10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,PIM Manager/Data Analyst,$73K - $130K (Glassdoor est.),"Dallas, TX",3.0,201 to 500 Employees,1968,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD)
+,"Intern, Statistician-Data Analyst, Summer FIS University Program 2021",$41K - $80K (Glassdoor est.),"Woodbury, MN",3.8,10000+ Employees,1968,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+,Senior SAS Programmer (Data Analyst) - Patient-Centered Research,,"Bethesda, MD",3.2,501 to 1000 Employees,2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,Temporary Data Analyst,,"Oakland, CA",4.6,1 to 50 Employees,,Nonprofit Organization,,,$1 to $5 million (USD)
+,DATA INFORMATICS ANALYST,$42K - $67K (Glassdoor est.),"Madison, WI",4.6,51 to 200 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Supply Chain Data Analyst,$78K - $137K (Glassdoor est.),"Santa Clara, CA",4.2,1001 to 5000 Employees,2004,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD)
+,Data Analyst-Top Secret/SCI clearance required,,"Washington, DC",,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.9,1 to 50 Employees,1984,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD)
+,Data Analyst- Cardiac Surgery Services,$44K - $68K (Glassdoor est.),"Chicago, IL",4.0,5001 to 10000 Employees,1837,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Analyst,$47K - $91K (Glassdoor est.),"Boston, MA",2.7,201 to 500 Employees,1999,Company - Private,Video Games,Media,Unknown / Non-Applicable
+,Data Provider Analyst,,"Wilmington, DE",3.9,10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,COLLEGE DATA ANALYST,$40K - $72K (Glassdoor est.),"Houston, TX",3.9,1001 to 5000 Employees,1998,School / School District,K-12 Education,Education,$50 to $100 million (USD)
+,Data Analyst / Driver Messenger Supporting the USMS,$46K - $48K (Glassdoor est.),"Miami, FL",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Data Analyst,,"London, OH",3.3,51 to 200 Employees,1946,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Technical Data Analyst,$79K - $139K (Glassdoor est.),"San Francisco, CA",4.0,10000+ Employees,2009,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,Texas,3.5,501 to 1000 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Life Science Data Analyst,,"Boston, MA",4.4,1 to 50 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Remote Data Collections Analyst,,"Bristol, CT",3.6,501 to 1000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Digital Media Data Analyst (Remote),,"Costa Mesa, CA",3.0,201 to 500 Employees,2004,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,"Market Data Analyst, West Palm Beach, FL",$31K - $57K (Glassdoor est.),"West Palm Beach, FL",3.6,201 to 500 Employees,1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD)
+,Systems and Data Analyst 2,$72K - $93K (Glassdoor est.),"Englewood, CO",3.7,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,Data Analyst,$27K - $49K (Glassdoor est.),"Grand Prairie, TX",2.6,1001 to 5000 Employees,1933,Company - Private,Transportation Management,Transportation & Logistics,$100 to $500 million (USD)
+,Data Transformation Analyst,$40K - $71K (Glassdoor est.),"Atlanta, GA",3.5,10000+ Employees,1992,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,"RESEARCH DATA ANALYST, Boston University School of Public Health",$43K - $68K (Glassdoor est.),"Boston, MA",4.3,10000+ Employees,1839,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Privacy Analyst,$47K - $53K (Glassdoor est.),"Quincy, MA",3.3,51 to 200 Employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Data Integrity Analyst,$41K - $77K (Glassdoor est.),"Jersey City, NJ",3.5,1 to 50 Employees,1919,Company - Private,Health Care Products Manufacturing,Manufacturing,$25 to $50 million (USD)
+,EDI Data Analyst,,"Fort Washington, PA",4.4,1 to 50 Employees,2003,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+,Marketing Data Analyst II,,"Overland Park, KS",3.2,1001 to 5000 Employees,1985,Company - Public,Insurance Carriers,Insurance,$100 to $500 million (USD)
+,Data Enhancement Team: Analyst,$34K - $62K (Glassdoor est.),"Livingston, NJ",4.3,201 to 500 Employees,1994,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Research Data Analyst,,"Washington, DC",,Unknown,,,,,
+,"Advertising Data Analyst, Business Intelligence",$61K - $122K (Glassdoor est.),"New York, NY",4.1,1001 to 5000 Employees,2007,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Full-Time Python Data Analyst Role,,"Fort Lauderdale, FL",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Data Conversion Analyst,,"Wilmington, DE",1.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Division of Intuit,,Technical Data Analyst,4.2,5001 to 10000 Employees,1983,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+,Supply Chain Data Analyst,$84K - $107K (Glassdoor est.),"Waltham, MA",3.9,1 to 50 Employees,,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Data Analyst - Healthline,,Remote,3.6,1001 to 5000 Employees,2000,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD)
+,Recruiting Data Analyst,,"Palo Alto, CA",3.5,51 to 200 Employees,,Company - Private,Advertising & Marketing,Business Services,$1 to $5 million (USD)
+,Data Analyst - Mobile Gaming - 100% REMOTE,,"Addison, TX",4.9,51 to 200 Employees,2018,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Configuration/Data Management Analyst,$62K - $70K (Glassdoor est.),"Huntsville, AL",5.0,1 to 50 Employees,,Company - Private,,,Less than $1 million (USD)
+,Content Data Analyst,,"Los Angeles, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Data and Research Analyst,$31K - $78K (Glassdoor est.),"Tampa, FL",3.9,1001 to 5000 Employees,,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,"Data and Reporting Analyst, Strategic Planning & Delivery-6",$45K - $65K (Glassdoor est.),"Springfield, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,Sr Data Analyst,$72K - $124K (Glassdoor est.),"Indianapolis, IN",,1 to 50 Employees,1985,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+,Data Analyst,$31K - $58K (Glassdoor est.),"Sacramento, CA",3.4,201 to 500 Employees,,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,OSP Data Analyst,$29K - $51K (Glassdoor est.),"Evansville, IN",4.5,1001 to 5000 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable
+,Trading & Data Analyst,,"New York, NY",3.6,201 to 500 Employees,1985,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Technology Analyst,,"Washington, DC",4.0,1001 to 5000 Employees,1996,Company - Public,IT Services,Information Technology,$100 to $500 million (USD)
+,Health Care Data Analyst,$44K - $80K (Glassdoor est.),"Northbrook, IL",3.1,10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Data Quality Analyst,$44K - $79K (Glassdoor est.),"Washington, DC",4.3,1 to 50 Employees,1984,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+,Data Analyst - Supply Chain Solution Specialist - USDC,$51K - $92K (Glassdoor est.),"Gilbert, AZ",3.9,10000+ Employees,1850,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD)
+,Compliance Data Analyst,$75K - $134K (Glassdoor est.),"New York, NY",4.0,5001 to 10000 Employees,2012,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Business/ Data Analyst,$63K - $118K (Glassdoor est.),"Chicago, IL",3.6,1001 to 5000 Employees,1898,Company - Public,Commercial Equipment Rental,Business Services,$1 to $2 billion (USD)
+,Credit Data Analyst,$58K - $103K (Glassdoor est.),"New York, NY",4.6,501 to 1000 Employees,1997,Company - Public,Financial Transaction Processing,Finance,Unknown / Non-Applicable
+,Seagull Scientific Business / Data Analyst,,Remote,,Unknown,,,,,
+,Ecommerce Data Analyst,,"Hoboken, NJ",2.6,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,ARP Master Data Analyst,,"Ann Arbor, MI",3.5,10000+ Employees,1957,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,AVP - Data Analyst - ICG EAP NY,$70K - $101K (Glassdoor est.),"New York, NY",3.9,10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,"Operations Analyst, Master Data Office",$37K - $65K (Glassdoor est.),"Dublin, CA",3.4,10000+ Employees,1957,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10 to $25 million (USD)
+,Business Data Analyst,,"Temple Terrace, FL",3.4,501 to 1000 Employees,1980,Unknown,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Division of Intuit,,"Senior Business Data Analyst, Operations Insights",4.2,5001 to 10000 Employees,1983,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+,Data Analyst II,,"Arlington, VA",4.1,51 to 200 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Looker Data Analyst,,Remote,4.0,1 to 50 Employees,2013,Company - Public,,,$10 to $25 million (USD)
+,Data Analyst - Contract to Perm Role,$45K - $82K (Glassdoor est.),"Boston, MA",2.6,1 to 50 Employees,,Nonprofit Organization,Research & Development,Business Services,Unknown / Non-Applicable
+,Data Privacy Analyst - Global Analytics,$45K - $81K (Glassdoor est.),"San Diego, CA",4.1,5001 to 10000 Employees,1999,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD)
+,Data Analyst,,"Bowie, MD",,Unknown,,,,,
+,Quantitative Analyst/Data Scientist,$62K - $129K (Glassdoor est.),"Charlotte, NC",4.5,1001 to 5000 Employees,1914,Nonprofit Organization,Banks & Credit Unions,Finance,$5 to $10 billion (USD)
+,Data Analyst- Privacy and Data Policy,,"Washington, DC",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,"Data Analyst, Retail Media",$50K - $95K (Glassdoor est.),"New York, NY",4.0,1001 to 5000 Employees,2005,Company - Public,Internet,Information Technology,$2 to $5 billion (USD)
+,Data Analyst - Calibration and Test Automation,,"Sunnyvale, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Governance Analyst,$41K - $74K (Glassdoor est.),"Phoenix, AZ",4.5,201 to 500 Employees,1994,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD)
+,Business Intelligence Analyst - Data Scientist,$47K - $94K (Glassdoor est.),"Bonita Springs, FL",3.6,1001 to 5000 Employees,1965,Company - Public,Consumer Product Rental,Consumer Services,$1 to $2 billion (USD)
+,Data Visualization & Research Analyst,$36K - $71K (Glassdoor est.),"Scottsdale, AZ",3.2,501 to 1000 Employees,1996,College / University,Colleges & Universities,Education,$10 to $25 million (USD)
+,Data Migration Analyst,,"Hopkinton, MA",5.0,1 to 50 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst II,$61K - $103K (Glassdoor est.),St Louis Park,3.5,1001 to 5000 Employees,1940,Company - Public,Financial Transaction Processing,Finance,$1 to $2 billion (USD)
+,"Data Analyst, Self-Driving",$82K - $144K (Glassdoor est.),"Palo Alto, CA",4.3,1001 to 5000 Employees,2009,Company - Private,Transportation Equipment Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Business Systems Analyst – Customer Data Analytics,$47K - $90K (Glassdoor est.),"Austin, TX",4.3,501 to 1000 Employees,2006,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD)
+,Data Analyst/Business Systems Analyst,$52K - $96K (Glassdoor est.),"Tampa, FL",3.5,1001 to 5000 Employees,1994,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Senior Data Analyst,,"Austin, TX",4.3,201 to 500 Employees,1987,Private Practice / Firm,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Data Migration Analyst,,"Hopkinton, MA",5.0,1 to 50 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst II,$61K - $103K (Glassdoor est.),St Louis Park,3.5,1001 to 5000 Employees,1940,Company - Public,Financial Transaction Processing,Finance,$1 to $2 billion (USD)
+,"Data Analyst, Self-Driving",$82K - $144K (Glassdoor est.),"Palo Alto, CA",4.3,1001 to 5000 Employees,2009,Company - Private,Transportation Equipment Manufacturing,Manufacturing,Unknown / Non-Applicable
+,Data Quality Analyst,$23K - $50K (Glassdoor est.),"Tallahassee, FL",,Unknown,,,,,
+,Business Systems Analyst – Customer Data Analytics,$47K - $90K (Glassdoor est.),"Austin, TX",4.3,501 to 1000 Employees,2006,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD)
+,Data Analyst - Calibration and Test Automation,,"Sunnyvale, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Marketing Data Analyst,$54K - $100K (Glassdoor est.),"New York, NY",4.1,1001 to 5000 Employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD)
+,Logistics Data Analyst,,"Newark, CA",4.0,1001 to 5000 Employees,2007,Company - Private,Transportation Equipment Manufacturing,Manufacturing,Unknown / Non-Applicable
+,"Data Analyst - Eden Prairie, MN or Telecommute",$44K - $79K (Glassdoor est.),"Eden Prairie, MN",3.6,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,"Data Analyst, Business Intelligence",$51K - $103K (Glassdoor est.),"Seattle, WA",3.1,1001 to 5000 Employees,2007,Company - Public,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,SQL Data analyst + Support Exp.,,"Redwood City, CA",4.1,1 to 50 Employees,,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD)
+,Data Scientist and Business Analyst,$95K - $148K (Glassdoor est.),"Bellevue, WA",4.4,10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data Technology Analyst (Summer 2021 Start Date),$44K - $62K (Glassdoor est.),"Washington, DC",4.0,1001 to 5000 Employees,1996,Company - Public,IT Services,Information Technology,$100 to $500 million (USD)
+,Senior Data Analyst,$83K - $92K (Glassdoor est.),"Columbus, IN",4.0,10000+ Employees,1919,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD)
+,HRIS Data Analyst,$42K - $54K (Glassdoor est.),"Colorado Springs, CO",4.4,1001 to 5000 Employees,1941,Nonprofit Organization,Religious Organizations,Non-Profit,$100 to $500 million (USD)
+,Data Analytics - Data Analyst - Predictive Analytics,,Remote,3.0,51 to 200 Employees,2011,Company - Private,Telecommunications Services,Telecommunications,$50 to $100 million (USD)
+,Procurement Data Analyst,$49K - $87K (Glassdoor est.),"Westminster, CO",4.1,10000+ Employees,1880,Company - Public,Aerospace & Defense,Aerospace & Defense,$5 to $10 billion (USD)
+,"Analyst, Data Management",,"Tacoma, WA",3.5,10000+ Employees,1994,Company - Public,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Scientific Data Analyst,,Virginia,3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Quality Analyst,$38K - $69K (Glassdoor est.),"Colchester, VT",3.6,201 to 500 Employees,1972,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data/BI Analyst NYC,,"New York, NY",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Data Visualization & Research Analyst,$36K - $71K (Glassdoor est.),"Scottsdale, AZ",3.2,501 to 1000 Employees,1996,College / University,Colleges & Universities,Education,$10 to $25 million (USD)
+,Data and Reporting Analyst - Workday SME,,"New York, NY",4.8,51 to 200 Employees,2016,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Investment Data Quality Analyst,$47K - $83K (Glassdoor est.),"Minneapolis, MN",3.9,5001 to 10000 Employees,1902,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD)
+,Data Analyst,,"Alexandria, VA",4.1,201 to 500 Employees,2009,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+,Digital Marketing Data Analyst,$45K - $55K (Glassdoor est.),"Pittsburgh, PA",3.8,10000+ Employees,1902,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+,"Data and Integrations Analyst - Minnetonka, MN",$42K - $84K (Glassdoor est.),"Minnetonka, MN",3.6,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Sports Science Data Analyst,$63K - $113K (Glassdoor est.),"Ft Carson, CO",4.3,51 to 200 Employees,2007,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+,Looker Data Analyst,,California,5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Senior Data Analyst,,Remote,3.7,201 to 500 Employees,2017,Company - Private,Internet,Information Technology,$500 million to $1 billion (USD)
+,"Data Steward, Modeler, Analyst, Scientist, etc.",$30K - $40K (Glassdoor est.),"Tampa, FL",4.4,201 to 500 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Data Analyst with ServiceNow - Remote,,"Charlotte, NC",3.4,1001 to 5000 Employees,1940,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,"Wealth Management, Client Data Analyst",$46K - $83K (Glassdoor est.),"Plano, TX",4.0,10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,"Associate Analyst, Data Intelligence",$75K - $92K (Glassdoor est.),"Minneapolis, MN",4.4,201 to 500 Employees,1993,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$50 to $100 million (USD)
+,Data Management Business Analyst,$42K - $85K (Glassdoor est.),"Chicago, IL",4.0,10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,"Data Analyst, Compliance",$67K - $90K (Glassdoor est.),"New York, NY",3.8,10000+ Employees,1898,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Finance Data Analyst,,"Harris, NY",3.4,1001 to 5000 Employees,1954,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD)
+,Marketing Analyst/ Data Scientist,$51K - $88K (Glassdoor est.),"Herndon, VA",3.2,5001 to 10000 Employees,1999,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD)
+,Technical Data Analyst,$89K - $129K (Glassdoor est.),"Lancaster, PA",3.7,201 to 500 Employees,1999,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD)
+,Data Analyst Supporting the FBI,$51K - $53K (Glassdoor est.),"Washington, DC",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Data Management Analyst,$40K - $86K (Glassdoor est.),"Roswell, GA",4.0,10000+ Employees,1908,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD)
+,Data Center Analyst,,"Greenwood, SC",3.4,1001 to 5000 Employees,1951,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,$39K - $68K (Glassdoor est.),"Jacksonville, FL",4.0,1001 to 5000 Employees,,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Marketing Data Analyst,$44K - $87K (Glassdoor est.),"Redwood City, CA",3.7,51 to 200 Employees,2006,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable
+,DATA ANALYST (TEMPORARY),$48K - $84K (Glassdoor est.),"Seattle, WA",4.3,10000+ Employees,1861,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Credit Risk Data Analyst,,"Hopkins, MN",3.7,10000+ Employees,1863,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,SHE Data & Analytics Analyst,$50K - $86K (Glassdoor est.),"Loveland, CO",4.0,10000+ Employees,2018,Company - Public,Farm Support Services,Agriculture & Forestry,$5 to $10 billion (USD)
+,Data Informatics Analyst,,"Sunnyvale, CA",4.9,1 to 50 Employees,,Company - Public,,,$5 to $10 million (USD)
+,"Digital/Data Analyst, Marketing",,"Jacksonville, FL",3.6,501 to 1000 Employees,1982,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD)
+,Data Research Analyst,$38K - $78K (Glassdoor est.),"Parsippany, NJ",3.9,10000+ Employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+,Arizona School Data Analyst - (AZVA),$38K - $69K (Glassdoor est.),"Glendale, AZ",3.2,5001 to 10000 Employees,1999,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD)
+,Sales Data Analyst,,California,4.4,1 to 50 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD)
+,Tableau Data Analyst,$38K - $53K (Glassdoor est.),"Durham, NC",3.5,5001 to 10000 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,(NJ) Data Analyst,,"Jersey City, NJ",3.5,201 to 500 Employees,1960,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable
+,Senior Data Analyst - Credit Risk Mgmt,$58K - $102K (Glassdoor est.),"Philadelphia, PA",3.9,10000+ Employees,1963,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+,"Data Analyst, Sales",,"McLean, VA",4.4,51 to 200 Employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Data Analyst II - Medicine,,"Bethesda, MD",3.9,1001 to 5000 Employees,1983,Nonprofit Organization,Research & Development,Business Services,$100 to $500 million (USD)
+,Business Data Analyst,$45K - $83K (Glassdoor est.),"Brooklyn, NY",3.6,1001 to 5000 Employees,1906,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,IT Data Analyst,$32K - $58K (Glassdoor est.),"Coral Gables, FL",4.0,10000+ Employees,,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst Supporting the DEA,$45K - $80K (Glassdoor est.),"Richmond, VA",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Technical Data Analyst,,"Washington, DC",3.3,10000+ Employees,1955,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Finance Data Analyst II,$46K - $80K (Glassdoor est.),"Herndon, VA",3.2,5001 to 10000 Employees,1999,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD)
+,Sales Data Analyst ( Strong excel),$48K - $67K (Glassdoor est.),"Wilmington, DE",4.4,1 to 50 Employees,2003,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+,Data IT Hospital Analyst,,"Milledgeville, GA",3.5,1 to 50 Employees,,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Product Data Analyst,$43K - $66K (Glassdoor est.),"Mundelein, IL",3.8,10000+ Employees,1966,Company - Private,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD)
+,Marketing Data Analyst,,Georgia,3.7,10000+ Employees,1863,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Security and Data Privacy Analyst,,"San Francisco, CA",4.1,1001 to 5000 Employees,2008,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable
+,Remote SQL Data Analyst - No Corp to Corp,,"Arlington, VA",,1 to 50 Employees,,Unknown,,,Unknown / Non-Applicable
+,Recruiting Data Analyst,$43K - $77K (Glassdoor est.),"Plymouth, MI",4.2,1001 to 5000 Employees,1985,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Data Analyst/Data Modeler,$46K - $83K (Glassdoor est.),"Jersey City, NJ",3.8,10000+ Employees,1799,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Marketing Data Analyst,,United States,,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Pittsburgh, PA",,Unknown,,,,,
+,Counterterrorism Data Exploitation Analyst (Mid-Level),$64K - $109K (Glassdoor est.),"McLean, VA",3.5,1001 to 5000 Employees,1971,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Product Data Analyst,,Remote,3.3,201 to 500 Employees,2001,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Data Analyst – SQL / Big Data,,"Redmond, WA",4.5,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Marketing Data Analyst,,"Sherman Oaks, CA",4.7,1 to 50 Employees,,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst - Customer Support,,"Fremont, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,$45K - $75K (Glassdoor est.),"Nashville, TN",4.7,51 to 200 Employees,2006,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,"City Research Scientist II / Data Analyst, Bureau of HIV",$46K - $101K (Glassdoor est.),"Queens Village, NY",3.5,5001 to 10000 Employees,,Government,Municipal Governments,Government,Unknown / Non-Applicable
+,BSA/AML Data Analytics & Performance Analyst,$58K - $104K (Glassdoor est.),"New York, NY",4.0,10000+ Employees,1898,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Analyst,$56K - $100K (Glassdoor est.),"Bethesda, MD",3.5,201 to 500 Employees,1998,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,Data Business Analyst,,"Dallas, TX",,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Operation Project Analyst-Data Center,$68K - $77K (Glassdoor est.),"Fremont, CA",3.8,201 to 500 Employees,1987,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+,Data Analyst/Programmer,$39K - $68K (Glassdoor est.),"Bloomington, MN",3.6,10000+ Employees,1976,Company - Public,Real Estate,Real Estate,$500 million to $1 billion (USD)
+,Client Services Data Analyst,,"Rosemont, IL",3.9,51 to 200 Employees,,Company - Private,,,$50 to $100 million (USD)
+,Data Research Analyst Fellow,,"New York, NY",5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Santa Fe, NM",3.1,51 to 200 Employees,,Company - Private,,,$10 to $25 million (USD)
+,Research Data Analyst,$45K - $82K (Glassdoor est.),"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst/Contractor,$56K - $73K (Glassdoor est.),"Philadelphia, PA",3.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Equity Research Data Analyst,$45K - $80K (Glassdoor est.),"Santa Cruz, CA",4.1,1001 to 5000 Employees,1965,College / University,Colleges & Universities,Education,$100 to $500 million (USD)
+,"Data Analyst, Marketing",$35K - $64K (Glassdoor est.),"New York, NY",4.3,201 to 500 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Quality Analyst,,Remote,4.5,1 to 50 Employees,2016,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Safety Data Analyst,$37K - $73K (Glassdoor est.),"Dallas, OR",4.2,1001 to 5000 Employees,1999,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+,Business Analyst (Data Steward),,"Steward, IL",3.5,201 to 500 Employees,2007,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Cybersecurity Data Loss Prevention (DLP) Governance Analyst,$36K - $49K (Glassdoor est.),"West Valley City, UT",3.7,10000+ Employees,,Company - Public,Banks & Credit Unions,Finance,$2 to $5 billion (USD)
+,Data Research Analyst Fellow,,"New York, NY",5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Client Services Data Analyst,,"Rosemont, IL",3.9,51 to 200 Employees,,Company - Private,,,$50 to $100 million (USD)
+,CX Data Analyst,$39K - $73K (Glassdoor est.),"Provo, UT",4.1,1001 to 5000 Employees,1984,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD)
+,Data Analyst,,"Santa Fe, NM",3.1,51 to 200 Employees,,Company - Private,,,$10 to $25 million (USD)
+,Equity Research Data Analyst,$45K - $80K (Glassdoor est.),"Santa Cruz, CA",4.1,1001 to 5000 Employees,1965,College / University,Colleges & Universities,Education,$100 to $500 million (USD)
+,Research Data Analyst,$45K - $82K (Glassdoor est.),"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst - Finance,$42K - $80K (Glassdoor est.),"Los Angeles, CA",3.8,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst/Tableau Developer,,"Springfield, VA",4.4,51 to 200 Employees,1998,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD)
+,"Data Analyst, Marketing",$35K - $64K (Glassdoor est.),"New York, NY",4.3,201 to 500 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Quality Analyst,,Remote,4.5,1 to 50 Employees,2016,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Research Data Analyst- Boston CCBHC,$41K - $74K (Glassdoor est.),"Boston, MA",4.0,1001 to 5000 Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Business Analyst (Data Steward),,"Steward, IL",3.5,201 to 500 Employees,2007,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Governance Analyst,,"Charlotte, NC",3.1,10000+ Employees,1969,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+,(Senior/ Lead) Product Analyst - Data Intelligence,$97K - $159K (Glassdoor est.),"San Francisco, CA",4.5,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data and Automation Analyst - VP,,"New York, NY",4.0,10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst (Remote Opportunity),$50K - $91K (Glassdoor est.),"Austin, TX",4.6,51 to 200 Employees,,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+,Research Data Management Analyst - Kaiser Permanente Bernard J. Tyson School of Medicine,$77K - $94K (Glassdoor est.),"Pasadena, CA",4.1,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,"Data Analyst, High Tech Product & Enablement Platforms",$64K - $101K (Glassdoor est.),"Austin, TX",4.2,10000+ Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Data Center Analyst,$26K - $36K (Glassdoor est.),"Atlanta, GA",4.4,10000+ Employees,1970,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Tysons Corner, VA",4.5,1001 to 5000 Employees,2000,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Technical Data Analyst -(Pharmacy/Healthcare industry preferred),$42K - $76K (Glassdoor est.),"Florham Park, NJ",3.1,501 to 1000 Employees,2004,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD)
+,Research Data Analyst,$36K - $65K (Glassdoor est.),"Baltimore, MD",4.3,10000+ Employees,1876,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Princeton, NJ",,Unknown,,,,,
+,Mid-Level Data Quality Analyst,,"Washington, DC",4.5,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Healthcare Payer - Data Analyst,$47K - $85K (Glassdoor est.),"Wellesley, MA",3.7,10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Finance Data Analyst,$48K - $75K (Glassdoor est.),"Bronx, NY",3.1,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Temporary Data Analyst,,"Oakland, CA",4.6,1 to 50 Employees,,Nonprofit Organization,,,$1 to $5 million (USD)
+,Data Analyst/Programmer,$44K - $47K (Glassdoor est.),"Falls Church, VA",2.6,1 to 50 Employees,1990,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD)
+,"Banking, Capital Markets and Advisory (BCMA) - Investment Banking, Summer Analyst: Data Science Analyst, M&A Strategic Shareholder Advisory - New York",$72K - $93K (Glassdoor est.),"New York, NY",3.9,1001 to 5000 Employees,,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Data Analyst I/II - Patient-Centered Research,$52K - $92K (Glassdoor est.),"Seattle, WA",3.2,501 to 1000 Employees,2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,Life Science Data Analyst,,"Boston, MA",4.4,1 to 50 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,QA Analyst – Data Analytics,$64K - $115K (Glassdoor est.),"San Jose, CA",4.2,10000+ Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,"Analyst I, Data Analytics",$28K - $51K (Glassdoor est.),"Boulder, CO",3.0,1001 to 5000 Employees,2007,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$2 to $5 billion (USD)
+,Remote Data Collections Analyst,,"Bristol, CT",3.6,501 to 1000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,"Market Data Analyst, West Palm Beach, FL",$31K - $57K (Glassdoor est.),"West Palm Beach, FL",3.6,201 to 500 Employees,1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD)
+,Systems and Data Analyst 2,$72K - $93K (Glassdoor est.),"Englewood, CO",3.7,10000+ Employees,1916,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD)
+,Data Analyst III,$44K - $80K (Glassdoor est.),"Atlanta, GA",3.2,501 to 1000 Employees,,Company - Private,,,$100 to $500 million (USD)
+,University Relations - Healthcare Data Analyst Intern - Chicago,,"Chicago, IL",3.8,10000+ Employees,1936,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable
+,Data Analytics Analyst/Trainer,$36K - $63K (Glassdoor est.),"Eugene, OR",4.2,5001 to 10000 Employees,1872,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Claims Data Analyst,$34K - $61K (Glassdoor est.),"Scottsdale, AZ",3.1,501 to 1000 Employees,1983,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst – St. Peter's Hospital – Full Time Days,$39K - $68K (Glassdoor est.),"Albany, NY",3.7,10000+ Employees,2011,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,SAS Data Analyst,,Massachusetts,3.8,10000+ Employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD)
+,"RESEARCH DATA ANALYST, Boston University School of Public Health",$43K - $68K (Glassdoor est.),"Boston, MA",4.3,10000+ Employees,1839,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Quality Analyst,$29K - $53K (Glassdoor est.),"Atlanta, GA",3.6,5001 to 10000 Employees,2000,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD)
+,Data Analyst III,$55K - $94K (Glassdoor est.),"Indianapolis, IN",3.5,10000+ Employees,1984,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Transformation Analyst,$40K - $71K (Glassdoor est.),"Atlanta, GA",3.5,10000+ Employees,1992,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Data Integrity Analyst,$41K - $77K (Glassdoor est.),"Jersey City, NJ",3.5,1 to 50 Employees,1919,Company - Private,Health Care Products Manufacturing,Manufacturing,$25 to $50 million (USD)
+,Pharmacy Data Analyst,$27K - $50K (Glassdoor est.),"Louisville, KY",2.8,501 to 1000 Employees,,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,Data Analyst Engineering Data & Analytics,$48K - $83K (Glassdoor est.),"Atlanta, GA",4.0,10000+ Employees,1962,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Content Data Analyst,,"Los Angeles, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Privacy Analyst,$47K - $53K (Glassdoor est.),"Quincy, MA",3.3,51 to 200 Employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Product Data Analyst / Data Scientist,$61K - $115K (Glassdoor est.),"Mountain View, CA",4.2,51 to 200 Employees,2013,Company - Public,Internet,Information Technology,$50 to $100 million (USD)
+,Research Data Analyst,,"Washington, DC",,Unknown,,,,,
+,EDI Data Analyst,,"Fort Washington, PA",4.4,1 to 50 Employees,2003,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+,Full-Time Python Data Analyst Role,,"Fort Lauderdale, FL",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Reporting Support Specialist & Data Analyst,,"Raleigh, NC",2.0,1 to 50 Employees,,Company - Private,Health Care Services & Hospitals,Health Care,Less than $1 million (USD)
+,Laboratory Data Analyst,$51K - $53K (Glassdoor est.),"Quantico, VA",3.5,1001 to 5000 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Data Analyst III,,"Atlanta, GA",3.1,1 to 50 Employees,2008,Company - Private,IT Services,Information Technology,$5 to $10 million (USD)
+,Data Analyst - Healthline,,Remote,3.6,1001 to 5000 Employees,2000,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD)
+,Analyst (Global Data and Analytics),,"Tempe, AZ",2.4,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Business Analyst - Data Engineering,,"New York, NY",4.1,501 to 1000 Employees,2009,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$100 to $500 million (USD)
+,COLLEGE DATA ANALYST,$40K - $72K (Glassdoor est.),"Houston, TX",3.9,1001 to 5000 Employees,1998,School / School District,K-12 Education,Education,$50 to $100 million (USD)
+,Data Reporting Analyst,,"Rockville, MD",4.4,1 to 50 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Market Data Analyst - Global Securities Master (GSM),,"San Jose, CA",3.5,51 to 200 Employees,2006,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Business Data Analyst,$47K - $87K (Glassdoor est.),"Medford, MA",3.5,1001 to 5000 Employees,1972,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD)
+,Data Provider Analyst,,"Wilmington, DE",3.9,10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst Risk Adjustment,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Innovation & Data Analyst,,"San Francisco, CA",,Unknown,,,,,
+,US - Data Analyst,$28K - $49K (Glassdoor est.),"Danville, KY",3.7,51 to 200 Employees,,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+,Data Visualization Analyst,$67K - $113K (Glassdoor est.),"Carmel, IN",3.8,501 to 1000 Employees,1998,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Data/Business Intelligence Analyst,$52K - $93K (Glassdoor est.),"Nashville, TN",3.7,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+,Data Transfer Analyst/Engineer,,"Harrisburg, PA",4.4,201 to 500 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Data Analyst II (Contract),,Remote,3.7,501 to 1000 Employees,2009,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Business Intelligence Analyst / Data Scientist,$45K - $90K (Glassdoor est.),"New York, NY",3.1,51 to 200 Employees,1974,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD)
+,Sr Data Analyst,$48K - $137K (Glassdoor est.),"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,IT Data Analyst,,"Saint Louis, MO",,Unknown,,,,,
+,DoD Data Analyst - Consultant,$53K - $91K (Glassdoor est.),"Washington, DC",3.7,5001 to 10000 Employees,2018,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst II - Healthcare,$69K - $73K (Glassdoor est.),"Dallas, TX",3.3,501 to 1000 Employees,1973,Nonprofit Organization,Consulting,Business Services,$50 to $100 million (USD)
+,Department Data Analyst,$50K - $86K (Glassdoor est.),"Dallas, TX",4.0,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Contract Data Study Analyst,$81K - $100K (Glassdoor est.),"New York, NY",5.0,51 to 200 Employees,2007,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analytics/Algorithm Analyst,$52K - $94K (Glassdoor est.),"Boston, MA",3.7,51 to 200 Employees,1973,Company - Private,Research & Development,Business Services,$50 to $100 million (USD)
+,Technical Data Analyst,$79K - $139K (Glassdoor est.),"San Francisco, CA",4.0,10000+ Employees,2009,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,Texas,3.5,501 to 1000 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"San Francisco, CA",,Unknown,,,,,
+,QA Analyst – Data Analytics,$64K - $115K (Glassdoor est.),"San Jose, CA",4.2,10000+ Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Life Science Data Analyst,,"Boston, MA",4.4,1 to 50 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Data Privacy Analyst - USA,$59K - $102K (Glassdoor est.),"Waltham, MA",3.7,201 to 500 Employees,2014,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Remote Data Collections Analyst,,"Bristol, CT",3.6,501 to 1000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,"Market Data Analyst, West Palm Beach, FL",$31K - $57K (Glassdoor est.),"West Palm Beach, FL",3.6,201 to 500 Employees,1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD)
+,"Data Analyst Portland, OR",$55K - $65K (Glassdoor est.),"Portland, OR",4.0,Unknown,1992,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Data and Technology Analyst,$74K - $101K (Glassdoor est.),"New York, NY",4.0,1001 to 5000 Employees,1914,Company - Private,Financial Analytics & Research,Finance,$10+ billion (USD)
+,Data Transformation Analyst,$40K - $71K (Glassdoor est.),"Atlanta, GA",3.5,10000+ Employees,1992,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Data Integrity Analyst,$41K - $77K (Glassdoor est.),"Jersey City, NJ",3.5,1 to 50 Employees,1919,Company - Private,Health Care Products Manufacturing,Manufacturing,$25 to $50 million (USD)
+,Data Analyst III,$55K - $94K (Glassdoor est.),"Indianapolis, IN",3.5,10000+ Employees,1984,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Privacy Analyst,$47K - $53K (Glassdoor est.),"Quincy, MA",3.3,51 to 200 Employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Content Data Analyst,,"Los Angeles, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,EDI Data Analyst,,"Fort Washington, PA",4.4,1 to 50 Employees,2003,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+,Data Analyst of Clinical Integration - University Health Network,,"Knoxville, TN",4.2,501 to 1000 Employees,,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Marketing Data Analyst II,,"Overland Park, KS",3.2,1001 to 5000 Employees,1985,Company - Public,Insurance Carriers,Insurance,$100 to $500 million (USD)
+,Scientific Data Analyst,$53K - $97K (Glassdoor est.),"Atlanta, GA",3.9,501 to 1000 Employees,,Government,,,Unknown / Non-Applicable
+,Data Enhancement Team: Analyst,$34K - $62K (Glassdoor est.),"Livingston, NJ",4.3,201 to 500 Employees,1994,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Data Governance Analyst,,"Phoenix, AZ",3.7,501 to 1000 Employees,1997,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Market Data Analyst,,"New York, NY",,Unknown,,,,,
+,Research Data Analyst,,"Washington, DC",,Unknown,,,,,
+,Data Analyst - Healthline,,Remote,3.6,1001 to 5000 Employees,2000,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD)
+,Full-Time Python Data Analyst Role,,"Fort Lauderdale, FL",3.8,1001 to 5000 Employees,1983,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Division of Intuit,,Technical Data Analyst,4.2,5001 to 10000 Employees,1983,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD)
+,"Advertising Data Analyst, Business Intelligence",$61K - $122K (Glassdoor est.),"New York, NY",4.1,1001 to 5000 Employees,2007,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst (SQL/Crystal Reports) - 2+ years experience,,"Leland, MS",5.0,1 to 50 Employees,,Company - Private,Staffing & Outsourcing,Business Services,Less than $1 million (USD)
+,Data Analyst,,"Sacramento, CA",,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Alexandria, VA",,Unknown,,,,,
+,Data Analyst - Kenra Professional,$52K - $95K (Glassdoor est.),"Culver City, CA",4.3,10000+ Employees,1876,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD)
+,Supply Chain Data Analyst,$84K - $107K (Glassdoor est.),"Waltham, MA",3.9,1 to 50 Employees,,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable
+,Digital Marketing Data Analyst,$73K - $123K (Glassdoor est.),"Mountain View, CA",4.1,10000+ Employees,1986,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD)
+,Recruiting Data Analyst,,"Palo Alto, CA",3.5,51 to 200 Employees,,Company - Private,Advertising & Marketing,Business Services,$1 to $5 million (USD)
+,Data Analyst Manager,$69K - $122K (Glassdoor est.),"Bellevue, WA",3.4,501 to 1000 Employees,2001,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Configuration/Data Management Analyst,$62K - $70K (Glassdoor est.),"Huntsville, AL",5.0,1 to 50 Employees,,Company - Private,,,Less than $1 million (USD)
+,Data Analyst - Mobile Gaming - 100% REMOTE,,"Addison, TX",4.9,51 to 200 Employees,2018,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Data Analyst D,$44K - $78K (Glassdoor est.),"Philadelphia, PA",4.4,10000+ Employees,1740,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data and Research Analyst,$31K - $78K (Glassdoor est.),"Tampa, FL",3.9,1001 to 5000 Employees,,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Configuration/Data Management Analyst,$62K - $70K (Glassdoor est.),"Huntsville, AL",5.0,1 to 50 Employees,,Company - Private,,,Less than $1 million (USD)
+,Data Analyst - Mobile Gaming - 100% REMOTE,,"Addison, TX",4.9,51 to 200 Employees,2018,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,"Data and Reporting Analyst, Strategic Planning & Delivery-6",$45K - $65K (Glassdoor est.),"Springfield, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data and Research Analyst,$31K - $78K (Glassdoor est.),"Tampa, FL",3.9,1001 to 5000 Employees,,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Sr Data Analyst,$45K - $78K (Glassdoor est.),"Brentwood, TN",3.4,10000+ Employees,1978,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Data Analyst,$31K - $58K (Glassdoor est.),"Sacramento, CA",3.4,201 to 500 Employees,,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst (Retail Energy),$32K - $59K (Glassdoor est.),"Dallas, TX",4.4,1 to 50 Employees,2009,Company - Private,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Sr Data Analyst,$72K - $124K (Glassdoor est.),"Indianapolis, IN",,1 to 50 Employees,1985,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD)
+,Data Analyst,$37K - $69K (Glassdoor est.),"Arlington, VA",4.0,501 to 1000 Employees,1973,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD)
+,Data Analyst,,Remote,4.2,10000+ Employees,2000,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data and Technology Analyst,$76K - $104K (Glassdoor est.),"New York, NY",4.5,1001 to 5000 Employees,1913,Government,Federal Agencies,Government,Unknown / Non-Applicable
+,Senior Data Analyst,,"Greenwich, CT",3.5,51 to 200 Employees,,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Talent Acquisition Data Analyst,$80K (Glassdoor est.),"New York, NY",2.9,1001 to 5000 Employees,2006,School / School District,K-12 Education,Education,$100 to $500 million (USD)
+,Material Master Data Analyst,,Illinois,4.0,10000+ Employees,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+,Senior Data Analyst,$48K - $86K (Glassdoor est.),"Atlanta, GA",3.8,201 to 500 Employees,,Subsidiary or Business Segment,Vehicle Dealers,Retail,$100 to $500 million (USD)
+,Sr. Data Analyst,,"Santa Clara, CA",4.1,501 to 1000 Employees,1999,Company - Private,Consulting,Business Services,$50 to $100 million (USD)
+,Data Scientist Risk Analyst,,"Washington, DC",4.5,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,ENCOUNTER DATA ANALYST - HOAG CLINIC CLAIMS & ENROLLMEN,,"Costa Mesa, CA",4.0,5001 to 10000 Employees,1952,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Marketing Automation Data Analyst,$61K - $112K (Glassdoor est.),"Seattle, WA",4.7,201 to 500 Employees,1988,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,"Provider Data Analyst - Los Angeles, CA or Columbia, MD",$45K - $84K (Glassdoor est.),"Los Angeles, CA",3.6,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Sales Operations Data Analyst II - Cox Media Inc,$45K - $77K (Glassdoor est.),"Atlanta, GA",4.0,10000+ Employees,1962,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Climate Change Impact Data Scientist / Analyst,,"New York, NY",4.0,1 to 50 Employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst III,$64K - $107K (Glassdoor est.),"Atlanta, GA",4.0,10000+ Employees,1962,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Data Analyst- Part-Time (20 hrs/week),,"Bloomfield Hills, MI",3.0,51 to 200 Employees,1971,Nonprofit Organization,Social Assistance,Non-Profit,$10 to $25 million (USD)
+,Operations Data Analyst,$34K - $60K (Glassdoor est.),"Dallas, TX",4.3,5001 to 10000 Employees,,Company - Public,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst - Heart Transplant/MCS / 40 Hour / Days,$36K - $65K (Glassdoor est.),"Boston, MA",3.9,5001 to 10000 Employees,1996,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Integrity Analyst,$50K - $60K (Glassdoor est.),"Jersey City, NJ",3.6,10000+ Employees,2002,Company - Public,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+,Technology Data Management and Reporting Analyst,$55K - $115K (Glassdoor est.),"Hayward, CA",4.2,201 to 500 Employees,1968,Nonprofit Organization,Real Estate,Real Estate,$100 to $500 million (USD)
+,"Senior Data Analyst, Marketing",$62K - $108K (Glassdoor est.),"Phoenix, AZ",3.1,1001 to 5000 Employees,1965,Company - Public,Colleges & Universities,Education,$10 to $25 million (USD)
+,Senior Data Analyst,$110K - $114K (Glassdoor est.),"Seattle, WA",4.1,501 to 1000 Employees,2007,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Senior Data Analyst,$79K - $90K (Glassdoor est.),"Wilmington, DE",3.5,10000+ Employees,1912,Company - Public,Lending,Finance,Unknown / Non-Applicable
+,Data Analyst,$45K - $75K (Glassdoor est.),"Nashville, TN",4.7,51 to 200 Employees,2006,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst - Customer Support,,"Fremont, CA",4.4,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,"City Research Scientist II / Data Analyst, Bureau of HIV",$46K - $101K (Glassdoor est.),"Queens Village, NY",3.5,5001 to 10000 Employees,,Government,Municipal Governments,Government,Unknown / Non-Applicable
+,Data Analyst,$56K - $100K (Glassdoor est.),"Bethesda, MD",3.5,201 to 500 Employees,1998,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,BSA/AML Data Analytics & Performance Analyst,$58K - $104K (Glassdoor est.),"New York, NY",4.0,10000+ Employees,1898,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD)
+,SQL Data Analyst,$60K - $103K (Glassdoor est.),"Bowie, MD",2.9,1001 to 5000 Employees,1998,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD)
+,Data Business Analyst,,"Dallas, TX",,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,(Permanent Job) Digital Data Marketing Analyst,,"Piscataway, NJ",2.2,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst/Programmer,$39K - $68K (Glassdoor est.),"Bloomington, MN",3.6,10000+ Employees,1976,Company - Public,Real Estate,Real Estate,$500 million to $1 billion (USD)
+,"Data Analyst, Supply Chain (HID1392)",,"Austin, TX",4.3,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Operation Project Analyst-Data Center,$68K - $77K (Glassdoor est.),"Fremont, CA",3.8,201 to 500 Employees,1987,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+,Data Quality Analyst,,"Burlingame, CA",4.2,1 to 50 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+,Product Growth Data Analyst,,Remote,3.9,501 to 1000 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,"CRM Data Analyst, Remote - 476867",,Ohio,,Unknown,,,,,
+,Data Research Analyst Fellow,,"New York, NY",5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Research Data Analyst,$45K - $82K (Glassdoor est.),"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Santa Fe, NM",3.1,51 to 200 Employees,,Company - Private,,,$10 to $25 million (USD)
+,Equity Research Data Analyst,$45K - $80K (Glassdoor est.),"Santa Cruz, CA",4.1,1001 to 5000 Employees,1965,College / University,Colleges & Universities,Education,$100 to $500 million (USD)
+,Data Analyst/Tableau Developer,,"Springfield, VA",4.4,51 to 200 Employees,1998,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD)
+,Data Journalist - Visualization Analyst,$32K - $76K (Glassdoor est.),"New York, NY",3.8,5001 to 10000 Employees,1918,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD)
+,Data Analyst/Contractor,$56K - $73K (Glassdoor est.),"Philadelphia, PA",3.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,"Data Analyst, Marketing",$35K - $64K (Glassdoor est.),"New York, NY",4.3,201 to 500 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Quality Analyst,,Remote,4.5,1 to 50 Employees,2016,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Business Analyst (Data Steward),,"Steward, IL",3.5,201 to 500 Employees,2007,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Safety Data Analyst,$37K - $73K (Glassdoor est.),"Dallas, OR",4.2,1001 to 5000 Employees,1999,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+,(Senior/ Lead) Product Analyst - Data Intelligence,$97K - $159K (Glassdoor est.),"San Francisco, CA",4.5,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data Programmer Analyst I,$50K - $88K (Glassdoor est.),"Philadelphia, PA",3.9,1001 to 5000 Employees,1855,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD)
+,Solar Data Analyst,$38K - $68K (Glassdoor est.),"South Plainfield, NJ",4.3,501 to 1000 Employees,2009,Company - Private,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Data Governance Analyst,,"Charlotte, NC",3.1,10000+ Employees,1969,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+,Data Journalist - Visualization Analyst,$32K - $76K (Glassdoor est.),"New York, NY",3.8,5001 to 10000 Employees,1918,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD)
+,Pharmacy Data Analyst,$30K - $56K (Glassdoor est.),"Saint Louis, MO",4.0,5001 to 10000 Employees,1966,Company - Private,Insurance Agencies & Brokerages,Insurance,$1 to $2 billion (USD)
+,HR Data Analyst,,"Hoboken, NJ",3.5,201 to 500 Employees,,Company - Private,Security Services,Business Services,Unknown / Non-Applicable
+,Data Analyst/Contractor,$56K - $73K (Glassdoor est.),"Philadelphia, PA",3.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Senior Product & Data Solutions Analyst,$81K - $134K (Glassdoor est.),"Los Angeles, CA",4.3,5001 to 10000 Employees,1931,Company - Private,Investment Banking & Asset Management,Finance,$1 to $2 billion (USD)
+,"Data Analyst, Marketing",$35K - $64K (Glassdoor est.),"New York, NY",4.3,201 to 500 Employees,,Company - Public,,,Unknown / Non-Applicable
+,"Senior Data Analyst, Sales Operations",,Remote,4.1,1001 to 5000 Employees,2008,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable
+,Data Quality Analyst,,Remote,4.5,1 to 50 Employees,2016,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Research Data Analyst- Boston CCBHC,$41K - $74K (Glassdoor est.),"Boston, MA",4.0,1001 to 5000 Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,(Senior/ Lead) Product Analyst - Data Intelligence,$97K - $159K (Glassdoor est.),"San Francisco, CA",4.5,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Solar Data Analyst,$38K - $68K (Glassdoor est.),"South Plainfield, NJ",4.3,501 to 1000 Employees,2009,Company - Private,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Data Governance Analyst,,"Charlotte, NC",3.1,10000+ Employees,1969,Company - Private,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD)
+,"Data Analyst, High Tech Product & Enablement Platforms",$64K - $101K (Glassdoor est.),"Austin, TX",4.2,10000+ Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Data Analyst (Remote Opportunity),$50K - $91K (Glassdoor est.),"Austin, TX",4.6,51 to 200 Employees,,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+,Research Data Management Analyst - Kaiser Permanente Bernard J. Tyson School of Medicine,$77K - $94K (Glassdoor est.),"Pasadena, CA",4.1,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Data Analyst Mandarin Cantonese Language A780,,"Cupertino, CA",4.6,1 to 50 Employees,2006,Company - Private,Consulting,Business Services,Less than $1 million (USD)
+,Marketing Data Analyst,,"Seattle, WA",2.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Tysons Corner, VA",4.5,1001 to 5000 Employees,2000,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Data Center Analyst,$26K - $36K (Glassdoor est.),"Atlanta, GA",4.4,10000+ Employees,1970,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Technical Data Analyst -(Pharmacy/Healthcare industry preferred),$42K - $76K (Glassdoor est.),"Florham Park, NJ",3.1,501 to 1000 Employees,2004,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD)
+,Mid-Level Data Quality Analyst,,"Washington, DC",4.5,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Data Analyst,,"Princeton, NJ",,Unknown,,,,,
+,Finance Data Analyst,$48K - $75K (Glassdoor est.),"Bronx, NY",3.1,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst - Payments,$47K - $87K (Glassdoor est.),"Santa Barbara, CA",4.6,1001 to 5000 Employees,2006,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Healthcare Payer - Data Analyst,$47K - $85K (Glassdoor est.),"Wellesley, MA",3.7,10000+ Employees,1967,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Data Analyst (Programmer II),,"Austin, TX",3.2,501 to 1000 Employees,,Government,State & Regional Agencies,Government,$100 to $500 million (USD)
+,Cleared Data Analyst,,"Andrews AFB, MD",4.4,1 to 50 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Data Analyst - Warehouse Fulfillment Center,,"Mount Laurel, NJ",,Unknown,,,,,
+,D&I Business/Data Analyst Summer Internship,$59K - $107K (Glassdoor est.),"Arlington, VA",4.5,201 to 500 Employees,1985,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD)
+,Technical Data Analyst,,United States,3.7,201 to 500 Employees,2010,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+,"Banking, Capital Markets and Advisory (BCMA) - Investment Banking, Summer Analyst: Data Science Analyst, M&A Strategic Shareholder Advisory - New York",$72K - $93K (Glassdoor est.),"New York, NY",3.9,1001 to 5000 Employees,,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Operations Data Analyst,$42K - $78K (Glassdoor est.),"San Diego, CA",4.0,5001 to 10000 Employees,1989,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+,Data Analyst - Warehouse Fulfillment Center,,"Mount Laurel, NJ",,Unknown,,,,,
+,Call Center Work Force Management- Data Analyst,$24K - $43K (Glassdoor est.),"Erie, PA",4.6,201 to 500 Employees,2011,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Business Data Analyst – SQL and PySpark experience,,"Redmond, WA",4.5,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data and Research Analyst,$40K - $107K (Glassdoor est.),"Tampa, FL",3.9,10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst - Market Research,,"Irving, TX",,1 to 50 Employees,2018,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,"Intern, Statistician-Data Analyst, Summer FIS University Program 2021",$41K - $80K (Glassdoor est.),"Woodbury, MN",3.8,10000+ Employees,1968,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+,"Quantitative Data Analyst, Email Marketing",,Remote,4.0,51 to 200 Employees,2015,Company - Private,Internet,Information Technology,$50 to $100 million (USD)
+,PIM Manager/Data Analyst,$73K - $130K (Glassdoor est.),"Dallas, TX",3.0,201 to 500 Employees,1968,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD)
+,Information Technology Data Analyst,$39K - $114K (Glassdoor est.),"Tempe, AZ",3.5,5001 to 10000 Employees,2013,Company - Public,Other Retail Stores,Retail,Unknown / Non-Applicable
+,Senior Data Analyst,$94K - $110K (Glassdoor est.),"Washington, DC",3.9,1001 to 5000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD)
+,Recruiting Data Analyst,$65K - $114K (Glassdoor est.),"Palo Alto, CA",4.0,1001 to 5000 Employees,1961,Company - Private,Legal,Accounting & Legal,$100 to $500 million (USD)
+,Data Governance Analyst,$60K - $109K (Glassdoor est.),"New York, NY",4.3,10000+ Employees,2004,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD)
+,Senior SAS Programmer (Data Analyst) - Patient-Centered Research,,"Bethesda, MD",3.2,501 to 1000 Employees,2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,Data Integrity Analyst,$48K - $67K (Glassdoor est.),"Boston, MA",4.3,1001 to 5000 Employees,1865,Company - Private,Legal,Accounting & Legal,$1 to $2 billion (USD)
+,Data Analyst (Insights and Reporting),$43K - $80K (Glassdoor est.),"Chicago, IL",4.1,5001 to 10000 Employees,1986,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD)
+,Sales Systems and Data Analyst,$51K - $91K (Glassdoor est.),"Austin, TX",3.9,10000+ Employees,2006,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$5 to $10 billion (USD)
+,100% Remote - Tableau Data Analyst,,Remote,,Unknown,,,,,
+,Health Data Analyst,$38K - $69K (Glassdoor est.),"Lowell, MA",3.0,201 to 500 Employees,1970,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,DATA INFORMATICS ANALYST,$42K - $67K (Glassdoor est.),"Madison, WI",4.6,51 to 200 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",5.0,51 to 200 Employees,2016,Company - Private,Internet,Information Technology,$10 to $25 million (USD)
+,"DATA Analyst - Clinical Statistician @ Minneapolis, MN",$39K - $71K (Glassdoor est.),"Minneapolis, MN",3.1,1 to 50 Employees,2001,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD)
+,Data Conversion Analyst,$59K - $75K (Glassdoor est.),"Los Angeles, CA",3.7,10000+ Employees,1976,Company - Public,Consulting,Business Services,$10+ billion (USD)
+,Sr Data Analyst,$71K - $119K (Glassdoor est.),"Westlake Village, Los Angeles, CA",4.2,5001 to 10000 Employees,2008,Company - Public,Lending,Finance,$2 to $5 billion (USD)
+,Data Governance Analyst,$54K - $97K (Glassdoor est.),"Tempe, AZ",4.0,1 to 50 Employees,1947,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.9,1 to 50 Employees,1984,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD)
+,"Analyst, Data Management / Quantitative Analysis",$31K - $59K (Glassdoor est.),"Chicago, IL",3.4,10000+ Employees,1784,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst,,California,3.8,501 to 1000 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst- Cardiac Surgery Services,$44K - $68K (Glassdoor est.),"Chicago, IL",4.0,5001 to 10000 Employees,1837,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Scientist/Analyst,$57K - $98K (Glassdoor est.),"Clarksburg, WV",4.5,201 to 500 Employees,1999,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD)
+,"Analyst, Data Management / Quantitative Analysis",$31K - $59K (Glassdoor est.),"Chicago, IL",3.4,10000+ Employees,1784,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst- Cardiac Surgery Services,$44K - $68K (Glassdoor est.),"Chicago, IL",4.0,5001 to 10000 Employees,1837,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Analyst,,California,3.8,501 to 1000 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Temporary Data Analyst,,"Oakland, CA",4.6,1 to 50 Employees,,Nonprofit Organization,,,$1 to $5 million (USD)
+,Data Analyst Non-Clinical - Information Technology,,"San Diego, CA",4.0,501 to 1000 Employees,2001,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD)
+,Data Analyst,$47K - $91K (Glassdoor est.),"Boston, MA",2.7,201 to 500 Employees,1999,Company - Private,Video Games,Media,Unknown / Non-Applicable
+,"Business Systems Analyst, Data & Analytics",$50K - $93K (Glassdoor est.),"Boston, MA",4.4,501 to 1000 Employees,1984,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+,Data Analyst-Top Secret/SCI clearance required,,"Washington, DC",,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,COLLEGE DATA ANALYST,$40K - $72K (Glassdoor est.),"Houston, TX",3.9,1001 to 5000 Employees,1998,School / School District,K-12 Education,Education,$50 to $100 million (USD)
+,Business Analyst - Data Engineering,,"New York, NY",4.1,501 to 1000 Employees,2009,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",$100 to $500 million (USD)
+,US - Data Analyst,$28K - $49K (Glassdoor est.),"Danville, KY",3.7,51 to 200 Employees,,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+,Market Data Analyst - Global Securities Master (GSM),,"San Jose, CA",3.5,51 to 200 Employees,2006,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,"Data Analyst, Information Systems",$40K - $71K (Glassdoor est.),"Sellersville, PA",3.1,1001 to 5000 Employees,1913,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Provider Analyst,,"Wilmington, DE",3.9,10000+ Employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Database - Business Intelligence Data Analyst,,"Baltimore, MD",4.4,501 to 1000 Employees,2002,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD)
+,Data Analyst Risk Adjustment,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Business Data Analyst,$47K - $87K (Glassdoor est.),"Medford, MA",3.5,1001 to 5000 Employees,1972,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD)
+,"DATA ANALYST PROGRAMMER, DUKE-MARGOLIS CENTER FOR HEALTH POLICY",$27K - $49K (Glassdoor est.),"Durham, NC",4.4,10000+ Employees,1838,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Innovation & Data Analyst,,"San Francisco, CA",,Unknown,,,,,
+,Data Visualization Analyst,$67K - $113K (Glassdoor est.),"Carmel, IN",3.8,501 to 1000 Employees,1998,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Research Data Analyst,,Remote,,Unknown,,,,,
+,Data Transfer Analyst/Engineer,,"Harrisburg, PA",4.4,201 to 500 Employees,1983,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD)
+,Program Data Analyst,,Remote,3.3,201 to 500 Employees,2006,Company - Private,Insurance Agencies & Brokerages,Insurance,$25 to $50 million (USD)
+,Data/Business Intelligence Analyst,$52K - $93K (Glassdoor est.),"Nashville, TN",3.7,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+,Data Link Analyst,,"Moorestown, NJ",3.0,1001 to 5000 Employees,,Company - Private,Accounting,Accounting & Legal,$5 to $10 million (USD)
+,Claims Data Analyst,$43K - $79K (Glassdoor est.),"Garden City, NY",4.0,1001 to 5000 Employees,1982,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD)
+,Business Intelligence Analyst / Data Scientist,$45K - $90K (Glassdoor est.),"New York, NY",3.1,51 to 200 Employees,1974,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD)
+,Data & Business Analyst,$41K - $77K (Glassdoor est.),"Chicago, IL",4.2,5001 to 10000 Employees,1990,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD)
+,Data Analyst II (Contract),,Remote,3.7,501 to 1000 Employees,2009,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable

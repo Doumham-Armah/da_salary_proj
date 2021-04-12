@@ -1,0 +1,901 @@
+company_name,job_title,salary_estimate,location,rating,size,founded,type_of_ownership,industry,sector,revenue
+,Salesfore Data Analyst,Employer Provided Salary:$48 - $53 Per Hour,Remote,4.6,51 to 200 Employees,2011,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD)
+,Data Analyst - Entry Level,,"Mountain View, CA",4.1,1 to 50 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Junior Data Analyst,Employer Provided Salary:$46K - $64K,"Irving, TX",,Unknown,,,,,
+,Data Analyst,Employer Provided Salary:$19 - $24 Per Hour,"Chapel Hill, NC",4.4,1 to 50 Employees,,College / University,Colleges & Universities,Education,$1 to $5 million (USD)
+,Data Analyst/Data Entry Analyst.,Employer Provided Salary:$38K - $48K,"Dallas, TX",3.8,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst (Entry Level),Employer Provided Salary:$60K - $90K,"Anchorage, AK",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$29 - $34 Per Hour,"Chicago, IL",,Unknown,,,,,
+,Data Analyst,Employer Provided Salary:$58 - $63 Per Hour,"New York, NY",3.4,501 to 1000 Employees,1941,Company - Public,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+,Data Analyst,Employer Provided Salary:$65K - $75K,"Princeton, NJ",4.0,51 to 200 Employees,,Company - Private,IT Services,Information Technology,$1 to $5 million (USD)
+,Jr. Data Analyst,Employer Provided Salary:$60K - $90K,"Arkadelphia, AR",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$19 - $22 Per Hour,"Tulsa, OK",4.1,1 to 50 Employees,2017,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable
+,Sales Data Entry & Analyst (Women's clothing wholesale),Employer Provided Salary:$19 - $29 Per Hour,"Vernon, CA",1.5,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$80K - $120K,Remote,3.0,1 to 50 Employees,,Company - Private,,,Less than $1 million (USD)
+,Data Analyst,Employer Provided Salary:$43 Per Hour,"Omaha, NE",,1 to 50 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$58 - $67 Per Hour,"Austin, TX",,Unknown,,,,,
+,Data Analyst,Employer Provided Salary:$20 - $48 Per Hour,"Houston, TX",3.1,51 to 200 Employees,2001,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Junior Data Analyst,Employer Provided Salary:$80K,"Chicago, IL",,Unknown,,,,,
+,Data Analyst,Employer Provided Salary:$50K - $97K,"Woburn, MA",4.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst,Employer Provided Salary:$48K - $113K,Remote,5.0,1 to 50 Employees,,Contract,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$48K - $59K,United States,,Unknown,,,,,
+,Data Analyst,,"Irving, TX",2.8,1 to 50 Employees,,Company - Private,IT Services,Information Technology,$1 to $5 million (USD)
+,Data Analyst,Employer Provided Salary:$27 - $28 Per Hour,"Laurel, MD",,Unknown,,,,,
+,Junior Data Analyst,Employer Provided Salary:$45K - $70K,"Greenwood Village, CO",3.6,201 to 500 Employees,,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD)
+,Data Analyst,Employer Provided Salary:$60K - $90K,"Texas City, TX",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$29 - $38 Per Hour,"Washington, DC",,Unknown,,,,,
+,Data Analyst,Employer Provided Salary:$19 - $24 Per Hour,"Dallas, TX",,1 to 50 Employees,,Unknown,Real Estate,Real Estate,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Content Development Analyst (Data Entry),Employer Provided Salary:$40K - $45K,"Laramie, WY",3.6,10000+ Employees,1894,Company - Private,Consulting,Business Services,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst Intern,Employer Provided Salary:$17 - $19 Per Hour,Remote,,Unknown,,,,,
+,Junior Data Analyst,Employer Provided Salary:$80K,"Chicago, IL",,Unknown,,,,,
+,Data Analyst - Entry Level,,"Mountain View, CA",4.1,1 to 50 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Jr. Data Analyst,Employer Provided Salary:$60K - $90K,"Arkadelphia, AR",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Data Analyst,Employer Provided Salary:$38 Per Hour,"Washington, DC",3.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Junior Data Analyst / Entry Level / Training,Employer Provided Salary:$65K - $70K,"San Diego, CA",4.6,501 to 1000 Employees,1997,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,Employer Provided Salary:$29 - $34 Per Hour,"Chicago, IL",,Unknown,,,,,
+,Salesfore Data Analyst,Employer Provided Salary:$48 - $53 Per Hour,Remote,4.6,51 to 200 Employees,2011,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Irving, TX",2.8,1 to 50 Employees,,Company - Private,IT Services,Information Technology,$1 to $5 million (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$19 - $24 Per Hour,"Dallas, TX",,1 to 50 Employees,,Unknown,Real Estate,Real Estate,Unknown / Non-Applicable
+,Data Analyst 3 - Digital Customer Experience - Discovery and Personalization,,"Chicago, IL",3.7,10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+,Data Analyst (Entry Level),Employer Provided Salary:$60K - $90K,"California, MD",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst/Data Entry Analyst.,Employer Provided Salary:$38K - $48K,"Dallas, TX",3.8,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Junior Data Analyst,,"Jersey City, NJ",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$43 Per Hour,"Omaha, NE",,1 to 50 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$20 - $48 Per Hour,"Houston, TX",3.1,51 to 200 Employees,2001,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Content Development Analyst (Data Entry),Employer Provided Salary:$40K - $45K,"Laramie, WY",3.6,10000+ Employees,1894,Company - Private,Consulting,Business Services,$2 to $5 billion (USD)
+,Jr Data Analyst (Freshers Can Also Apply),Employer Provided Salary:$60K - $90K,United States,4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Junior Data Analyst,Employer Provided Salary:$65K - $85K,"Bloomfield, NJ",,Unknown,,,,,
+,Data Analyst Entry,,"Washington, DC",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$58 - $63 Per Hour,"New York, NY",3.4,501 to 1000 Employees,1941,Company - Public,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+,Tableau Data Analyst,Employer Provided Salary:$38 - $43 Per Hour,Remote,,Unknown,,,,,
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$48K - $59K,United States,,Unknown,,,,,
+,Junior Data Analyst,Employer Provided Salary:$80K,"Chicago, IL",,Unknown,,,,,
+,Data Analyst - Entry Level,,"Mountain View, CA",4.1,1 to 50 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Jr Data Analyst,Employer Provided Salary:$60K - $90K,"Virginia Beach, VA",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Performance Marketing Junior Data Analyst,,"New York, NY",3.9,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Data Visualization Analyst - Tableau,,"Atlanta Central City Post Offi, GA",3.7,10000+ Employees,1865,Company - Public,Other Retail Stores,Retail,$2 to $5 billion (USD)
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Data Analyst (Entry Level),Employer Provided Salary:$60K - $90K,"Anchorage, AK",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst - Performance Assurance,Employer Provided Salary:$48 Per Hour,"Dallas, TX",3.0,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Jr Data Analyst (Freshers Can Also Apply),Employer Provided Salary:$60K - $90K,"Indianapolis, IN",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst 1,,"Cranberry Twp, PA",3.3,501 to 1000 Employees,,Subsidiary or Business Segment,Transportation Management,Transportation & Logistics,$100 to $500 million (USD)
+,DATA ANALYST (Fully Remote Position Available),,"San Jose, CA",,Unknown,,,,,
+,Data Analyst,,"Seattle, WA",3.4,10000+ Employees,1979,Company - Public,Logistics & Supply Chain,Transportation & Logistics,$5 to $10 billion (USD)
+,Public Policy Data Analyst (Community Safety),Employer Provided Salary:$64K - $87K,"San Bernardino, CA",3.5,10000+ Employees,1853,Government,Municipal Governments,Government,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Junior Data Analyst (APAC),,Remote,5.0,51 to 200 Employees,2014,Company - Public,Internet,Information Technology,Unknown / Non-Applicable
+,Junior Data Analyst,,"Lenexa, KS",3.0,10000+ Employees,1859,Company - Public,Security Services,Business Services,$2 to $5 billion (USD)
+,Data Analyst,,"Valhalla, NY",2.9,1001 to 5000 Employees,1999,Company - Private,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst - Payments,,"Santa Barbara, CA",4.6,1001 to 5000 Employees,2006,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Department Data Analyst,,"Dallas, TX",4.0,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Junior Data Analyst,,"Washington, DC",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,DATA ANALYST,,"Chicago, IL",2.8,51 to 200 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD)
+,Research Assistant/Data Analyst,Employer Provided Salary:$25 - $48 Per Hour,"Santa Monica, CA",,1 to 50 Employees,,Nonprofit Organization,,,Unknown / Non-Applicable
+,Data Analyst,,"Carlsbad, CA",4.3,51 to 200 Employees,2016,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable
+,Data Analyst,,"Durham, NC",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Project Associate - Junior Data Analyst,,"Washington, DC",3.7,501 to 1000 Employees,2001,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Data Analyst,,"Chicago, IL",4.4,501 to 1000 Employees,1968,Company - Private,Business Service Centers & Copy Shops,Business Services,$50 to $100 million (USD)
+,"Analyst, Data and Analysis",,"New York, NY",3.8,5001 to 10000 Employees,1980,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,Data Research Analyst,,"San Diego, CA",3.3,1001 to 5000 Employees,2000,Company - Public,Banks & Credit Unions,Finance,$500 million to $1 billion (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Jr Data Analyst,Employer Provided Salary:$60K - $90K,"Birmingham, AL",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Frisco, TX",3.4,51 to 200 Employees,1999,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD)
+,Data Analyst I,,"Houston, TX",4.3,201 to 500 Employees,2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Salt Lake City, UT",4.3,10000+ Employees,1966,Company - Public,Financial Transaction Processing,Finance,$5 to $10 billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Evaluation Data Analyst,,"Phoenix, AZ",3.5,501 to 1000 Employees,,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD)
+,Data Analyst - Digestive & Liver Diseases,,"New York, NY",4.2,10000+ Employees,1938,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",4.0,10000+ Employees,1841,Hospital,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Junior Data Analyst,Employer Provided Salary:$80K,"Chicago, IL",,Unknown,,,,,
+,Data Analyst,,"Santa Clara, CA",3.8,1001 to 5000 Employees,1997,Company - Public,Insurance Agencies & Brokerages,Insurance,$500 million to $1 billion (USD)
+,Data Analyst,,"Chicago, IL",3.2,51 to 200 Employees,2010,Company - Private,Automotive Parts & Accessories Stores,Retail,$5 to $10 million (USD)
+,Data Analyst,,"Springfield, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,Employer Provided Salary:$38 Per Hour,"Washington, DC",3.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,Data Analyst,,"Richmond, VA",3.1,1001 to 5000 Employees,1987,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,Accounting,Accounting & Legal,$1 to $5 million (USD)
+,Data Analyst - Entry Level,,"Mountain View, CA",4.1,1 to 50 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst I,,"Beaverton, OR",3.7,5001 to 10000 Employees,2000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD)
+,Data Analyst,,"Houston, TX",1.0,1 to 50 Employees,2011,Company - Private,Research & Development,Business Services,$1 to $5 million (USD)
+,"Analyst, Data and Analysis",,"New York, NY",3.8,5001 to 10000 Employees,1980,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst I,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,Remote,4.2,51 to 200 Employees,,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Data Analyst,,"Cincinnati, OH",3.7,1001 to 5000 Employees,2008,Company - Private,Lending,Finance,$1 to $2 billion (USD)
+,Data Analyst - Entry Level,,"Mountain View, CA",4.1,1 to 50 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst- Fortify,Employer Provided Salary:$29 - $46 Per Hour,Virginia,3.6,5001 to 10000 Employees,1825,Hospital,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst,,United States,4.5,51 to 200 Employees,2009,,,Health Care,Unknown / Non-Applicable
+,Entry Level Business Analyst,Employer Provided Salary:$60K - $70K,Remote,,51 to 200 Employees,,Contract,,,Unknown / Non-Applicable
+,Data Analyst I,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Atlanta Central City Post Offi, GA",3.3,51 to 200 Employees,1994,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"Saint Louis, MO",3.5,1 to 50 Employees,1980,Nonprofit Organization,Industrial Manufacturing,Manufacturing,$5 to $10 million (USD)
+,Jr Data Analyst,Employer Provided Salary:$60K - $90K,"Seattle, WA",4.6,201 to 500 Employees,2009,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,SAS Data Analyst (Remote),,"Lincoln, NE",3.1,1001 to 5000 Employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD)
+,Data Analyst,Employer Provided Salary:$80K - $120K,Remote,3.0,1 to 50 Employees,,Company - Private,,,Less than $1 million (USD)
+,"Analyst, Data",,United States,3.9,1001 to 5000 Employees,1979,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$500 million to $1 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Southborough, MA",3.9,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst,,"Chicago, IL",1.0,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1884,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,AI Data Analyst,,"Bellingham, WA",3.2,51 to 200 Employees,2007,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD)
+,Data Analyst,Employer Provided Salary:$65K - $75K,"Beaverton, OR",3.3,51 to 200 Employees,1970,Company - Private,Miscellaneous Manufacturing,Manufacturing,$25 to $50 million (USD)
+,HCM Data Analyst,,"New York, NY",3.8,10000+ Employees,1887,Company - Private,Publishing,Media,$10+ billion (USD)
+,Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Wausau, WI",3.4,201 to 500 Employees,1935,Company - Private,Banks & Credit Unions,Finance,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1981,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,SDFC Data Analyst,,"Melville, NY",3.2,10000+ Employees,2018,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD)
+,Partnerships Data Analyst,,"Chicago, IL",3.6,1001 to 5000 Employees,2012,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Acquisition Analyst,,"Atlanta Central City Post Offi, GA",4.0,1001 to 5000 Employees,1971,Company - Public,Stock Exchanges,Finance,$2 to $5 billion (USD)
+,Reporting Data Analyst,,"Winooski, VT",4.3,1001 to 5000 Employees,2005,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Forecasting Analyst,Employer Provided Salary:$95K,"Mountain View, CA",4.5,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Employee Data Analyst,,"Atlanta Central City Post Offi, GA",4.5,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Bloomington, IN",4.3,5001 to 10000 Employees,1820,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Forecasting Analyst,Employer Provided Salary:$95K,"Mountain View, CA",4.5,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Reporting Data Analyst,,"Winooski, VT",4.3,1001 to 5000 Employees,2005,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"San Francisco, CA",3.4,501 to 1000 Employees,2010,Company - Public,Other Retail Stores,Retail,$1 to $2 billion (USD)
+,Data Analyst,,"Austin, TX",4.1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Partnerships Data Analyst,,"Chicago, IL",3.6,1001 to 5000 Employees,2012,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Acquisition Analyst,,"Atlanta Central City Post Offi, GA",4.0,1001 to 5000 Employees,1971,Company - Public,Stock Exchanges,Finance,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Employee Data Analyst,,"Atlanta Central City Post Offi, GA",4.5,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,"Data Analyst, Operations (226 Days)",Employer Provided Salary:$76K,"Dallas, TX",3.5,10000+ Employees,1867,School / School District,Preschool & Child Care,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Galveston, TX",,Unknown,,,,,
+,Data Analyst,,"New York, NY",4.2,10000+ Employees,1938,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Vallejo, CA",3.2,201 to 500 Employees,,Nonprofit Organization,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Analyst,,"Bloomington, IN",4.3,5001 to 10000 Employees,1820,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,"Risk Data Analyst, Trust & Safety, Search",,"Sunnyvale, CA",4.5,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Upland, CA",3.9,1001 to 5000 Employees,1906,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,HCM Data Analyst,,"New York, NY",3.8,10000+ Employees,1887,Company - Private,Publishing,Media,$10+ billion (USD)
+,Data Analyst,,Remote,3.4,1001 to 5000 Employees,2011,Company - Public,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,"Risk Data Analyst, Trust and Safety",,"New York, NY",4.5,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Watson Health Healthcare Research/Data Analyst,,"Santa Barbara, CA",3.9,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Customer Experience Data Analyst,,"New York, NY",,1 to 50 Employees,,Company - Private,Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Data Analyst,,"Irving, TX",4.5,501 to 1000 Employees,1993,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable
+,"Data Analyst, Partner Analytics",,"New York, NY",4.0,501 to 1000 Employees,2018,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Muscatine, IA",4.3,501 to 1000 Employees,,School / School District,,,$50 to $100 million (USD)
+,Data Analyst-Reporting,,"Dallas, TX",3.4,201 to 500 Employees,2006,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Data Support Analyst,Employer Provided Salary:$31 - $38 Per Hour,"Victorville, CA",4.3,501 to 1000 Employees,,School / School District,Preschool & Child Care,Education,$100 to $500 million (USD)
+,Health Policy Data Analyst,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Watson Health Healthcare Research/Data Analyst,,"Santa Barbara, CA",3.9,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Health Care Data Analyst,Employer Provided Salary:$36 - $39 Per Hour,"Rockville, MD",2.6,51 to 200 Employees,1978,Company - Private,,,$5 to $10 million (USD)
+,Data Analyst & Reporting Spec,,"Morrisville, NC",2.9,201 to 500 Employees,1985,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Health Data Analyst,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,"Business Insights Analyst, Audit Data Analytics",,"Falmouth, ME",4.0,10000+ Employees,1855,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,PDM Data and Reporting Analyst,,"San Jose, CA",4.0,10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst (21-22),,"San Antonio, TX",3.6,1001 to 5000 Employees,2000,School / School District,K-12 Education,Education,$100 to $500 million (USD)
+,Data Analyst,,"Atlanta Central City Post Offi, GA",3.9,10000+ Employees,2003,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,$10+ billion (USD)
+,Health Policy Data Analyst,,"East Nashville, TN",3.8,10000+ Employees,1874,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Reporting Data Analyst,,"Winooski, VT",4.3,1001 to 5000 Employees,2005,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Irving, TX",4.5,501 to 1000 Employees,1993,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable
+,Health Data Analyst,,"Tulsa, OK",3.3,201 to 500 Employees,1993,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD)
+,Data Analyst - Medicine,,"Tallahassee, FL",4.3,10000+ Employees,1851,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Survey Data Analyst & Visualization (NASA),,"Washington, DC",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Data Analyst,,"College Station, TX",4.4,10000+ Employees,1871,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Analyst-Reporting,,"Dallas, TX",3.4,201 to 500 Employees,2006,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Junior Health Data Analyst,,"Bethesda, MD",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,"Research Analyst, Roadway Data",,"Boise, ID",3.8,201 to 500 Employees,1973,Government,State & Regional Agencies,Government,Unknown / Non-Applicable
+,Healthcare Data Analyst 1,,"Beaverton, OR",2.8,1 to 50 Employees,1953,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Senior Data Analyst - Digital Customer Experience - Discovery and Personalization,,"Chicago, IL",3.7,10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"East Nashville, TN",5.0,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Medicaid Healthcare Data and Statistical Analyst,Employer Provided Salary:$27 Per Hour,"Waterbury, VT",3.4,5001 to 10000 Employees,1791,Government,State & Regional Agencies,Government,Less than $1 million (USD)
+,Data Analyst 3 - Digital Customer Experience - Discovery and Personalization,,"Chicago, IL",3.7,10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Health Care Data Analyst,Employer Provided Salary:$36 - $39 Per Hour,"Washington, DC",2.6,51 to 200 Employees,1978,Company - Private,,,$5 to $10 million (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$74K,"Washington, DC",,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Junior Health Data Analyst,,"Bethesda, MD",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Health Data Analyst,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Watson Health Healthcare Research/Data Analyst,,"Santa Barbara, CA",3.9,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Data Analyst 2 - Merchandising - Price Optimization,,"Seattle, WA",3.7,10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+,Early Childhood Data and Policy Analyst,Employer Provided Salary:$46K - $78K,"Wake Forest, NC",,Unknown,,,,,
+,Data Analyst 1,,"Cranberry Twp, PA",3.3,501 to 1000 Employees,,Subsidiary or Business Segment,Transportation Management,Transportation & Logistics,$100 to $500 million (USD)
+,Data Analyst (Fortify),,"Norfolk, VA",3.8,1001 to 5000 Employees,1961,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Medicaid Healthcare Data and Statistical Analyst,Employer Provided Salary:$27 Per Hour,"Waterbury, VT",3.4,5001 to 10000 Employees,1791,Government,State & Regional Agencies,Government,Less than $1 million (USD)
+,Data Analyst,,"Washington, DC",2.7,51 to 200 Employees,1969,Company - Private,Publishing,Media,$10 to $25 million (USD)
+,Senior Data and Research Analyst,Employer Provided Salary:$70K - $90K,"East Boston, MA",3.7,1001 to 5000 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Senior Data Analyst - Digital Customer Experience - Discovery and Personalization,,"Chicago, IL",3.7,10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+,"Connectivity Data Analyst, Cat Digital",,"Peoria, IL",3.9,10000+ Employees,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD)
+,Health Policy Data Analyst,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Behavioral Health - Data Analyst,,"Atlanta Central City Post Offi, GA",3.6,5001 to 10000 Employees,1969,Company - Public,Consulting,Business Services,$1 to $2 billion (USD)
+,Data Analyst I,,"Harrisburg, PA",3.5,10000+ Employees,1982,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Genetic Data Integration Analyst,,"Bethesda, MD",,51 to 200 Employees,,Nonprofit Organization,,,Unknown / Non-Applicable
+,Data Analyst,,"South Jacksonville, FL",4.0,1001 to 5000 Employees,,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Quality Improvement Data Analyst,,"East Boston, MA",4.2,5001 to 10000 Employees,1869,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Genetic Data Integration Analyst,,"Bethesda, MD",,51 to 200 Employees,,Nonprofit Organization,,,Unknown / Non-Applicable
+,Data Analyst 3 - Digital Customer Experience - Discovery and Personalization,,"Chicago, IL",3.7,10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,OSSE: Management Analyst (Data Analyst),Employer Provided Salary:$76K - $97K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Health Policy Data Analyst,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Advanced Data Analyst,,"Seattle, WA",4.0,10000+ Employees,1996,Company - Public,Internet,Information Technology,$5 to $10 billion (USD)
+,Research & Data Analyst (Achieve),,Florida,3.7,1001 to 5000 Employees,,Government,Federal Agencies,Government,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Senior Data Analyst - Digital Customer Experience - Discovery and Personalization,,"Chicago, IL",3.7,10000+ Employees,1901,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD)
+,Digital Data Analyst,,"Washington, DC",4.2,201 to 500 Employees,1963,Nonprofit Organization,Social Assistance,Non-Profit,$100 to $500 million (USD)
+,"Connectivity Data Analyst, Cat Digital",,"Peoria, IL",3.9,10000+ Employees,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD)
+,Data Analyst III,Employer Provided Salary:$52K - $68K,"Austin, TX",3.3,5001 to 10000 Employees,,Government,State & Regional Agencies,Government,Unknown / Non-Applicable
+,Business Data Analyst,,"Atlanta Central City Post Offi, GA",3.8,201 to 500 Employees,2003,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD)
+,Data Integrations Analyst I,,"Columbia, MD",3.6,10000+ Employees,1844,Company - Public,Publishing,Media,$5 to $10 billion (USD)
+,Data Analyst,,"Rochester, NY",4.5,1001 to 5000 Employees,1829,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Carmel, IN",3.3,10000+ Employees,2007,Company - Public,Wholesale,Business Services,$2 to $5 billion (USD)
+,"Data Analyst, Data & Policy Analysis",,"Washington, DC",,Unknown,,,,,
+,Data Analyst,,"Dallas, TX",3.2,51 to 200 Employees,1987,Nonprofit Organization,Membership Organizations,Business Services,$25 to $50 million (USD)
+,Data Analyst,Employer Provided Salary:$38 Per Hour,"Washington, DC",3.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Health Care Data Analyst,Employer Provided Salary:$36 - $39 Per Hour,"Alexandria, VA",2.6,51 to 200 Employees,1978,Company - Private,,,$5 to $10 million (USD)
+,Data Research Analyst,,"San Diego, CA",3.3,1001 to 5000 Employees,2000,Company - Public,Banks & Credit Unions,Finance,$500 million to $1 billion (USD)
+,"Analyst, Compliance Data",,"The Woodlands, TX",4.0,1001 to 5000 Employees,1890,Company - Public,Consumer Electronics & Appliances Stores,Retail,$1 to $2 billion (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst III,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Senior Data and Research Analyst,Employer Provided Salary:$70K - $90K,"East Boston, MA",3.7,1001 to 5000 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.9,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Senior Healthcare Data Analyst,,"East Boston, MA",3.9,10000+ Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Compliance Data Analyst,,"Springfield, MA",3.5,51 to 200 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD)
+,Senior Data Analyst (IHP),,"Charlestown, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Senior Data and Research Analyst,Employer Provided Salary:$70K - $90K,"East Boston, MA",3.7,1001 to 5000 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Public Policy Data Analyst (Community Safety),Employer Provided Salary:$64K - $87K,"San Bernardino, CA",3.5,10000+ Employees,1853,Government,Municipal Governments,Government,Unknown / Non-Applicable
+,Data Analyst - Mid Level,,"Arlington, VA",3.7,501 to 1000 Employees,1983,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,"Senior Analyst, Data and Analysis",,"East Boston, MA",3.8,5001 to 10000 Employees,1980,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,"Data Analyst - Boston, MA",,"East Boston, MA",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Research Data Analyst (Clinical),Employer Provided Salary:$45K - $62K,"Baltimore, MD",4.3,10000+ Employees,1876,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Health Data Analyst,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,"Data Analyst, Benchmarking (Energy)",Employer Provided Salary:$76K - $85K,"New York, NY",4.0,10000+ Employees,1963,Nonprofit Organization,Colleges & Universities,Education,$100 to $500 million (USD)
+,Data Analyst III,Employer Provided Salary:$52K - $68K,"Austin, TX",3.3,5001 to 10000 Employees,,Government,State & Regional Agencies,Government,Unknown / Non-Applicable
+,Senior Data Analyst,,"Palo Alto, CA",4.5,201 to 500 Employees,2015,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,"Data and Policy Analyst, Early Care & Education",Employer Provided Salary:$71K - $101K,"Alameda, CA",3.9,51 to 200 Employees,1998,Government,State & Regional Agencies,Government,Unknown / Non-Applicable
+,Health Policy Data Analyst,,"Tysons Corner, VA",4.3,1001 to 5000 Employees,1961,Company - Private,Consulting,Business Services,$100 to $500 million (USD)
+,"Analyst, Compliance Data",,"The Woodlands, TX",4.0,1001 to 5000 Employees,1890,Company - Public,Consumer Electronics & Appliances Stores,Retail,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",3.1,51 to 200 Employees,1992,Company - Private,Education Training Services,Education,$50 to $100 million (USD)
+,Data Research Analyst Fellow,,"New York, NY",5.0,1 to 50 Employees,,Company - Private,Architectural & Engineering Services,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Ann Arbor, MI",4.4,10000+ Employees,1817,College / University,Colleges & Universities,Education,$5 to $10 billion (USD)
+,Sr. People Data Analyst,,"Washington, DC",4.1,1001 to 5000 Employees,2002,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD)
+,Data Analyst - Organizational Foundations (Data Analyst IV),Employer Provided Salary:$75K - $87K,United States,3.2,501 to 1000 Employees,,Government,State & Regional Agencies,Government,$100 to $500 million (USD)
+,Data Analyst,Employer Provided Salary:$38 Per Hour,"Washington, DC",3.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Quality Analyst - Remote,,"Cambridge, MA",4.0,1 to 50 Employees,,Nonprofit Organization,Research & Development,Business Services,$5 to $10 million (USD)
+,Phenomic Data Analyst III,,"Harrisburg, PA",3.5,10000+ Employees,1915,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Data Analyst III,,"Atlanta Central City Post Offi, GA",3.2,501 to 1000 Employees,,Company - Private,,,$100 to $500 million (USD)
+,Quality Improvement Data Analyst,,"Plymouth, MN",2.6,1001 to 5000 Employees,,Nonprofit Organization,,,Unknown / Non-Applicable
+,"Data Analyst - Denver, CO",,"Denver, CO",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Sr. Data Analyst,,"El Segundo, CA",3.6,10000+ Employees,1983,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+,Data Analyst - Organizational Foundations (Data Analyst IV),Employer Provided Salary:$75K - $87K,United States,3.2,501 to 1000 Employees,,Government,State & Regional Agencies,Government,$100 to $500 million (USD)
+,"People Data Analyst, HR People Analytics, Work from Home",,"Louisville, KY",4.1,10000+ Employees,1886,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Quality Analyst - Remote,,"Cambridge, MA",4.0,1 to 50 Employees,,Nonprofit Organization,Research & Development,Business Services,$5 to $10 million (USD)
+,Sr. People Data Analyst,,"Washington, DC",4.1,1001 to 5000 Employees,2002,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD)
+,DOL TAP Data Analyst - Nationwide (Remote Office),,"Washington, DC",3.4,10000+ Employees,1987,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD)
+,Quality Improvement Data Analyst,,"East Boston, MA",4.0,1001 to 5000 Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Sr Data Analyst BILHPN,,"Westwood, MA",3.5,5001 to 10000 Employees,2012,Hospital,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Kansas City, MO",3.9,1001 to 5000 Employees,1887,Nonprofit Organization,Grantmaking Foundations,Non-Profit,$2 to $5 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst (21-22),,"Weslaco, TX",3.6,1001 to 5000 Employees,2000,School / School District,K-12 Education,Education,$100 to $500 million (USD)
+,Sr Healthcare Data Analyst,,United States,3.5,5001 to 10000 Employees,1966,Government,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst Specialist - Program Impact & Evaluation,,"South Jacksonville, FL",4.0,201 to 500 Employees,,Nonprofit Organization,Social Assistance,Non-Profit,Unknown / Non-Applicable
+,Data Analyst,,"Kirkland, WA",4.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Scientific Data Analyst,,"Atlanta, GA",4.3,501 to 1000 Employees,1999,Company - Private,Consulting,Business Services,$25 to $50 million (USD)
+,Data Analyst,Employer Provided Salary:$38 Per Hour,"Washington, DC",3.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Quality Data Analyst,,"Bothell, WA",4.5,501 to 1000 Employees,1984,Company - Public,Health Care Products Manufacturing,Manufacturing,Unknown / Non-Applicable
+,"Data Quality Analyst, BI",,"East Boston, MA",4.6,1001 to 5000 Employees,1984,Company - Public,Food & Beverage Manufacturing,Manufacturing,$500 million to $1 billion (USD)
+,DATA Analyst,,"Washington, DC",2.3,51 to 200 Employees,1997,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"Providence, RI",4.5,5001 to 10000 Employees,1764,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Corporate Data Analyst,,"Portland, ME",3.4,5001 to 10000 Employees,2019,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+,"Data Analyst - Denver, CO",,"Denver, CO",,Unknown,,,,,
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Valhalla, NY",2.9,1001 to 5000 Employees,1999,Company - Private,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Dallas, TX",,Unknown,,,,,
+,"Imaging Data Analyst, HBN",,"New York, NY",3.4,201 to 500 Employees,2009,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,Quality Business Data Analyst,,"Portland, ME",3.4,5001 to 10000 Employees,2019,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+,Quality & Warranty Data Analyst,,"Hagerstown, MD",3.2,10000+ Employees,1984,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,"Data Analyst, Manufacturing Quality",,"Fremont, CA",3.8,10000+ Employees,2003,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$2 to $5 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,"Imaging Data Analyst, HBN",,"New York, NY",3.4,201 to 500 Employees,2009,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD)
+,Data Analyst,,"Dallas, TX",,Unknown,,,,,
+,Junior Data Analyst,,"Washington, DC",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Quality Business Data Analyst,,"Portland, ME",3.4,5001 to 10000 Employees,2019,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+,Data Analyst,,"Dallas, TX",5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Quality Improvement (QI) Data Analyst,,"Bethesda, MD",4.0,1 to 50 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Quality Analyst,,"Colchester, VT",3.6,201 to 500 Employees,1972,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst - Entry Level,,"Mountain View, CA",4.1,1 to 50 Employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,United States,4.6,1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Bethesda, MD",3.0,201 to 500 Employees,2013,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+,"Data Analyst - Seattle, WA",,"Seattle, WA",4.4,51 to 200 Employees,,Company - Private,Consulting,Business Services,$1 to $5 million (USD)
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Amherst, NY",3.4,1001 to 5000 Employees,1995,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD)
+,"Data Quality Analyst, BI",,"East Boston, MA",4.6,1001 to 5000 Employees,1984,Company - Public,Food & Beverage Manufacturing,Manufacturing,$500 million to $1 billion (USD)
+,Data Analyst,,United States,3.2,1001 to 5000 Employees,1968,Company - Public,Radio,Media,$100 to $500 million (USD)
+,Data Analyst,,"Irving, TX",3.9,10000+ Employees,1888,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Data Analyst,,"Lehi, UT",3.5,1001 to 5000 Employees,1994,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$2 to $5 billion (USD)
+,Quality Data Analyst,Employer Provided Salary:$52K,Oklahoma,3.6,10000+ Employees,1990,Government,State & Regional Agencies,Government,$10+ billion (USD)
+,Data Analyst,,"San Diego, CA",3.6,201 to 500 Employees,1988,Company - Private,Architectural & Engineering Services,Business Services,$50 to $100 million (USD)
+,Data Analyst,,"Atlanta Central City Post Offi, GA",3.9,10000+ Employees,2003,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,$10+ billion (USD)
+,Quality Data Analyst,,"Salem, VA",3.4,501 to 1000 Employees,1952,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD)
+,"Data Analyst, Quality",,"Brentwood, TN",,Unknown,,,,,
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Amherst, NY",3.5,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.7,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Cambridge, MA",4.7,1 to 50 Employees,2013,,,Insurance,Unknown / Non-Applicable
+,"Data Analyst, Vital Village",,"East Boston, MA",4.0,1001 to 5000 Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.6,51 to 200 Employees,2010,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"South Boston, MA",3.8,1 to 50 Employees,,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD)
+,Data Analyst- Pharmacy,,"East Boston, MA",4.0,1001 to 5000 Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Quality Improvement Data Analyst,,"East Boston, MA",4.2,5001 to 10000 Employees,1869,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,,"Mechanicsburg, PA",4.0,1 to 50 Employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst II,,"Baltimore, MD",4.1,5001 to 10000 Employees,1943,Nonprofit Organization,Social Assistance,Non-Profit,$500 million to $1 billion (USD)
+,Data Analyst,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Quality Data Analyst,,"Milton, MA",3.9,10000+ Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Analyst,,"Cambridge, MA",4.4,1 to 50 Employees,2012,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $5 million (USD)
+,Data Analyst,,"East Boston, MA",2.7,201 to 500 Employees,1999,Company - Private,Video Games,Media,Unknown / Non-Applicable
+,Business/Data Analyst,,"Chicago, IL",4.0,5001 to 10000 Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Indianapolis, IN",5.0,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,DATA ANALYST,,"Fort Lauderdale, FL",3.1,5001 to 10000 Employees,1938,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Analyst,,"Providence, RI",3.7,1001 to 5000 Employees,1902,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.9,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,MEDICAL STAFF SERVICES DATA ANALYST FEATURED,,"Chicago, IL",2.9,1001 to 5000 Employees,1918,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Chicago, IL",3.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst - Strategy,,"Portland, OR",3.4,501 to 1000 Employees,2001,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Data Analyst,,"Atlanta Central City Post Offi, GA",3.9,10000+ Employees,2003,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,$10+ billion (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,MEDICAL STAFF SERVICES DATA ANALYST FEATURED,,"Chicago, IL",2.9,1001 to 5000 Employees,1918,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Galveston, TX",,Unknown,,,,,
+,Data Analyst - Strategy,,"Portland, OR",3.4,501 to 1000 Employees,2001,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Portfolio Data Analyst,,"East Boston, MA",4.5,501 to 1000 Employees,1982,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"East Boston, MA",4.7,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Carlsbad, CA",4.3,51 to 200 Employees,2016,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Research Data Analyst,,"East Boston, MA",4.2,5001 to 10000 Employees,1869,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Upland, CA",3.9,1001 to 5000 Employees,1906,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst / Tableau Support,,"Rockville, MD",3.9,1 to 50 Employees,,Company - Private,Advertising & Marketing,Business Services,$1 to $5 million (USD)
+,Data Analyst,,"Beaverton, OR",,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst I,,"Charlestown, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Scottsdale, AZ",4.1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Atlanta Central City Post Offi, GA",4.1,1001 to 5000 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Invoicing Data Analyst,,"Rochester, NY",3.0,501 to 1000 Employees,1995,Company - Private,Telecommunications Services,Telecommunications,$100 to $500 million (USD)
+,Data Analyst,Employer Provided Salary:$43K - $50K,"College Station, TX",4.4,10000+ Employees,1871,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Analyst,,"Salt Lake City, UT",4.3,10000+ Employees,1966,Company - Public,Financial Transaction Processing,Finance,$5 to $10 billion (USD)
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst,Employer Provided Salary:$55K - $65K,"Englewood, CO",4.1,51 to 200 Employees,2006,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,HIM DATA ANALYST,,"Hattiesburg, MS",3.3,1001 to 5000 Employees,1952,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Invoicing Data Analyst,,"Rochester, NY",3.0,501 to 1000 Employees,1995,,,Telecommunications,$100 to $500 million (USD)
+,Data Analyst I,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,Employer Provided Salary:$55K - $65K,"Englewood, CO",4.1,51 to 200 Employees,2006,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Data Analyst,,"Galveston, TX",,Unknown,,,,,
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"East Boston, MA",4.2,1001 to 5000 Employees,1914,Nonprofit Organization,Banks & Credit Unions,Finance,$2 to $5 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,HIM Data Integrity Analyst I,,"New Orleans, LA",3.4,5001 to 10000 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Carlsbad, CA",4.3,51 to 200 Employees,2016,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Columbia, MO",4.8,1001 to 5000 Employees,2002,Company - Private,Lending,Finance,Unknown / Non-Applicable
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Ixonia, WI",5.0,51 to 200 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.7,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Raleigh, NC",4.4,10000+ Employees,1993,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Carmel, IN",4.6,51 to 200 Employees,,Company - Private,,,$10 to $25 million (USD)
+,Data Analyst,Employer Provided Salary:$38 Per Hour,"Washington, DC",3.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst,,"Redwood City, CA",3.5,501 to 1000 Employees,2007,School / School District,K-12 Education,Education,Unknown / Non-Applicable
+,Data Analyst,,"Cambridge, MA",4.7,1 to 50 Employees,2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Data Analyst,,"Salt Lake City, UT",4.3,10000+ Employees,1966,Company - Public,Financial Transaction Processing,Finance,$5 to $10 billion (USD)
+,Data Analyst,,"Cleveland, OH",4.0,201 to 500 Employees,1986,Company - Public,Internet,Information Technology,$100 to $500 million (USD)
+,Data Analyst,Employer Provided Salary:$43K - $50K,"College Station, TX",4.4,10000+ Employees,1871,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",4.0,10000+ Employees,1841,Hospital,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Data Analyst,,"New York, NY",4.2,10000+ Employees,1938,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Seattle, WA",3.4,10000+ Employees,1979,Company - Public,Logistics & Supply Chain,Transportation & Logistics,$5 to $10 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.5,1001 to 5000 Employees,1941,Nonprofit Organization,Research & Development,Business Services,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1981,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Durham, NC",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"East Boston, MA",4.9,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Frisco, TX",3.4,51 to 200 Employees,1999,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD)
+,Data Analyst,,"Cambridge, MA",4.7,1 to 50 Employees,2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Data Analyst,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,Data Analyst,,"East Boston, MA",4.7,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Columbia, MD",4.0,Unknown,,Unknown,,,Unknown / Non-Applicable
+,Data Analyst,,"Rochester, NY",3.9,10000+ Employees,1921,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Woburn, MA",4.0,51 to 200 Employees,2012,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+,Data Analyst,,"Springfield, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",2.7,51 to 200 Employees,1969,Company - Private,Publishing,Media,$10 to $25 million (USD)
+,Data Analyst,,"Marina del Rey, CA",3.5,201 to 500 Employees,2011,Company - Private,Beauty & Personal Accessories Stores,Retail,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",1.0,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$50K - $97K,"Woburn, MA",4.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst,,"Woburn, MA",4.0,51 to 200 Employees,2012,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"College Station, TX",4.4,10000+ Employees,1871,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Bloomington, IN",4.3,5001 to 10000 Employees,1820,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"East Boston, MA",4.7,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$50K - $97K,"Woburn, MA",4.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst,,"Galveston, TX",,Unknown,,,,,
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",2.1,51 to 200 Employees,,Company - Public,Publishing,Media,$25 to $50 million (USD)
+,Data Analyst,,"New York, NY",4.2,10000+ Employees,1938,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",3.9,51 to 200 Employees,2013,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"East Boston, MA",4.9,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst,,"Vallejo, CA",3.2,201 to 500 Employees,,Nonprofit Organization,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",2.7,51 to 200 Employees,1969,Company - Private,Publishing,Media,$10 to $25 million (USD)
+,Data Analyst,,"East Boston, MA",4.6,51 to 200 Employees,2010,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$38 Per Hour,"Washington, DC",3.1,1 to 50 Employees,,Company - Private,,,$1 to $5 million (USD)
+,Data Analyst - Digestive & Liver Diseases,,"New York, NY",4.2,10000+ Employees,1938,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Valhalla, NY",2.9,1001 to 5000 Employees,1999,Company - Private,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",3.1,51 to 200 Employees,2011,Company - Public,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Woburn, MA",4.0,51 to 200 Employees,2012,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1887,Company - Private,Publishing,Media,$10+ billion (USD)
+,Data Analyst,,"Carlsbad, CA",4.3,51 to 200 Employees,2016,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable
+,Data Analyst - Digestive & Liver Diseases,,"New York, NY",4.2,10000+ Employees,1938,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1887,Company - Private,Publishing,Media,$10+ billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Mechanicsburg, PA",4.0,1 to 50 Employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.9,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Macomb, MI",3.1,10000+ Employees,1895,Company - Public,Industrial Manufacturing,Manufacturing,$2 to $5 billion (USD)
+,"Analyst – U.S. Travel, Global Client Group (Function: Data & Analytics)",,"New York, NY",4.2,10000+ Employees,1850,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+,Data Analyst,,"Raleigh, NC",3.9,10000+ Employees,1856,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst,,"Houston, TX",3.7,10000+ Employees,,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities",$5 to $10 billion (USD)
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst,,"Carlsbad, CA",4.3,51 to 200 Employees,2016,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.7,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Jeffersonville, IN",3.4,10000+ Employees,1967,Company - Public,Financial Transaction Processing,Finance,$5 to $10 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,1 to 50 Employees,,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Professional Development Data Analyst,,"Seattle, WA",3.8,501 to 1000 Employees,1990,Company - Private,Legal,Accounting & Legal,$100 to $500 million (USD)
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Atlanta Central City Post Offi, GA",3.3,51 to 200 Employees,1994,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"Santa Clara, CA",3.8,1001 to 5000 Employees,1997,Company - Public,Insurance Agencies & Brokerages,Insurance,$500 million to $1 billion (USD)
+,Data Analyst,Employer Provided Salary:$80K - $120K,"San Francisco, CA",,Unknown,,,,,
+,Data Analyst,Employer Provided Salary:$50K - $80K,"Arlington, VA",4.1,51 to 200 Employees,2008,Company - Private,Accounting,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,Remote,3.9,51 to 200 Employees,2010,Company - Private,Internet,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"Charlotte, NC",3.0,51 to 200 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst,,"Richmond, VA",3.1,1001 to 5000 Employees,1987,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Professional Development Data Analyst,,"Seattle, WA",3.8,501 to 1000 Employees,1990,Company - Private,Legal,Accounting & Legal,$100 to $500 million (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.7,51 to 200 Employees,2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Development Analyst,,"San Antonio, TX",,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,Remote,3.9,51 to 200 Employees,2010,Company - Private,Internet,Information Technology,$10 to $25 million (USD)
+,Consulting Data Analyst,,"Oakland, CA",4.1,10000+ Employees,1945,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Data Analyst,,"New York, NY",4.0,51 to 200 Employees,2013,Company - Private,Financial Transaction Processing,Finance,$10 to $25 million (USD)
+,Data Analyst,,"Houston, TX",1.0,1 to 50 Employees,2011,Company - Private,Research & Development,Business Services,$1 to $5 million (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"San Jose, CA",4.7,1001 to 5000 Employees,2008,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Brooklyn, NY",3.7,201 to 500 Employees,2017,Unknown,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Knoxville, TN",3.8,201 to 500 Employees,1946,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Invoicing Data Analyst,,"Phoenix, AZ",3.0,501 to 1000 Employees,1995,Company - Private,Telecommunications Services,Telecommunications,$100 to $500 million (USD)
+,Data Analyst,,"Washington, DC",4.4,201 to 500 Employees,2003,Company - Private,IT Services,Information Technology,$25 to $50 million (USD)
+,Data Analyst,,"Phoenix, AZ",4.3,51 to 200 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"East Boston, MA",4.9,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Scarborough, ME",2.6,51 to 200 Employees,,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD)
+,Data Analyst,,"Charlotte, NC",3.0,51 to 200 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst,,"New York, NY",4.0,10000+ Employees,1841,Hospital,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Data Analyst,,"San Francisco, CA",3.4,501 to 1000 Employees,2010,Company - Public,Other Retail Stores,Retail,$1 to $2 billion (USD)
+,Data Analyst,,"Salt Lake City, UT",3.3,201 to 500 Employees,2010,Company - Private,Telecommunications Services,Telecommunications,$50 to $100 million (USD)
+,Data Analyst,,"Providence, RI",3.7,1001 to 5000 Employees,1902,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Invoicing Data Analyst,,"Rochester, NY",3.0,501 to 1000 Employees,1995,,,Telecommunications,$100 to $500 million (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,,"East Boston, MA",4.9,51 to 200 Employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Santa Clara, CA",3.8,1001 to 5000 Employees,1997,Company - Public,Insurance Agencies & Brokerages,Insurance,$500 million to $1 billion (USD)
+,Data Analyst,,"Rochester, NY",4.5,1001 to 5000 Employees,1829,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analytics/Algorithm Analyst,,"East Boston, MA",3.7,51 to 200 Employees,1973,Company - Private,Research & Development,Business Services,$50 to $100 million (USD)
+,Data Analyst,,"Galveston, TX",,Unknown,,,,,
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst (21-22),,"Austin, TX",3.6,1001 to 5000 Employees,2000,School / School District,K-12 Education,Education,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",4.0,10000+ Employees,1841,Hospital,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Muscatine, IA",4.3,501 to 1000 Employees,,School / School District,,,$50 to $100 million (USD)
+,Data Analyst,,"Chicago, IL",3.2,51 to 200 Employees,2010,Company - Private,Automotive Parts & Accessories Stores,Retail,$5 to $10 million (USD)
+,Data Visualization Analyst,,"Chicago, IL",3.1,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"San Francisco, CA",3.4,501 to 1000 Employees,2010,Company - Public,Other Retail Stores,Retail,$1 to $2 billion (USD)
+,Data Analyst,,"Southborough, MA",3.9,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,DATA ANALYST,,"New York, NY",4.5,1001 to 5000 Employees,2018,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Jersey City, NJ",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,,"East Boston, MA",4.6,51 to 200 Employees,2010,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Bloomington, IN",4.3,5001 to 10000 Employees,1820,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",3.3,1001 to 5000 Employees,1973,Company - Public,Municipal Governments,Government,$500 million to $1 billion (USD)
+,Data Analyst,,"Washington, DC",2.8,501 to 1000 Employees,1997,Nonprofit Organization,Telecommunications Services,Telecommunications,$25 to $50 million (USD)
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Mountain View, CA",4.0,1001 to 5000 Employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable
+,Data Analyst I,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,,,$1 to $5 million (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Visualization Analyst,,"Chicago, IL",3.1,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"Valhalla, NY",2.9,1001 to 5000 Employees,1999,Company - Private,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1884,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Keene, NH",3.7,10000+ Employees,1963,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst I,,"Pittsburgh, PA",3.5,10000+ Employees,1982,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Muscatine, IA",4.3,501 to 1000 Employees,,School / School District,,,$50 to $100 million (USD)
+,Data Analyst,,"Chicago, IL",4.4,501 to 1000 Employees,1968,Company - Private,Business Service Centers & Copy Shops,Business Services,$50 to $100 million (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Clearwater, FL",3.5,1001 to 5000 Employees,1977,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,Data Analyst,,"Rochester, NY",4.5,1001 to 5000 Employees,1829,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Data Analyst,,"Bloomington, IN",4.3,5001 to 10000 Employees,1820,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",2.8,501 to 1000 Employees,1997,Nonprofit Organization,Telecommunications Services,Telecommunications,$25 to $50 million (USD)
+,Data Analyst,,"East Boston, MA",2.9,51 to 200 Employees,2006,School / School District,K-12 Education,Education,$1 to $5 million (USD)
+,Data Analyst,,"East Boston, MA",4.6,51 to 200 Employees,2010,Company - Private,Consulting,Business Services,Unknown / Non-Applicable
+,Data Analyst Junior,,"William Penn Post Office, PA",4.4,10000+ Employees,1740,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Visualization Analyst,,"Carmel, IN",3.8,501 to 1000 Employees,1998,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst,,"South Jacksonville, FL",4.0,1001 to 5000 Employees,,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Junior Data Analyst,Employer Provided Salary:$35K - $45K,"Washington, DC",3.7,501 to 1000 Employees,1992,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Junior Data Analyst,Employer Provided Salary:$80K,"Chicago, IL",,Unknown,,,,,
+,Data Analyst Junior,,"William Penn Post Office, PA",4.4,10000+ Employees,1740,College / University,Colleges & Universities,Education,Unknown / Non-Applicable
+,Data Analyst I,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Washington, DC",4.1,1 to 50 Employees,,Private Practice / Firm,Accounting,Accounting & Legal,$1 to $5 million (USD)
+,Junior Data Analyst,,"Washington, DC",,Unknown,,Company - Public,,,Unknown / Non-Applicable
+,Junior Data Analyst,,"Washington, DC",3.6,1 to 50 Employees,2008,Company - Private,IT Services,Information Technology,Less than $1 million (USD)
+,Junior Data Analyst,,"Raleigh, NC",3.7,51 to 200 Employees,2002,Company - Private,IT Services,Information Technology,$50 to $100 million (USD)
+,Data Analyst,,"Durham, NC",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Junior Data Analyst,,"Washington, DC",,Unknown,,,,,
+,Junior Data Analyst,,"Vienna, VA",3.6,51 to 200 Employees,2009,Company - Private,Consulting,Business Services,$10 to $25 million (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Junior Data Analyst,,"Washington, DC",4.4,51 to 200 Employees,2013,Government,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Visualization Analyst - Tableau,,"Atlanta Central City Post Offi, GA",3.7,10000+ Employees,1865,Company - Public,Other Retail Stores,Retail,$2 to $5 billion (USD)
+,Junior Data Analyst,,"Shelton, CT",3.4,1001 to 5000 Employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD)
+,Data Analyst,,"Valhalla, NY",2.9,1001 to 5000 Employees,1999,Company - Private,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Rochester, NY",4.5,1001 to 5000 Employees,1829,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Junior Data Analyst,,"Lenexa, KS",3.0,10000+ Employees,1859,Company - Public,Security Services,Business Services,$2 to $5 billion (USD)
+,Junior Data Analyst,,"Arlington, VA",3.9,1001 to 5000 Employees,,Self-employed,Accounting,Accounting & Legal,$500 million to $1 billion (USD)
+,Data Analyst,,"Muscatine, IA",4.3,501 to 1000 Employees,,School / School District,,,$50 to $100 million (USD)
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1884,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Visualization Analyst - Tableau,,"Atlanta Central City Post Offi, GA",3.7,10000+ Employees,1865,Company - Public,Other Retail Stores,Retail,$2 to $5 billion (USD)
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Durham, NC",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Modesto, CA",3.2,1 to 50 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Junior Data Analyst,Employer Provided Salary:$80K,"Chicago, IL",,Unknown,,,,,
+,Data Analyst,,"Southborough, MA",3.9,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst-Statistical,,"Murray, UT",3.7,10000+ Employees,1975,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Data Analyst,,"Bunker Hill Towers, CA",3.7,1001 to 5000 Employees,2011,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD)
+,Data Analyst,,"Atlanta, GA",4.2,10000+ Employees,1974,College / University,Colleges & Universities,Education,$2 to $5 billion (USD)
+,Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Valhalla, NY",2.9,1001 to 5000 Employees,1999,Company - Private,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Junior Data Analyst,,"Arlington, VA",3.9,1001 to 5000 Employees,,Self-employed,Accounting,Accounting & Legal,$500 million to $1 billion (USD)
+,Data Analyst,,"Vienna, VA",3.4,1001 to 5000 Employees,2008,Company - Private,IT Services,Information Technology,$100 to $500 million (USD)
+,EDI Analyst,,"New York, NY",3.6,5001 to 10000 Employees,,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Salt Lake City, UT",4.3,10000+ Employees,1966,Company - Public,Financial Transaction Processing,Finance,$5 to $10 billion (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1884,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Springfield, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Analyst,,"Rochester, NY",4.5,1001 to 5000 Employees,1829,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Data Analyst,,"Gastonia, NC",,Unknown,,,,,
+,Data Operations Analyst,,"Minneapolis, MN",3.0,1 to 50 Employees,,Company - Private,Health Care Services & Hospitals,Health Care,Less than $1 million (USD)
+,DATA ANALYST,,"New York, NY",4.5,1001 to 5000 Employees,2018,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Junior Data Analyst,,"Lenexa, KS",3.0,10000+ Employees,1859,Company - Public,Security Services,Business Services,$2 to $5 billion (USD)
+,Product Data Analyst,,"Conshohocken Post Office, PA",3.7,51 to 200 Employees,2011,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Business Operations Specialist Junior (Data Analyst),,"Scott Air Force Base, IL",4.4,201 to 500 Employees,2001,Company - Public,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD)
+,Data Analyst,,"Durham, NC",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Junior Data Analyst,,"Derwood, MD",3.3,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD)
+,Data Analyst,,"William Penn Post Office, PA",4.1,10000+ Employees,1993,Hospital,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,EDI Analyst,,"New York, NY",3.6,5001 to 10000 Employees,,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Southborough, MA",3.9,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,Employer Provided Salary:$71K - $106K,"Denver, CO",3.5,201 to 500 Employees,1996,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Junior Data Analyst,Employer Provided Salary:$80K,"Chicago, IL",,Unknown,,,,,
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst II,,"Chevy Chase, MD",4.5,1 to 50 Employees,2013,Company - Public,Talent & Modeling Agencies,"Arts, Entertainment & Recreation",$5 to $10 million (USD)
+,Data Analyst,,"Valhalla, NY",2.9,1001 to 5000 Employees,1999,Company - Private,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data Analyst,,"Springfield, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,DATA ANALYST/WAREHOUSE DBA,,"Durham, NH",3.7,10000+ Employees,1963,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Data Analyst,,"Salt Lake City, UT",4.3,10000+ Employees,1966,Company - Public,Financial Transaction Processing,Finance,$5 to $10 billion (USD)
+,Data Analyst,,"North Sioux City, SD",4.0,51 to 200 Employees,1996,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",4.1,10000+ Employees,1884,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Data & Reporting Analyst,,"Stamford, CT",3.2,10000+ Employees,2016,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Data Analyst,,"East Boston, MA",3.2,10000+ Employees,1980,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst II,,"Las Vegas, NV",3.5,5001 to 10000 Employees,2007,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$500 million to $1 billion (USD)
+,Data Analyst,,"Syracuse, NY",2.9,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Operations Data Analyst,,"San Diego, CA",4.0,5001 to 10000 Employees,1989,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD)
+,Product Data Analyst,,"Conshohocken Post Office, PA",3.7,51 to 200 Employees,2011,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+,Data Analyst,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,DATA ANALYST/WAREHOUSE DBA,,"Durham, NH",3.7,10000+ Employees,1963,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst II,,"Las Vegas, NV",3.5,5001 to 10000 Employees,2007,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$500 million to $1 billion (USD)
+,Data Analyst,,"Durham, NC",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst - Product Platform,,Remote,4.0,201 to 500 Employees,1997,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Regulatory Reporting Data Analyst,,"Chicago, IL",3.7,10000+ Employees,1882,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$2 to $5 billion (USD)
+,Data Analyst II,,"Baltimore, MD",4.1,5001 to 10000 Employees,1943,Nonprofit Organization,Social Assistance,Non-Profit,$500 million to $1 billion (USD)
+,Data Warehouse Analyst,Employer Provided Salary:$93K,"Richmond, VA",3.3,1001 to 5000 Employees,,Government,State & Regional Agencies,Government,Unknown / Non-Applicable
+,Data Analyst,,"South Boston, MA",3.8,1 to 50 Employees,,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD)
+,Data Analyst,,"Houston, TX",1.0,1 to 50 Employees,2011,Company - Private,Research & Development,Business Services,$1 to $5 million (USD)
+,Data Analyst,,"East Boston, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Control Analyst II,,"Alpharetta Post Office, GA",3.0,1001 to 5000 Employees,1968,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$1 to $2 billion (USD)
+,Data Analyst,,"Wausau, WI",3.4,201 to 500 Employees,1935,Company - Private,Banks & Credit Unions,Finance,$2 to $5 billion (USD)
+,Data Analyst,,"Chicago, IL",3.8,5001 to 10000 Employees,2018,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable
+,Data Analyst,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,PDB Product Analyst,,"Newton, MA",4.2,1001 to 5000 Employees,2012,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data & Reporting Analyst - Spectrum Enterprise,,"East Syracuse, NY",3.2,10000+ Employees,2016,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,SDFC Data Analyst,,"Melville, NY",3.2,10000+ Employees,2018,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD)
+,Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Business Analyst II,Employer Provided Salary:$72K - $127K,United States,3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst - Reference Lab,,"Westbrook, ME",3.7,5001 to 10000 Employees,1983,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD)
+,PDB Product Analyst,,"Newton, MA",4.2,1001 to 5000 Employees,2012,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"Southborough, MA",3.9,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst,Employer Provided Salary:$67K - $86K,"Washington, DC",4.0,5001 to 10000 Employees,,Government,Municipal Governments,Government,$100 to $500 million (USD)
+,Data Analyst - Reference Lab,,"Westbrook, ME",3.7,5001 to 10000 Employees,1983,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data & Reporting Analyst - Spectrum Enterprise,,"East Syracuse, NY",3.2,10000+ Employees,2016,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Business & Data Analyst,,"Peoria, IL",3.9,10000+ Employees,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD)
+,PDB Product Analyst,,"Newton, MA",4.2,1001 to 5000 Employees,2012,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst II,,"Baltimore, MD",4.1,5001 to 10000 Employees,1943,Nonprofit Organization,Social Assistance,Non-Profit,$500 million to $1 billion (USD)
+,Business/Data Analyst,,"Chicago, IL",4.0,5001 to 10000 Employees,1984,Company - Public,IT Services,Information Technology,$10+ billion (USD)
+,Business Data Analyst,,"Atlanta Central City Post Offi, GA",3.8,201 to 500 Employees,2003,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD)
+,Data Analyst,,"Southborough, MA",3.9,51 to 200 Employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"San Diego, CA",3.6,201 to 500 Employees,1988,Company - Private,Architectural & Engineering Services,Business Services,$50 to $100 million (USD)
+,Business Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst - Population Health,,"New York, NY",4.2,10000+ Employees,1998,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Business Data Analyst,,"Middletown, RI",4.0,51 to 200 Employees,,Company - Public,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+,Business/ Data Analyst,,"Chicago, IL",3.6,1001 to 5000 Employees,1898,Company - Public,Commercial Equipment Rental,Business Services,$1 to $2 billion (USD)
+,Business Intelligence Analyst,,"Napa, CA",3.6,51 to 200 Employees,1985,Company - Private,Consumer Products Manufacturing,Manufacturing,$10 to $25 million (USD)
+,Data Analyst II - Osseointegration,,"Bethesda, MD",3.9,1001 to 5000 Employees,1983,Nonprofit Organization,Research & Development,Business Services,$100 to $500 million (USD)
+,Senior Business Data Analyst I,,"Somerville, MA",3.7,1001 to 5000 Employees,1891,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Reporting Data Analyst,,"Winooski, VT",4.3,1001 to 5000 Employees,2005,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst,,"Durham, NC",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst,,"Springfield, MA",3.9,5001 to 10000 Employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data & Reporting Analyst,,"Maryland Heights, MO",3.2,10000+ Employees,2016,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"East Boston, MA",2.7,201 to 500 Employees,1999,Company - Private,Video Games,Media,Unknown / Non-Applicable
+,Data Analyst,,"Houston, TX",1.0,1 to 50 Employees,2011,Company - Private,Research & Development,Business Services,$1 to $5 million (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Senior Business Data Analyst I,,"Somerville, MA",3.7,1001 to 5000 Employees,1891,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Data Analyst I,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Business Intelligence Analyst,,"Napa, CA",3.6,51 to 200 Employees,1985,Company - Private,Consumer Products Manufacturing,Manufacturing,$10 to $25 million (USD)
+,Business Intelligence Analyst,,"Seattle, WA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Data Analyst,,"Pittsburgh, PA",4.2,10000+ Employees,1787,College / University,Colleges & Universities,Education,Less than $1 million (USD)
+,CIB - Business Analyst & Reporting Specialist,,"Chicago, IL",3.8,10000+ Employees,1799,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Business Analyst,Employer Provided Salary:$124K,"East Boston, MA",3.7,1001 to 5000 Employees,1997,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable
+,Business Intelligence Analyst,,"Chicago, IL",3.9,10000+ Employees,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD)
+,Reporting Data Analyst,,"Winooski, VT",4.3,1001 to 5000 Employees,2005,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Business Analyst II,,"Brentwood, TN",3.4,501 to 1000 Employees,1952,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD)
+,Business Analyst,,"Seattle, WA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Technical Data Analyst,,"Covington, KY",4.2,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Data Analyst,,"Arlington, VA",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Data Analyst,,"Houston, TX",1.0,1 to 50 Employees,2011,Company - Private,Research & Development,Business Services,$1 to $5 million (USD)
+,Data Analyst,,"Atlanta Central City Post Offi, GA",3.3,51 to 200 Employees,1994,Company - Private,IT Services,Information Technology,$10 to $25 million (USD)
+,Data Analyst II,,"Baltimore, MD",4.1,5001 to 10000 Employees,1943,Nonprofit Organization,Social Assistance,Non-Profit,$500 million to $1 billion (USD)
+,Business Intelligence & Reporting Analyst III (US),,"Falmouth, ME",4.0,10000+ Employees,1855,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Analyst,,"Houston, TX",4.3,10000+ Employees,1919,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.0,201 to 500 Employees,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Business Intelligence Analyst,,"Lumberton, NC",3.1,1001 to 5000 Employees,1946,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Global Data Analyst 2,,"Orchard Park, NY",3.9,10000+ Employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+,Data Analyst,,"Carlsbad, CA",4.3,51 to 200 Employees,2016,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable
+,Senior Data Analyst,,"Foster City, CA",3.0,10000+ Employees,1980,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,DATA ANALYST,,"Chicago, IL",2.8,51 to 200 Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD)
+,IT Analyst - Business Intelligence Data Analyst,,"Bridgeton, MO",3.8,5001 to 10000 Employees,1906,Company - Private,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD)
+,Business Intelligence & Reporting Analyst III (US),,"Falmouth, ME",4.0,10000+ Employees,1855,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Senior Data Analyst,,"Foster City, CA",3.0,10000+ Employees,1980,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD)
+,Sr. Business Intelligence & Reporting Analyst (US),,"Laurel, DE",4.0,10000+ Employees,1855,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Senior Data Analyst (US - Remote),,Remote,4.8,51 to 200 Employees,2014,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable
+,Senior Data Analyst,,"Rochester, MN",4.2,10000+ Employees,,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Senior Data Analyst,,"Draper, UT",3.9,1001 to 5000 Employees,2004,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD)
+,Global Data Analyst 2,,"Orchard Park, NY",3.9,10000+ Employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD)
+,Senior Data Analyst,,"Asheville, NC",3.4,Unknown,,Government,Municipal Governments,Government,Unknown / Non-Applicable
+,Business Analyst II,Employer Provided Salary:$72K - $127K,United States,3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,"Data Analyst, Senior",,"East Boston, MA",4.2,1001 to 5000 Employees,1914,Nonprofit Organization,Banks & Credit Unions,Finance,$2 to $5 billion (USD)
+,Senior Data Analyst,,"East Boston, MA",4.8,51 to 200 Employees,2018,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD)
+,Senior Data Analyst,,"Dublin, OH",3.1,5001 to 10000 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Intelligence Data Analyst 2,,"McLean, VA",4.2,5001 to 10000 Employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD)
+,Senior Data Analyst - Validation,,"Dallas, TX",3.3,201 to 500 Employees,2006,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Sr Business Analyst (US),,"Seattle, WA",2.9,1001 to 5000 Employees,2009,Subsidiary or Business Segment,Internet,Information Technology,$1 to $2 billion (USD)
+,Data Analyst III,,"Rosemont, IL",3.9,201 to 500 Employees,1994,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD)
+,"Data Analyst, Senior",,"El Dorado Hills, CA",4.3,5001 to 10000 Employees,1939,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Senior Data Analyst,,"Bunker Hill Towers, CA",4.4,51 to 200 Employees,2016,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable
+,Data Analyst II,,"Baltimore, MD",4.1,5001 to 10000 Employees,1943,Nonprofit Organization,Social Assistance,Non-Profit,$500 million to $1 billion (USD)
+,Global Operations Data Analyst,,"Bethesda, MD",3.0,501 to 1000 Employees,1968,Nonprofit Organization,K-12 Education,Education,Unknown / Non-Applicable
+,Senior Customer Experience Data Analyst,,United States,3.4,10000+ Employees,1969,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,"Senior Data Analyst, Informatics",,"Atlanta Central City Post Offi, GA",4.3,5001 to 10000 Employees,2009,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD)
+,"Senior Data Analyst, Informatics",,"Atlanta Central City Post Offi, GA",4.3,5001 to 10000 Employees,2009,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD)
+,Sr. Data Analyst,,"Silver Spring, MD",3.4,10000+ Employees,1975,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Healthcare Data Analyst II,,"East Boston, MA",4.1,10000+ Employees,1811,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD)
+,Senior Data Analyst,,"Chapel Hill, NC",4.4,1 to 50 Employees,,College / University,Colleges & Universities,Education,$1 to $5 million (USD)
+,Sr Data Analyst BILHPN,,"Westwood, MA",3.5,5001 to 10000 Employees,2012,Hospital,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD)
+,Senior Operations Data Analyst,,"Needham, MA",3.6,1001 to 5000 Employees,1993,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion (USD)
+,Senior Customer Experience Data Analyst,,United States,3.4,10000+ Employees,1969,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Senior Data Analyst,,"Palo Alto, CA",4.5,201 to 500 Employees,2015,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Senior Data Analyst,,"Des Moines, IA",3.6,1001 to 5000 Employees,1911,Unknown,Insurance Carriers,Insurance,$25 to $50 million (USD)
+,Data Analyst Senior,Employer Provided Salary:$55K - $86K,"Golden, CO",3.3,1001 to 5000 Employees,1859,Government,Municipal Governments,Government,Less than $1 million (USD)
+,Informatics Analyst II,,"East Boston, MA",4.1,1001 to 5000 Employees,1947,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Senior Data Analyst,,"Redwood City, CA",3.9,201 to 500 Employees,2008,Subsidiary or Business Segment,Financial Transaction Processing,Finance,Unknown / Non-Applicable
+,SENIOR DATA ANALYST - CUSTOMER ANALYTICS,,"San Angelo, TX",3.7,10000+ Employees,1974,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$5 to $10 billion (USD)
+,Sr. Data Analyst,,"Omaha, NE",3.3,10000+ Employees,1984,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD)
+,Sr. Data Analyst,,"Silver Spring, MD",3.4,10000+ Employees,1975,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Senior Data Analyst,,"Arlington, VA",3.9,1001 to 5000 Employees,,Self-employed,Accounting,Accounting & Legal,$500 million to $1 billion (USD)
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Sr. Data Analyst,,"El Segundo, CA",3.6,10000+ Employees,1983,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD)
+,Senior Data Analyst,,"Chicago, IL",3.2,10000+ Employees,1998,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable
+,Health Data Analyst III,,"East Boston, MA",3.0,501 to 1000 Employees,1997,Nonprofit Organization,Insurance Carriers,Insurance,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Senior Data Analyst,,"Visalia, CA",3.7,1001 to 5000 Employees,1961,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD)
+,Customer Experience Data Analyst,,"East Nashville, TN",3.2,1001 to 5000 Employees,1965,Company - Public,Insurance Carriers,Insurance,$100 to $500 million (USD)
+,Sr Healthcare Data Analyst,,United States,3.5,5001 to 10000 Employees,1966,Government,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,"Senior Data Analyst, Informatics",,"Atlanta Central City Post Offi, GA",4.3,5001 to 10000 Employees,2009,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD)
+,Sr. Healthcare Data Analyst,,"East Boston, MA",4.1,1001 to 5000 Employees,1937,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD)
+,Customer Experience Data Analyst,,"New York, NY",,1 to 50 Employees,,Company - Private,Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable
+,Senior Data Analyst,,"Costa Mesa, CA",3.6,5001 to 10000 Employees,1969,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD)
+,Senior Healthcare Data Analyst,,Remote,5.0,51 to 200 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable
+,Senior Data Analyst - Healthcare,,Texas,3.1,5001 to 10000 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Sr. Data Analyst,,"Arlington, VA",4.1,51 to 200 Employees,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD)
+,Sr Data Analyst,,"Brentwood, TN",3.4,10000+ Employees,1978,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Senior Data Analyst,,"San Leandro, CA",,Unknown,,,,,
+,Sr Data Analyst BILHPN,,"Westwood, MA",3.5,5001 to 10000 Employees,2012,Hospital,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD)
+,Senior Customer Experience Data Analyst,,United States,3.4,10000+ Employees,1969,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD)
+,Senior Data Analyst,,"Palo Alto, CA",4.5,201 to 500 Employees,2015,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable
+,Data Analyst,,"Stanford, CA",4.2,5001 to 10000 Employees,1908,College / University,Colleges & Universities,Education,$1 to $2 billion (USD)
+,Data Analyst,,"Chicago, IL",3.3,10000+ Employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable
+,Senior Data Analyst - Healthcare,,Texas,3.1,5001 to 10000 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Data Analyst,,"New York, NY",3.8,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD)
+,Sr Healthcare Data Analyst,,United States,3.5,5001 to 10000 Employees,1966,Government,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Sr. Data Analyst,,"Bozeman, MT",3.8,501 to 1000 Employees,1911,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,Sr. Data Analyst,,"Silver Spring, MD",3.4,10000+ Employees,1975,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD)
+,Senior Data Analyst,,"McLean, VA",4.1,5001 to 10000 Employees,1970,Company - Public,Lending,Finance,$10+ billion (USD)
+,Senior Data Analyst,,"Willowbrook, IL",4.0,51 to 200 Employees,2010,Company - Private,Sports & Recreation,"Arts, Entertainment & Recreation",Unknown / Non-Applicable
+,Senior Healthcare Data Analyst,,"East Boston, MA",3.9,10000+ Employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD)
+,Senior Data Analyst,,"Seattle, WA",4.0,51 to 200 Employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD)
+,Senior Clinical Informatics & Data Analyst,,"Tacoma, WA",2.7,Unknown,,Company - Private,,,Unknown / Non-Applicable
+,Data Analyst,,"Chicago, IL",3.5,201 to 500 Employees,1952,Company - Private,Legal,Accounting & Legal,Unknown / Non-Applicable
+,Senior Data Analyst,,"Chapel Hill, NC",4.4,1 to 50 Employees,,College / University,Colleges & Universities,Education,$1 to $5 million (USD)
+,Data Analyst,,"Washington, DC",3.8,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD)
+,Test Data Analyst-SQL Experience preferred,,"Chicago, IL",3.8,10000+ Employees,1936,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable
+,Senior Data Analyst,,Remote,3.8,51 to 200 Employees,2001,Company - Private,Audiovisual,"Arts, Entertainment & Recreation",$25 to $50 million (USD)
+,Senior Data Analyst,,"Bunker Hill Towers, CA",3.8,5001 to 10000 Employees,2019,Company - Public,TV Broadcast & Cable Networks,Media,Unknown / Non-Applicable
+,Senior Data Analyst,,"Pittsburgh, PA",2.5,1001 to 5000 Employees,1992,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD)
+,Senior Data Analyst - Telecommute,,"Franklin, TN",3.6,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
+,Senior Data Analyst,,"Chicago, IL",3.7,51 to 200 Employees,1976,Company - Private,Investment Banking & Asset Management,Finance,$50 to $100 million (USD)
+,DATA INFORMATICS ANALYST,,"Madison, WI",4.6,51 to 200 Employees,,Company - Public,,,Unknown / Non-Applicable
+,Health Informatics Data Analyst,,"Malvern, PA",4.1,10000+ Employees,1843,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD)
+,"Senior Data Analyst, Informatics",,"Atlanta Central City Post Offi, GA",4.3,5001 to 10000 Employees,2009,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD)
+,Senior Operations Data Analyst,,"Needham, MA",3.6,1001 to 5000 Employees,1993,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion (USD)
+,Data Analyst,,"Upland, CA",3.9,1001 to 5000 Employees,1906,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD)
+,"Senior Data Analyst - Remote in Schaumburg, IL",,"Schaumburg, IL",3.6,10000+ Employees,1977,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD)
