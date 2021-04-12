@@ -1,2 +1,2 @@
-# Selenium Tutorial: Scraping Glassdoor.com
-Jupyter Notebook file from the Medium post: [_Selenium Tutorial: Scraping Glassdoor.com_](https://medium.com/@mersakarya/selenium-tutorial-scraping-glassdoor-com "Selenium Tutorial: Scraping Glassdoor.com")
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
