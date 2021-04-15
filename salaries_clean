@@ -1,517 +1,517 @@
-job_title,rating,size,type_of_ownership,industry,sector,revenue,min_salary,max_salary,avg_salary,city,state,company_age
-Data/Reporting Analyst,3.1,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),40,74,57.0,Miami Lakes,FL,11.0
-Lead Data Analyst,3.1,1001 to 5000 Employees,Nonprofit Organization,Lending,Finance,$500 million to $1 billion (USD),48,82,65.0,Harrisburg,PA,57.0
-Supply Chain Data Analyst,3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Pleasant Prairie,WI,40.0
-Operations Data Analyst,3.2,1001 to 5000 Employees,Company - Private,Logistics & Supply Chain,Transportation & Logistics,,32,57,44.5,Rancho Cucamonga,CA,44.0
-Life Data Analyst,4.4,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),38,69,53.5,Columbia,MO,74.0
-Digital Engagement Data Analyst/Admin,3.8,1001 to 5000 Employees,Nonprofit Organization,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),50,59,54.5,Ogden,UT,81.0
-Master Data Analyst,3.2,10000+ Employees,Company - Private,Miscellaneous Manufacturing,Manufacturing,,42,75,58.5,Covington,KY,16.0
-Data Quality Assurance Analyst,4.2,5001 to 10000 Employees,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),51,94,72.5,Warrenton,VA,52.0
-Treasury Data Analyst,3.1,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),46,82,64.0,Miami Lakes,FL,11.0
-"ERP Analyst, Data Conversion",3.5,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),79,81,80.0,Somerset,NJ,13.0
-IT Data Analyst,4.4,1001 to 5000 Employees,Company - Private,Lending,Finance,,37,68,52.5,Greenville,SC,34.0
-Data Standard Analyst - Biostatistics Team,3.0,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),34,82,58.0,Cincinnati,OH,28.0
-Contract Data Analyst,3.9,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),54,98,76.0,Arlington,VA,21.0
-"Financial Data Solutions, Sr. Data & Information Reporting Analyst",3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),84,104,94.0,Phoenix,AZ,156.0
-Senior Data Analyst,2.5,1001 to 5000 Employees,Company - Public,Lending,Finance,$100 to $500 million (USD),38,68,53.0,Lenexa,KS,36.0
-ETL/ Data Warehouse Test Analyst,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),51,59,55.0,Richardson,TX,39.0
-Quality Assurance Analyst - Data Warehouse ETL (South of Milwaukee),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,69,79,74.0,Milwaukee,WI,40.0
-CRA Data Analyst,3.1,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),43,78,60.5,Miami Lakes,FL,11.0
-Regulatory Affairs Data Analyst,4.0,1001 to 5000 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$1 to $2 billion (USD),47,85,66.0,Naples,FL,39.0
-Lead Data Analyst,4.4,10000+ Employees,College / University,Colleges & Universities,Education,,30,53,41.5,College Station,TX,149.0
-Lead Data Analyst for Datawarehouse,3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),56,95,75.5,Tempe,AZ,156.0
-GME Research Data Developer Analyst,3.5,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,,52,99,75.5,Gainesville,GA,69.0
-Web and Marketing Data Analyst,3.6,10000+ Employees,Subsidiary or Business Segment,Wholesale,Business Services,$10+ billion (USD),48,85,66.5,Newport News,VA,67.0
-Data Engineering Analyst,3.4,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),67,131,99.0,Waltham,MA,179.0
-GBSD Sr Data Analyst – Systems Engineer,4.0,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),64,82,73.0,Roy,UT,81.0
-IT Data Analyst III,4.0,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),82,143,112.5,Newark,NJ,88.0
-Data Quality Analyst I,4.0,201 to 500 Employees,Company - Private,Consulting,Business Services,,46,82,64.0,Minneapolis,MN,28.0
-"Data Management Business Analyst-Sourcing Analytics, CT or Remote",3.6,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),74,105,89.5,New Britain,CT,177.0
-"Sr Business/Data Analyst, Technology",4.0,10000+ Employees,Company - Public,Brokerage Services,Finance,$5 to $10 billion (USD),48,94,71.0,Saint Petersburg,FL,58.0
-Senior Data Analyst,3.8,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),64,111,87.5,Atlanta,GA,172.0
-Data Quality Analyst,3.6,1001 to 5000 Employees,Company - Private,Consulting,Business Services,$100 to $500 million (USD),45,82,63.5,Phoenix,AZ,34.0
-Supply Chain Data Analyst (South of Milwaukee),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Milwaukee,WI,40.0
-Program Finance & Data Analyst,2.9,201 to 500 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),68,94,81.0,Washington,DC,51.0
-eCommerce/Marketing Data Analyst,3.4,501 to 1000 Employees,Company - Private,,,$100 to $500 million (USD),61,73,67.0,Arlington Heights,IL,
-Data Analyst-Business Information Specialist,3.0,10000+ Employees,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),42,72,57.0,Flint,MI,39.0
-Supply Chain Data Analyst (North of Chicago),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Chicago,IL,40.0
-Digital Data Analyst,3.6,10000+ Employees,Company - Private,Insurance Agencies & Brokerages,Insurance,$1 to $2 billion (USD),48,60,54.0,Chicago,IL,22.0
-Research Data Analyst,4.1,501 to 1000 Employees,College / University,Colleges & Universities,Education,$100 to $500 million (USD),31,57,44.0,Detroit,MI,149.0
-"ETL, Data Warehouse Test Analyst",3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),51,58,54.5,Atlanta,GA,39.0
-Business Analyst - Data Science,3.6,501 to 1000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$1 to $2 billion (USD),37,68,52.5,Fort Wayne,IN,121.0
-Senior Benefits Data Analyst - Compliance,3.5,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$2 to $5 billion (USD),42,72,57.0,North Canton,OH,121.0
-Business Analyst - Data Operations,2.9,51 to 200 Employees,Private Practice / Firm,Legal,Accounting & Legal,$10 to $25 million (USD),31,55,43.0,Plymouth,MN,55.0
-Metrics & Data Analytics Analyst,3.8,10000+ Employees,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),68,94,81.0,Washington,DC,24.0
-HR Systems and Data Analyst - Augsburg University,3.8,501 to 1000 Employees,College / University,Colleges & Universities,Education,$50 to $100 million (USD),37,67,52.0,Minneapolis,MN,151.0
-Business System Analyst 3 (Quality Control Data Analyst) - SOM:Cancer Center -Davis,4.4,10000+ Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),74,83,78.5,Sacramento,CA,115.0
-Data Analyst/Tableau Developer,4.4,51 to 200 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),59,106,82.5,Washington,DC,15.0
-Sales Data Analyst,3.5,201 to 500 Employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),41,74,57.5,Carson,CA,34.0
-Lead Reporting Data Analyst,4.0,201 to 500 Employees,Company - Private,Consulting,Business Services,,87,117,102.0,Minneapolis,MN,28.0
-Quantitative Data Analyst,3.1,51 to 200 Employees,Company - Private,Internet,Information Technology,,60,63,61.5,Cambridge,MA,15.0
-Business Data Analyst,2.2,501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD),30,57,43.5,Raleigh,NC,24.0
-"Marketing Data Analyst, Portsmouth",3.6,501 to 1000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$2 to $5 billion (USD),36,65,50.5,Portsmouth,NH,63.0
-Data Visualization Analyst,4.2,51 to 200 Employees,Company - Public,Consulting,Business Services,$1 to $5 million (USD),34,65,49.5,Vienna,VA,8.0
-Test Analyst - ETL/Data Warehouse/Unix/Report Testing/Analytics,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),48,56,52.0,Saint Louis,MO,39.0
-Data Analyst-HEDIS & Star,4.1,501 to 1000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$2 to $5 billion (USD),80,91,85.5,Long Beach,CA,43.0
-Senior Crew Data Analyst,3.9,10000+ Employees,Subsidiary or Business Segment,Express Delivery Services,Transportation & Logistics,$10+ billion (USD),85,95,90.0,Memphis,TN,49.0
-Travel Data Analyst,2.9,501 to 1000 Employees,Franchise,Membership Organizations,Business Services,$1 to $5 million (USD),49,55,52.0,Worthington,OH,43.0
-"Senior Data Analyst, Data Transformation",3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),64,109,86.5,Charlotte,NC,156.0
-Variable Data Analyst,3.2,51 to 200 Employees,Company - Private,,,,74,80,77.0,Peabody,MA,
-Lending Data Analyst,3.5,501 to 1000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$100 to $500 million (USD),44,78,61.0,Rolling Meadows,IL,85.0
-"Senior Analyst, Data & Analytics",4.0,51 to 200 Employees,Company - Private,Internet,Information Technology,$25 to $50 million (USD),61,133,97.0,San Francisco,CA,9.0
-IT Data Analyst - Administration,3.6,1001 to 5000 Employees,Company - Public,,,,47,59,53.0,San Diego,CA,
-Data Analyst-Power BI Developer,,,,,,,71,110,90.5,Irvine,CA,
-Seasonal Data Capture Analyst,3.0,51 to 200 Employees,Company - Private,Research & Development,Business Services,,30,55,42.5,Bozeman,MT,
-Research Analyst - Data Science Division,3.6,501 to 1000 Employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),66,132,99.0,Arlington,VA,78.0
-"Data Analyst, Advanced Analytics",3.8,5001 to 10000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),47,84,65.5,Richmond,VA,101.0
-Data Governance Analyst,3.6,1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),42,75,58.5,Chaska,MN,54.0
-Senior Data Analyst,2.6,201 to 500 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,,45,80,62.5,Honolulu,HI,26.0
-Data Analyst I - Cox Business Indirect Sales,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),42,72,57.0,Las Vegas,NV,58.0
-Data Governance Analyst,3.7,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),38,68,53.0,Kansas City,MO,135.0
-Data Operations Analyst,4.0,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),39,57,48.0,Jacksonville,FL,51.0
-"Enterprise Data, Financial Data Analyst - Content Design Specialist Contractor",4.1,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,,58,98,78.0,New York,NY,39.0
-Senior Data Analyst,3.5,10000+ Employees,Company - Public,Transportation Management,Transportation & Logistics,$5 to $10 billion (USD),77,87,82.0,San Diego,CA,87.0
-Epic Clarity Data Analyst,3.7,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),55,75,65.0,Malden,MA,129.0
-BI Data Analyst,3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),43,78,60.5,Baltimore,MD,51.0
-MASTER DATA ANALYST,3.2,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),41,73,57.0,Largo,FL,
-Data Science Support Analyst (Journeyman),3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),104,171,137.5,McLean,VA,49.0
-Lead Data Analyst,3.1,51 to 200 Employees,Company - Private,Consulting,Business Services,$100 to $500 million (USD),42,79,60.5,Nashville,TN,26.0
-Data Security Analyst,3.5,501 to 1000 Employees,Company - Private,Federal Agencies,Government,$10 to $25 million (USD),76,87,81.5,Burlingame,CA,24.0
-Clinical Data Analyst - Patient Experience,4.2,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),58,71,64.5,Honolulu,HI,
-Senior Financial Analyst-Data Analytics,3.8,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),41,65,53.0,Portland,ME,172.0
-SQL Data Analyst,2.9,51 to 200 Employees,Nonprofit Organization,Investment Banking & Asset Management,Finance,$5 to $10 million (USD),48,71,59.5,Denver,CO,
-Data Engineer Analyst / Developer,4.1,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),83,95,89.0,Hartford,CT,167.0
-Tableau Admin / Data Analyst,3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),33,33,33.0,Roy,UT,49.0
-Energy Data Analyst,3.1,51 to 200 Employees,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$25 to $50 million (USD),58,106,82.0,Roanoke,VA,17.0
-"Data Quality Analyst (Trinity County, CA)",3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),43,45,44.0,Eureka,CA,54.0
-Pharmacy Data Analyst,,,,,,,53,80,66.5,Garden Grove,CA,
-Data Analyst,3.5,51 to 200 Employees,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),46,84,65.0,San Diego,CA,33.0
-Lead Medical Coding Data Analyst,4.5,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),11,21,16.0,Indianapolis,IN,55.0
-Sr. Data Analyst - Insurance Pricing Specialist,3.8,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD),53,94,73.5,Brea,CA,59.0
-"Data Analyst, Digital",3.8,1001 to 5000 Employees,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$100 to $500 million (USD),44,78,61.0,Sycamore,IL,104.0
-Senior Data Science Analyst - Center for Digital Health,4.2,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),72,120,96.0,Rochester,MN,
-Senior Application Analyst - Data Visualization & SQL,3.4,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),44,70,57.0,Wayne,PA,42.0
-Senior Data Analyst,4.5,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),49,91,70.0,Durant,OK,
-HCM Data Analyst,4.4,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),37,44,40.5,Oklahoma City,OK,22.0
-Product Data Analyst,3.1,1001 to 5000 Employees,Company - Public,Automotive Parts & Accessories Stores,Retail,$500 million to $1 billion (USD),52,93,72.5,Colmar,PA,102.0
-Senior Media Data & Reporting Analyst,2.3,1 to 50 Employees,Company - Private,Internet,Information Technology,,91,101,96.0,New York,NY,
-Scientific Data Analyst,4.3,501 to 1000 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),49,90,69.5,Atlanta,GA,21.0
-"Senior Quality, Safety, Health Equity Data Analyst / 40 Hours / BWH APSI",3.9,5001 to 10000 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),41,73,57.0,Boston,MA,24.0
-Technical Data Analyst,2.0,201 to 500 Employees,Company - Private,Security Services,Business Services,$25 to $50 million (USD),30,52,41.0,Ladera Ranch,CA,27.0
-Lead Data Science Analyst,3.9,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$25 to $50 million (USD),85,118,101.5,Riverwoods,IL,35.0
-Data Analyst Coordinator,3.4,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),38,66,52.0,King of Prussia,PA,42.0
-Senior Business Analyst - Data Solutions,2.7,501 to 1000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),58,106,82.0,Denver,CO,49.0
-ELINT Data Analyst,3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),44,81,62.5,Austin,TX,58.0
-Data Insight Analyst,4.0,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),74,95,84.5,McLean,VA,81.0
-Data Science Analyst - RH,3.8,10000+ Employees,Company - Private,Wholesale,Business Services,$25 to $50 million (USD),42,74,58.0,Rosemont,IL,44.0
-Sr. Investments Data Analyst,3.7,5001 to 10000 Employees,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),71,83,77.0,New York,NY,160.0
-Market Intelligence and Data Analytics Analyst II,3.2,10000+ Employees,Company - Public,Wholesale,Business Services,$10+ billion (USD),48,82,65.0,Lake Mary,FL,85.0
-Master Data Coordinator (Master Data Analyst),4.2,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),45,78,61.5,Saint Louis,MO,57.0
-Marketing Data Analyst,4.6,201 to 500 Employees,Company - Private,Real Estate,Real Estate,$100 to $500 million (USD),40,63,51.5,Troy,OH,28.0
-Guest Data Analyst,3.2,10000+ Employees,Company - Public,Gas Stations,Retail,$5 to $10 billion (USD),33,57,45.0,Ankeny,IA,53.0
-Senior Data Governance Analyst,3.7,1001 to 5000 Employees,Company - Private,Lending,Finance,$500 million to $1 billion (USD),93,106,99.5,Irving,TX,14.0
-Senior Data Analyst,3.6,5001 to 10000 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD),51,90,70.5,Atlanta,GA,51.0
-Quality Assurance Analyst - Data Warehouse ETL (North of Chicago),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,41,87,64.0,Chicago,IL,40.0
-"Data Quality Analyst (Butte County, CA)",3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),32,57,44.5,Chico,CA,54.0
-Senior Data Analyst,4.5,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,,85,111,98.0,Boston,MA,32.0
-"Data Analyst, Linkage Capabilities Transformation",3.4,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),39,69,54.0,Center Valley,PA,179.0
-Master Data Reporting Analyst,4.1,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),51,108,79.5,Wilton,CT,36.0
-Clinical Informatics Analyst- UAB Data Analytics (Full Time),3.8,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,,53,70,61.5,Birmingham,AL,75.0
-Operations Data Analyst,4.3,501 to 1000 Employees,Company - Private,Transportation Management,Transportation & Logistics,$10 to $25 million (USD),38,70,54.0,Birmingham,AL,35.0
-Field Data Collection Analyst (GIS),3.4,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),36,65,50.5,Chicago,IL,24.0
-"Sr. Data Analyst, BI",4.0,5001 to 10000 Employees,Company - Private,Automotive Parts & Accessories Stores,Retail,$2 to $5 billion (USD),52,88,70.0,Palm Beach Gardens,FL,64.0
-Data Analyst - Remote,3.6,201 to 500 Employees,Subsidiary or Business Segment,IT Services,Information Technology,$25 to $50 million (USD),38,42,40.0,Chicago,IL,19.0
-HRIS Analyst - Data & Systems Oracle Fusion,3.6,5001 to 10000 Employees,Subsidiary or Business Segment,Transportation Management,Transportation & Logistics,$1 to $2 billion (USD),57,69,63.0,Orlando,FL,28.0
-Data Analyst I,4.7,5001 to 10000 Employees,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),47,87,67.0,Beaverton,OR,11.0
-"Data Analyst, Business Intelligence",4.0,1 to 50 Employees,Company - Private,Internet,Information Technology,Less than $1 million (USD),64,126,95.0,New York,NY,9.0
-Data Analyst - Sales Performance,3.5,10000+ Employees,Subsidiary or Business Segment,Logistics & Supply Chain,Transportation & Logistics,$5 to $10 billion (USD),30,53,41.5,Brentwood,TN,116.0
-Data Analyst – Institutional Clients Group Analytics AVP,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),52,93,72.5,New York,NY,208.0
-Digital Marketing Data Analyst,3.5,10000+ Employees,Company - Private,Transportation Management,Transportation & Logistics,$5 to $10 billion (USD),36,66,51.0,Reading,PA,51.0
-Configuration Data Management Analyst,3.7,5001 to 10000 Employees,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),32,67,49.5,Bridgeton,MO,52.0
-Analyst – Data Center Operations,4.1,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),89,115,102.0,Ashburn,VA,62.0
-ERAP Data Analyst,3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),43,44,43.5,Altamonte Springs,FL,54.0
-E-commerce Data Analyst,3.5,10000+ Employees,Company - Public,Lending,Finance,,44,79,61.5,Chicago,IL,108.0
-"Data Analyst, Business Intelligence",4.6,51 to 200 Employees,Company - Private,,,,75,147,111.0,Bellevue,WA,
-"Data Analyst, Product",4.4,1001 to 5000 Employees,Company - Private,Computer Hardware & Software,Information Technology,,49,87,68.0,Salt Lake City,UT,20.0
-Provider Data Analyst,,,,,,,55,71,63.0,Fort Lauderdale,FL,
-"Statistician-Data Analyst I, FIS University Program",3.8,10000+ Employees,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD),72,78,75.0,Woodbury,MN,52.0
-Research Data Analyst,4.5,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),43,76,59.5,New Haven,CT,319.0
-"Analyst, Data Visualization",4.1,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,,77,87,82.0,Dallas,TX,10.0
-"Data Analyst, Business Intelligence",4.1,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,,82,91,86.5,New York,NY,13.0
-"Senior Analyst, Data Strategy",3.8,5001 to 10000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),57,122,89.5,Richmond,VA,101.0
-"Data Center Logistics Analyst, University Grad",4.3,10000+ Employees,Company - Public,Internet,Information Technology,$5 to $10 billion (USD),78,116,97.0,Ashburn,VA,16.0
-Data Analyst I,3.6,1001 to 5000 Employees,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),47,57,52.0,Highland,CA,34.0
-Looker Data Analyst,3.9,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),44,85,64.5,New York,NY,16.0
-Fixed Term Junior Data Analyst,3.9,201 to 500 Employees,Company - Private,Internet,Information Technology,$50 to $100 million (USD),48,88,68.0,New York,NY,19.0
-Data Analyst - New York Life Investments,4.0,10000+ Employees,Company - Private,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),46,81,63.5,Jersey City,NJ,175.0
-Data Analyst (Job #1182),3.9,51 to 200 Employees,Company - Private,,,,36,66,51.0,Arlington,VA,
-"Sr Analyst, Business Analytics – Data Analytics Development",3.4,10000+ Employees,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),57,98,77.5,Chicago,IL,5.0
-"Data Analyst II - Risk Adjustment Analyst - San Antonio, TX",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),49,79,64.0,San Antonio,TX,43.0
-Vendor Master Data Analyst - 6+ Month Contract - $17/hr,3.4,1001 to 5000 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),40,75,57.5,San Antonio,TX,44.0
-Excel Data Analyst,3.9,1001 to 5000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),29,40,34.5,Jacksonville,FL,26.0
-"Data Engineering Analyst, Finance Data and Analytics",4.5,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),67,98,82.5,Chicago,IL,22.0
-Data Integrity Analyst I,3.8,1 to 50 Employees,Company - Private,Miscellaneous Manufacturing,Manufacturing,$5 to $10 million (USD),40,75,57.5,Carlsbad,CA,30.0
-Data Analyst I - Wholesale,4.9,201 to 500 Employees,Company - Private,Telecommunications Services,Telecommunications,,75,85,80.0,Costa Mesa,CA,9.0
-Data Operations Analyst,4.0,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),32,57,44.5,Chicago,IL,48.0
-Market Data Analyst,3.7,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),31,55,43.0,Reno,NV,158.0
-"Lead Data Analyst, Tax Information Reporting and Control Analytics",3.9,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$25 to $50 million (USD),64,113,88.5,Fairport,NY,35.0
-Business Data Analyst,3.7,10000+ Employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),38,75,56.5,Lafayette,IN,105.0
-Data Analyst IV (Healthcare Analytics),3.5,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),74,124,99.0,Tigard,OR,36.0
-Data Analytics Analyst,3.7,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),54,64,59.0,Industry,CA,20.0
-Healthcare Data Analyst (Remote Opportunity),4.6,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),65,80,72.5,Washington,DC,
-Scientist Level 1 - Data Analyst - US,3.9,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),52,88,70.0,Northbrook,IL,25.0
-Automation Data Analyst,3.7,10000+ Employees,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),60,78,69.0,Saint Louis,MO,168.0
-Data Analyst,3.1,5001 to 10000 Employees,Company - Public,IT Services,Information Technology,$25 to $50 million (USD),32,59,45.5,Danville,KY,33.0
-Data Analyst III Peri-and-Post Approval Studies,3.2,501 to 1000 Employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),100,114,107.0,Waltham,MA,7.0
-"Data Analyst, Product",4.5,501 to 1000 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),49,89,69.0,New York,NY,9.0
-Data Analyst,4.3,51 to 200 Employees,Company - Private,"Gift, Novelty & Souvenir Stores",Retail,$10 to $25 million (USD),47,84,65.5,Brooklyn,NY,21.0
-"Data Analyst (New York based, relocation required)",4.2,1001 to 5000 Employees,Company - Public,Internet,Information Technology,$500 million to $1 billion (USD),56,104,80.0,New York,NY,15.0
-SQL Data Integration Analyst,4.5,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),51,64,57.5,Los Angeles,CA,33.0
-Operations Data Analyst - Advisor Commissions (Remote),3.9,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,,55,123,89.0,Charlotte,NC,3.0
-Claims Data Analyst,4.1,501 to 1000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$25 to $50 million (USD),50,87,68.5,Albany,NY,36.0
-Data Analyst I,5.0,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),60,63,61.5,Denver,CO,19.0
-DATA ANALYST,2.8,51 to 200 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),44,78,61.0,Chicago,IL,
-Data Visualization Analyst,3.1,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,,30,55,42.5,Chicago,IL,5.0
-Data Analyst Fellow,5.0,1 to 50 Employees,Company - Private,Consulting,Business Services,,65,66,65.5,New York,NY,7.0
-Business/Data Analyst,4.0,1 to 50 Employees,Company - Private,IT Services,Information Technology,,64,117,90.5,Washington,DC,13.0
-Student Data Analyst,4.3,1001 to 5000 Employees,College / University,Colleges & Universities,Education,$100 to $500 million (USD),31,43,37.0,Normal,IL,163.0
-"Analyst, Data Analytics",3.2,10000+ Employees,Company - Public,Drug & Health Stores,Retail,$10+ billion (USD),49,88,68.5,Deerfield,IL,119.0
-Investment Data Analyst,4.2,501 to 1000 Employees,Company - Private,Investment Banking & Asset Management,Finance,,121,126,123.5,New York,NY,19.0
-Junior Data Analyst,3.9,5001 to 10000 Employees,Company - Private,Accounting,Accounting & Legal,$1 to $2 billion (USD),50,87,68.5,Arlington,VA,96.0
-Data Analyst-Technical-Staff,3.7,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),66,110,88.0,Salt Lake City,UT,45.0
-Data Visualization Analyst,4.1,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD),42,77,59.5,Springfield,VA,7.0
-Analyst - Data Analytics,4.4,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,,34,67,50.5,New York,NY,20.0
-Data Science Analyst - Technology Strategic Planning,4.3,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),106,144,125.0,Pleasanton,CA,15.0
-Senior Data Analyst,3.1,1001 to 5000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD),39,69,54.0,Plano,TX,30.0
-Health Data Analyst / Statistician Intermediate,4.4,10000+ Employees,College / University,Colleges & Universities,Education,$5 to $10 billion (USD),31,55,43.0,Ann Arbor,MI,203.0
-"Data Analyst, Business Intelligence",3.9,501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,53,107,80.0,New York,NY,3.0
-Quality Data Analyst,2.8,1 to 50 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),51,88,69.5,Anchorage,AK,67.0
-"Data Analyst, Data Analytics",3.2,201 to 500 Employees,Company - Private,Insurance Carriers,Insurance,$25 to $50 million (USD),58,103,80.5,Oakland,CA,105.0
-Quantitative Business Analyst - Strategic Data Solutions,4.3,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),45,83,64.0,Austin,TX,44.0
-Recruiting Data Analyst,3.4,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),72,113,92.5,Palo Alto,CA,16.0
-Environmental Data Analyst - 1 to 5 Years Experience,4.3,1001 to 5000 Employees,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD),42,76,59.0,New York,NY,50.0
-Research Data Analyst,3.9,10000+ Employees,Company - Public,Real Estate,Real Estate,,40,72,56.0,Saddle Brook,NJ,114.0
-Planning Data Analyst - Mahwah NJ,3.1,5001 to 10000 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,$5 to $10 billion (USD),58,106,82.0,Mahwah,NJ,29.0
-Data Analyst - Strategy,3.4,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),54,98,76.0,San Francisco,CA,19.0
-Data Analyst (GIS),3.4,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),35,64,49.5,Leander,TX,24.0
-Summer Intern: Product Data Analyst,4.3,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),53,98,75.5,New York,NY,21.0
-Data Analyst,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),30,64,47.0,New York,NY,26.0
-Research Data Analyst,4.2,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),35,61,48.0,Boston,MA,151.0
-Marketing Data Analyst,3.8,51 to 200 Employees,Company - Private,Financial Analytics & Research,Finance,,44,86,65.0,New York,NY,8.0
-Quality Improvement Data Analyst - Nutrition,4.2,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),35,61,48.0,Boston,MA,151.0
-Global Process Data Analyst,4.5,1 to 50 Employees,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD),32,61,46.5,Fort Worth,TX,
-Research Data Analyst,4.3,10000+ Employees,College / University,Colleges & Universities,Education,$25 to $50 million (USD),54,93,73.5,San Francisco,CA,156.0
-Business Data Analyst,4.0,51 to 200 Employees,Company - Private,Lending,Finance,,68,80,74.0,New York,NY,5.0
-"Strategic Data Analyst, Population Health Innovation Institute",4.0,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),39,68,53.5,Brooklyn Heights,OH,183.0
-"Portfolio Operations - Data Science, Product Analyst",4.0,1001 to 5000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),62,109,85.5,New York,NY,35.0
-"Data Visualization Analyst, Operations Strategy & Analytics",3.5,10000+ Employees,Company - Public,Home Furniture & Housewares Stores,Retail,$5 to $10 billion (USD),36,72,54.0,Boston,MA,18.0
-Data Governance Analyst,4.0,10000+ Employees,Company - Private,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),44,79,61.5,Saint Louis,MO,98.0
-"Data Analyst, Paid Search",3.9,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),44,85,64.5,New York,NY,16.0
-Research Data Analyst,4.3,10000+ Employees,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),39,69,54.0,Miami,FL,
-IT Technical Data Analyst,3.5,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),42,75,58.5,Greensboro,NC,103.0
-Health Care Data Analyst,3.1,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),44,80,62.0,Northbrook,IL,57.0
-Grants Manager/Data Analyst,1.0,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),106,137,121.5,Charlotte,NC,
-Data Analyst (Lab Technician) Supporting the FBI Laboratory,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),43,56,49.5,Quantico,VA,16.0
-Research Data Analyst,4.2,5001 to 10000 Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),45,82,63.5,Stanford,CA,112.0
-Data Visualization & Research Analyst,3.2,501 to 1000 Employees,College / University,Colleges & Universities,Education,$10 to $25 million (USD),36,71,53.5,Scottsdale,AZ,24.0
-Investment Data Quality Analyst,3.9,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD),47,83,65.0,Minneapolis,MN,118.0
-"Analyst, Privacy Operations – Data Privacy Office / Data Governance",3.2,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD),52,100,76.0,Stamford,CT,39.0
-Research and Data Systems Analyst 2,4.5,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),32,61,46.5,Cambridge,MA,159.0
-SHE Data & Analytics Analyst,4.0,10000+ Employees,Company - Public,Farm Support Services,Agriculture & Forestry,$5 to $10 billion (USD),50,86,68.0,Loveland,CO,2.0
-DATA ANALYST (TEMPORARY),4.3,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),48,84,66.0,Seattle,WA,159.0
-Data Research Analyst,3.9,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),38,78,58.0,Parsippany,NJ,3.0
-Arizona School Data Analyst - (AZVA),3.2,5001 to 10000 Employees,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD),38,69,53.5,Glendale,AZ,21.0
-Data Analyst Supporting the FBI,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),51,53,52.0,Washington,DC,16.0
-Attendance and Truancy Data Analyst,3.5,10000+ Employees,School / School District,K-12 Education,Education,,45,79,62.0,Chicago,IL,137.0
-Finance Data Analyst II,3.2,5001 to 10000 Employees,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD),46,80,63.0,Herndon,VA,21.0
-Counterterrorism Data Exploitation Analyst (Mid-Level),3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),64,109,86.5,McLean,VA,49.0
-Analyst II - Data Analytics,4.1,5001 to 10000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),64,107,85.5,Detroit,MI,101.0
-Data Analyst,3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),49,89,69.0,Bethesda,MD,58.0
-Marketing Data Analyst,4.3,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),67,117,92.0,Oakland,CA,81.0
-IT Data Analyst,4.0,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),32,58,45.0,Coral Gables,FL,
-Data Analyst Supporting the DEA,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),45,80,62.5,Richmond,VA,16.0
-Data Link Analyst,3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),52,93,72.5,Mount Laurel,NJ,49.0
-Data Analyst (Houston),3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),43,56,49.5,Houston,TX,54.0
-"City Research Scientist II / Data Analyst, Bureau of HIV",3.5,5001 to 10000 Employees,Government,Municipal Governments,Government,,46,101,73.5,Queens Village,NY,
-Data Analyst,4.7,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,,45,75,60.0,Nashville,TN,14.0
-Data Analyst,3.5,201 to 500 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),56,100,78.0,Bethesda,MD,22.0
-BSA/AML Data Analytics & Performance Analyst,4.0,10000+ Employees,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD),58,104,81.0,New York,NY,122.0
-Data Analyst/Programmer,3.6,10000+ Employees,Company - Public,Real Estate,Real Estate,$500 million to $1 billion (USD),39,68,53.5,Bloomington,MN,44.0
-Senior Data Analyst,3.5,10000+ Employees,Company - Public,Lending,Finance,,79,90,84.5,Wilmington,DE,108.0
-Data Analyst,4.0,51 to 200 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,37,67,52.0,New York,NY,5.0
-Equity Research Data Analyst,4.1,1001 to 5000 Employees,College / University,Colleges & Universities,Education,$100 to $500 million (USD),45,80,62.5,Santa Cruz,CA,55.0
-Data Journalist - Visualization Analyst,3.8,5001 to 10000 Employees,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),32,76,54.0,New York,NY,102.0
-Data Analyst/Contractor,3.0,1 to 50 Employees,Company - Private,,,,56,73,64.5,Philadelphia,PA,
-"Data Analyst, Marketing",4.3,201 to 500 Employees,Company - Public,,,,35,64,49.5,New York,NY,
-(Senior/ Lead) Product Analyst - Data Intelligence,4.5,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),97,159,128.0,San Francisco,CA,21.0
-"Data Analyst, High Tech Product & Enablement Platforms",4.2,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),64,101,82.5,Austin,TX,36.0
-Research Data Management Analyst - Kaiser Permanente Bernard J. Tyson School of Medicine,4.1,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),77,94,85.5,Pasadena,CA,75.0
-Data Analyst - Payments,4.6,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),47,87,67.0,Santa Barbara,CA,14.0
-Data Center Analyst,4.4,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),26,36,31.0,Atlanta,GA,50.0
-Finance Data Analyst,3.1,,Company - Public,,,,48,75,61.5,Bronx,NY,
-Data Analyst/Programmer,2.6,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD),44,47,45.5,Falls Church,VA,30.0
-Data and Research Analyst,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),40,107,73.5,Tampa,FL,208.0
-PIM Manager/Data Analyst,3.0,201 to 500 Employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),73,130,101.5,Dallas,TX,52.0
-"Intern, Statistician-Data Analyst, Summer FIS University Program 2021",3.8,10000+ Employees,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD),41,80,60.5,Woodbury,MN,52.0
-DATA INFORMATICS ANALYST,4.6,51 to 200 Employees,Company - Public,,,,42,67,54.5,Madison,WI,
-Supply Chain Data Analyst,4.2,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),78,137,107.5,Santa Clara,CA,16.0
-Data Analyst- Cardiac Surgery Services,4.0,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),44,68,56.0,Chicago,IL,183.0
-Data Analyst,2.7,201 to 500 Employees,Company - Private,Video Games,Media,,47,91,69.0,Boston,MA,21.0
-COLLEGE DATA ANALYST,3.9,1001 to 5000 Employees,School / School District,K-12 Education,Education,$50 to $100 million (USD),40,72,56.0,Houston,TX,22.0
-Data Analyst / Driver Messenger Supporting the USMS,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),46,48,47.0,Miami,FL,16.0
-Technical Data Analyst,4.0,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),79,139,109.0,San Francisco,CA,11.0
-"Market Data Analyst, West Palm Beach, FL",3.6,201 to 500 Employees,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),31,57,44.0,West Palm Beach,FL,29.0
-Systems and Data Analyst 2,3.7,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),72,93,82.5,Englewood,CO,104.0
-Data Analyst,2.6,1001 to 5000 Employees,Company - Private,Transportation Management,Transportation & Logistics,$100 to $500 million (USD),27,49,38.0,Grand Prairie,TX,87.0
-Data Transformation Analyst,3.5,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),40,71,55.5,Atlanta,GA,28.0
-"RESEARCH DATA ANALYST, Boston University School of Public Health",4.3,10000+ Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),43,68,55.5,Boston,MA,181.0
-Data Privacy Analyst,3.3,51 to 200 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,,47,53,50.0,Quincy,MA,10.0
-Data Integrity Analyst,3.5,1 to 50 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$25 to $50 million (USD),41,77,59.0,Jersey City,NJ,101.0
-Data Enhancement Team: Analyst,4.3,201 to 500 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,,34,62,48.0,Livingston,NJ,26.0
-"Advertising Data Analyst, Business Intelligence",4.1,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,,61,122,91.5,New York,NY,13.0
-Supply Chain Data Analyst,3.9,1 to 50 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,,84,107,95.5,Waltham,MA,
-Configuration/Data Management Analyst,5.0,1 to 50 Employees,Company - Private,,,Less than $1 million (USD),62,70,66.0,Huntsville,AL,
-Data and Research Analyst,3.9,1001 to 5000 Employees,Company - Private,Lending,Finance,,31,78,54.5,Tampa,FL,
-"Data and Reporting Analyst, Strategic Planning & Delivery-6",3.9,5001 to 10000 Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),45,65,55.0,Springfield,MA,169.0
-Sr Data Analyst,,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),72,124,98.0,Indianapolis,IN,35.0
-Data Analyst,3.4,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,,31,58,44.5,Sacramento,CA,
-OSP Data Analyst,4.5,1001 to 5000 Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,,29,51,40.0,Evansville,IN,15.0
-Data Quality Analyst,4.3,1 to 50 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),44,79,61.5,Washington,DC,36.0
-Data Analyst - Supply Chain Solution Specialist - USDC,3.9,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),51,92,71.5,Gilbert,AZ,170.0
-Compliance Data Analyst,4.0,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,,75,134,104.5,New York,NY,8.0
-Business/ Data Analyst,3.6,1001 to 5000 Employees,Company - Public,Commercial Equipment Rental,Business Services,$1 to $2 billion (USD),63,118,90.5,Chicago,IL,122.0
-Credit Data Analyst,4.6,501 to 1000 Employees,Company - Public,Financial Transaction Processing,Finance,,58,103,80.5,New York,NY,23.0
-AVP - Data Analyst - ICG EAP NY,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),70,101,85.5,New York,NY,208.0
-"Operations Analyst, Master Data Office",3.4,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10 to $25 million (USD),37,65,51.0,Dublin,CA,63.0
-Data Analyst - Contract to Perm Role,2.6,1 to 50 Employees,Nonprofit Organization,Research & Development,Business Services,,45,82,63.5,Boston,MA,
-Data Privacy Analyst - Global Analytics,4.1,5001 to 10000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),45,81,63.0,San Diego,CA,21.0
-Quantitative Analyst/Data Scientist,4.5,1001 to 5000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$5 to $10 billion (USD),62,129,95.5,Charlotte,NC,106.0
-"Data Analyst, Retail Media",4.0,1001 to 5000 Employees,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),50,95,72.5,New York,NY,15.0
-Data Governance Analyst,4.5,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),41,74,57.5,Phoenix,AZ,26.0
-Business Intelligence Analyst - Data Scientist,3.6,1001 to 5000 Employees,Company - Public,Consumer Product Rental,Consumer Services,$1 to $2 billion (USD),47,94,70.5,Bonita Springs,FL,55.0
-Data Analyst II,3.5,1001 to 5000 Employees,Company - Public,Financial Transaction Processing,Finance,$1 to $2 billion (USD),61,103,82.0,St Louis Park,MN,80.0
-"Data Analyst, Self-Driving",4.3,1001 to 5000 Employees,Company - Private,Transportation Equipment Manufacturing,Manufacturing,,82,144,113.0,Palo Alto,CA,11.0
-Business Systems Analyst – Customer Data Analytics,4.3,501 to 1000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),47,90,68.5,Austin,TX,14.0
-Data Analyst/Business Systems Analyst,3.5,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),52,96,74.0,Tampa,FL,26.0
-Data Quality Analyst,,,,,,,23,50,36.5,Tallahassee,FL,
-Marketing Data Analyst,4.1,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD),54,100,77.0,New York,NY,13.0
-"Data Analyst - Eden Prairie, MN or Telecommute",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),44,79,61.5,Eden Prairie,MN,43.0
-"Data Analyst, Business Intelligence",3.1,1001 to 5000 Employees,Company - Public,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),51,103,77.0,Seattle,WA,13.0
-Data Scientist and Business Analyst,4.4,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),95,148,121.5,Bellevue,WA,45.0
-Data Technology Analyst (Summer 2021 Start Date),4.0,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$100 to $500 million (USD),44,62,53.0,Washington,DC,24.0
-Senior Data Analyst,4.0,10000+ Employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),83,92,87.5,Columbus,IN,101.0
-HRIS Data Analyst,4.4,1001 to 5000 Employees,Nonprofit Organization,Religious Organizations,Non-Profit,$100 to $500 million (USD),42,54,48.0,Colorado Springs,CO,79.0
-Procurement Data Analyst,4.1,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$5 to $10 billion (USD),49,87,68.0,Westminster,CO,140.0
-Data Quality Analyst,3.6,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,,38,69,53.5,Colchester,VT,48.0
-Digital Marketing Data Analyst,3.8,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),45,55,50.0,Pittsburgh,PA,118.0
-"Data and Integrations Analyst - Minnetonka, MN",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),42,84,63.0,Minnetonka,MN,43.0
-Sports Science Data Analyst,4.3,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),63,113,88.0,Ft Carson,CO,13.0
-"Data Steward, Modeler, Analyst, Scientist, etc.",4.4,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),30,40,35.0,Tampa,FL,37.0
-"Wealth Management, Client Data Analyst",4.0,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),46,83,64.5,Plano,TX,221.0
-"Associate Analyst, Data Intelligence",4.4,201 to 500 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$50 to $100 million (USD),75,92,83.5,Minneapolis,MN,27.0
-Data Management Business Analyst,4.0,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),42,85,63.5,Chicago,IL,221.0
-"Data Analyst, Compliance",3.8,10000+ Employees,College / University,Colleges & Universities,Education,,67,90,78.5,New York,NY,122.0
-Marketing Analyst/ Data Scientist,3.2,5001 to 10000 Employees,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD),51,88,69.5,Herndon,VA,21.0
-Technical Data Analyst,3.7,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),89,129,109.0,Lancaster,PA,21.0
-Data Management Analyst,4.0,10000+ Employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),40,86,63.0,Roswell,GA,112.0
-Data Analyst,4.0,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),39,68,53.5,Jacksonville,FL,
-Marketing Data Analyst,3.7,51 to 200 Employees,Company - Private,Other Retail Stores,Retail,,44,87,65.5,Redwood City,CA,14.0
-Tableau Data Analyst,3.5,5001 to 10000 Employees,Company - Private,Staffing & Outsourcing,Business Services,,38,53,45.5,Durham,NC,37.0
-Senior Data Analyst - Credit Risk Mgmt,3.9,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),58,102,80.0,Philadelphia,PA,57.0
-Business Data Analyst,3.6,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),45,83,64.0,Brooklyn,NY,114.0
-Sales Data Analyst ( Strong excel),4.4,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),48,67,57.5,Wilmington,DE,17.0
-Product Data Analyst,3.8,10000+ Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),43,66,54.5,Mundelein,IL,54.0
-Recruiting Data Analyst,4.2,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),43,77,60.0,Plymouth,MI,35.0
-Data Analyst/Data Modeler,3.8,10000+ Employees,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$10+ billion (USD),46,83,64.5,Jersey City,NJ,221.0
-Operation Project Analyst-Data Center,3.8,201 to 500 Employees,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),68,77,72.5,Fremont,CA,33.0
-Safety Data Analyst,4.2,1001 to 5000 Employees,Company - Public,Internet,Information Technology,,37,73,55.0,Dallas,OR,21.0
-Cybersecurity Data Loss Prevention (DLP) Governance Analyst,3.7,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$2 to $5 billion (USD),36,49,42.5,West Valley City,UT,
-CX Data Analyst,4.1,1001 to 5000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),39,73,56.0,Provo,UT,36.0
-Data Analyst - Finance,3.8,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),42,80,61.0,Los Angeles,CA,
-Research Data Analyst- Boston CCBHC,4.0,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),41,74,57.5,Boston,MA,24.0
-Data Analyst (Remote Opportunity),4.6,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),50,91,70.5,Austin,TX,
-Technical Data Analyst -(Pharmacy/Healthcare industry preferred),3.1,501 to 1000 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),42,76,59.0,Florham Park,NJ,16.0
-Research Data Analyst,4.3,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),36,65,50.5,Baltimore,MD,144.0
-Healthcare Payer - Data Analyst,3.7,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),47,85,66.0,Wellesley,MA,53.0
-"Banking, Capital Markets and Advisory (BCMA) - Investment Banking, Summer Analyst: Data Science Analyst, M&A Strategic Shareholder Advisory - New York",3.9,1001 to 5000 Employees,Company - Private,Lending,Finance,,72,93,82.5,New York,NY,
-Data Analyst I/II - Patient-Centered Research,3.2,501 to 1000 Employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),52,92,72.0,Seattle,WA,7.0
-QA Analyst – Data Analytics,4.2,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),64,115,89.5,San Jose,CA,36.0
-"Analyst I, Data Analytics",3.0,1001 to 5000 Employees,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$2 to $5 billion (USD),28,51,39.5,Boulder,CO,13.0
-Data Analyst III,3.2,501 to 1000 Employees,Company - Private,,,$100 to $500 million (USD),44,80,62.0,Atlanta,GA,
-Data Analytics Analyst/Trainer,4.2,5001 to 10000 Employees,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD),36,63,49.5,Eugene,OR,148.0
-Claims Data Analyst,3.1,501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),34,61,47.5,Scottsdale,AZ,37.0
-Data Analyst – St. Peter's Hospital – Full Time Days,3.7,10000+ Employees,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),39,68,53.5,Albany,NY,9.0
-Data Quality Analyst,3.6,5001 to 10000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),29,53,41.0,Atlanta,GA,20.0
-Data Analyst III,3.5,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),55,94,74.5,Indianapolis,IN,36.0
-Pharmacy Data Analyst,2.8,501 to 1000 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),27,50,38.5,Louisville,KY,
-Data Analyst Engineering Data & Analytics,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),48,83,65.5,Atlanta,GA,58.0
-Product Data Analyst / Data Scientist,4.2,51 to 200 Employees,Company - Public,Internet,Information Technology,$50 to $100 million (USD),61,115,88.0,Mountain View,CA,7.0
-Laboratory Data Analyst,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),51,53,52.0,Quantico,VA,16.0
-Business Data Analyst,3.5,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD),47,87,67.0,Medford,MA,48.0
-US - Data Analyst,3.7,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),28,49,38.5,Danville,KY,
-Data Visualization Analyst,3.8,501 to 1000 Employees,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",,67,113,90.0,Carmel,IN,22.0
-Data/Business Intelligence Analyst,3.7,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),52,93,72.5,Nashville,TN,5.0
-Business Intelligence Analyst / Data Scientist,3.1,51 to 200 Employees,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),45,90,67.5,New York,NY,46.0
-Sr Data Analyst,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),48,137,92.5,Arlington,VA,26.0
-DoD Data Analyst - Consultant,3.7,5001 to 10000 Employees,Company - Private,Consulting,Business Services,,53,91,72.0,Washington,DC,2.0
-Data Analyst II - Healthcare,3.3,501 to 1000 Employees,Nonprofit Organization,Consulting,Business Services,$50 to $100 million (USD),69,73,71.0,Dallas,TX,47.0
-Department Data Analyst,4.0,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),50,86,68.0,Dallas,TX,77.0
-Contract Data Study Analyst,5.0,51 to 200 Employees,Company - Private,Internet,Information Technology,,81,100,90.5,New York,NY,13.0
-Data Analytics/Algorithm Analyst,3.7,51 to 200 Employees,Company - Private,Research & Development,Business Services,$50 to $100 million (USD),52,94,73.0,Boston,MA,47.0
-Data Privacy Analyst - USA,3.7,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,59,102,80.5,Waltham,MA,6.0
-"Data Analyst Portland, OR",4.0,,Company - Private,IT Services,Information Technology,,55,65,60.0,Portland,OR,28.0
-Data and Technology Analyst,4.0,1001 to 5000 Employees,Company - Private,Financial Analytics & Research,Finance,$10+ billion (USD),74,101,87.5,New York,NY,106.0
-Scientific Data Analyst,3.9,501 to 1000 Employees,Government,,,,53,97,75.0,Atlanta,GA,
-Data Analyst - Kenra Professional,4.3,10000+ Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),52,95,73.5,Culver City,CA,144.0
-Digital Marketing Data Analyst,4.1,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),73,123,98.0,Mountain View,CA,34.0
-Data Analyst Manager,3.4,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),69,122,95.5,Bellevue,WA,19.0
-Data Analyst D,4.4,10000+ Employees,College / University,Colleges & Universities,Education,,44,78,61.0,Philadelphia,PA,280.0
-Sr Data Analyst,3.4,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),45,78,61.5,Brentwood,TN,42.0
-Data Analyst (Retail Energy),4.4,1 to 50 Employees,Company - Private,Energy,"Oil, Gas, Energy & Utilities",,32,59,45.5,Dallas,TX,11.0
-Data Analyst,4.0,501 to 1000 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),37,69,53.0,Arlington,VA,47.0
-Data and Technology Analyst,4.5,1001 to 5000 Employees,Government,Federal Agencies,Government,,76,104,90.0,New York,NY,107.0
-Talent Acquisition Data Analyst,2.9,1001 to 5000 Employees,School / School District,K-12 Education,Education,$100 to $500 million (USD),80,80,80.0,New York,NY,14.0
-Senior Data Analyst,3.8,201 to 500 Employees,Subsidiary or Business Segment,Vehicle Dealers,Retail,$100 to $500 million (USD),48,86,67.0,Atlanta,GA,
-Marketing Automation Data Analyst,4.7,201 to 500 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,,61,112,86.5,Seattle,WA,32.0
-"Provider Data Analyst - Los Angeles, CA or Columbia, MD",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),45,84,64.5,Los Angeles,CA,43.0
-Sales Operations Data Analyst II - Cox Media Inc,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),45,77,61.0,Atlanta,GA,58.0
-Data Analyst III,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),64,107,85.5,Atlanta,GA,58.0
-Operations Data Analyst,4.3,5001 to 10000 Employees,Company - Public,Consulting,Business Services,,34,60,47.0,Dallas,TX,
-Data Analyst - Heart Transplant/MCS / 40 Hour / Days,3.9,5001 to 10000 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),36,65,50.5,Boston,MA,24.0
-Data Integrity Analyst,3.6,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,,50,60,55.0,Jersey City,NJ,18.0
-Technology Data Management and Reporting Analyst,4.2,201 to 500 Employees,Nonprofit Organization,Real Estate,Real Estate,$100 to $500 million (USD),55,115,85.0,Hayward,CA,52.0
-"Senior Data Analyst, Marketing",3.1,1001 to 5000 Employees,Company - Public,Colleges & Universities,Education,$10 to $25 million (USD),62,108,85.0,Phoenix,AZ,55.0
-Senior Data Analyst,4.1,501 to 1000 Employees,Company - Private,Internet,Information Technology,,110,114,112.0,Seattle,WA,13.0
-SQL Data Analyst,2.9,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),60,103,81.5,Bowie,MD,22.0
-Data Programmer Analyst I,3.9,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),50,88,69.0,Philadelphia,PA,165.0
-Solar Data Analyst,4.3,501 to 1000 Employees,Company - Private,Energy,"Oil, Gas, Energy & Utilities",,38,68,53.0,South Plainfield,NJ,11.0
-Pharmacy Data Analyst,4.0,5001 to 10000 Employees,Company - Private,Insurance Agencies & Brokerages,Insurance,$1 to $2 billion (USD),30,56,43.0,Saint Louis,MO,54.0
-Senior Product & Data Solutions Analyst,4.3,5001 to 10000 Employees,Company - Private,Investment Banking & Asset Management,Finance,$1 to $2 billion (USD),81,134,107.5,Los Angeles,CA,89.0
-D&I Business/Data Analyst Summer Internship,4.5,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),59,107,83.0,Arlington,VA,35.0
-Operations Data Analyst,4.0,5001 to 10000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),42,78,60.0,San Diego,CA,31.0
-Call Center Work Force Management- Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,24,43,33.5,Erie,PA,9.0
-Information Technology Data Analyst,3.5,5001 to 10000 Employees,Company - Public,Other Retail Stores,Retail,,39,114,76.5,Tempe,AZ,7.0
-Senior Data Analyst,3.9,1001 to 5000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),94,110,102.0,Washington,DC,8.0
-Recruiting Data Analyst,4.0,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$100 to $500 million (USD),65,114,89.5,Palo Alto,CA,59.0
-Data Governance Analyst,4.3,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),60,109,84.5,New York,NY,16.0
-Data Integrity Analyst,4.3,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$1 to $2 billion (USD),48,67,57.5,Boston,MA,155.0
-Data Analyst (Insights and Reporting),4.1,5001 to 10000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD),43,80,61.5,Chicago,IL,34.0
-Sales Systems and Data Analyst,3.9,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$5 to $10 billion (USD),51,91,71.0,Austin,TX,14.0
-Health Data Analyst,3.0,201 to 500 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD),38,69,53.5,Lowell,MA,50.0
-"DATA Analyst - Clinical Statistician @ Minneapolis, MN",3.1,1 to 50 Employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD),39,71,55.0,Minneapolis,MN,19.0
-Data Conversion Analyst,3.7,10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),59,75,67.0,Los Angeles,CA,44.0
-Sr Data Analyst,4.2,5001 to 10000 Employees,Company - Public,Lending,Finance,$2 to $5 billion (USD),71,119,95.0,Westlake Village,CA,12.0
-Data Governance Analyst,4.0,1 to 50 Employees,Company - Private,Telecommunications Services,Telecommunications,,54,97,75.5,Tempe,AZ,73.0
-"Analyst, Data Management / Quantitative Analysis",3.4,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),31,59,45.0,Chicago,IL,236.0
-Data Scientist/Analyst,4.5,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),57,98,77.5,Clarksburg,WV,21.0
-"Business Systems Analyst, Data & Analytics",4.4,501 to 1000 Employees,Company - Private,Investment Banking & Asset Management,Finance,,50,93,71.5,Boston,MA,36.0
-"Data Analyst, Information Systems",3.1,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),40,71,55.5,Sellersville,PA,107.0
-"DATA ANALYST PROGRAMMER, DUKE-MARGOLIS CENTER FOR HEALTH POLICY",4.4,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),27,49,38.0,Durham,NC,182.0
-Claims Data Analyst,4.0,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),43,79,61.0,Garden City,NY,38.0
-Data & Business Analyst,4.2,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD),41,77,59.0,Chicago,IL,30.0
-Salesfore Data Analyst,4.6,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),48,53,50.5,Remote,,9.0
-Junior Data Analyst,,,,,,,46,64,55.0,Irving,TX,
-Data Analyst,4.4,1 to 50 Employees,College / University,Colleges & Universities,Education,$1 to $5 million (USD),19,24,21.5,Chapel Hill,NC,
-Data Analyst/Data Entry Analyst.,3.8,1 to 50 Employees,Company - Private,,,,38,48,43.0,Dallas,TX,
-Data Analyst (Entry Level),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Anchorage,AK,11.0
-Data Analyst,,,,,,,29,34,31.5,Chicago,IL,
-Data Analyst,3.4,501 to 1000 Employees,Company - Public,Banks & Credit Unions,Finance,$100 to $500 million (USD),58,63,60.5,New York,NY,79.0
-Data Analyst,4.0,51 to 200 Employees,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),65,75,70.0,Princeton,NJ,
-Jr. Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Arkadelphia,AR,11.0
-Data Analyst,4.1,1 to 50 Employees,Company - Private,Telecommunications Services,Telecommunications,,19,22,20.5,Tulsa,OK,3.0
-Sales Data Entry & Analyst (Women's clothing wholesale),1.5,,Company - Public,,,,19,29,24.0,Vernon,CA,
-Data Analyst,3.0,1 to 50 Employees,Company - Private,,,Less than $1 million (USD),80,120,100.0,Remote,,
-Data Analyst,,1 to 50 Employees,Company - Public,,,,43,43,43.0,Omaha,NE,
-Data Analyst,,,,,,,58,67,62.5,Austin,TX,
-Data Analyst,3.1,51 to 200 Employees,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),20,48,34.0,Houston,TX,19.0
-Junior Data Analyst,,,,,,,80,80,80.0,Chicago,IL,
-Data Analyst,4.1,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),50,97,73.5,Woburn,MA,
-Data Analyst,5.0,1 to 50 Employees,Contract,,,,48,113,80.5,Remote,,
-Data Analyst,,,,,,,48,59,53.5,United States,,
-Data Analyst,,,,,,,27,28,27.5,Laurel,MD,
-Junior Data Analyst,3.6,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD),45,70,57.5,Greenwood Village,CO,
-Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Texas City,TX,11.0
-Data Analyst,,,,,,,29,38,33.5,Washington,DC,
-Data Analyst,,1 to 50 Employees,Unknown,Real Estate,Real Estate,,19,24,21.5,Dallas,TX,
-Content Development Analyst (Data Entry),3.6,10000+ Employees,Company - Private,Consulting,Business Services,$2 to $5 billion (USD),40,45,42.5,Laramie,WY,126.0
-Data Analyst Intern,,,,,,,17,19,18.0,Remote,,
-Data Analyst,3.1,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),38,38,38.0,Washington,DC,
-Junior Data Analyst / Entry Level / Training,4.6,501 to 1000 Employees,Company - Private,IT Services,Information Technology,,65,70,67.5,San Diego,CA,23.0
-Data Analyst (Entry Level),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,California,MD,11.0
-Jr Data Analyst (Freshers Can Also Apply),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,United States,,11.0
-Junior Data Analyst,,,,,,,65,85,75.0,Bloomfield,NJ,
-Tableau Data Analyst,,,,,,,38,43,40.5,Remote,,
-Jr Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Virginia Beach,VA,11.0
-Data Analyst - Performance Assurance,3.0,,Company - Private,,,,48,48,48.0,Dallas,TX,
-Jr Data Analyst (Freshers Can Also Apply),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Indianapolis,IN,11.0
-Public Policy Data Analyst (Community Safety),3.5,10000+ Employees,Government,Municipal Governments,Government,,64,87,75.5,San Bernardino,CA,167.0
-Research Assistant/Data Analyst,,1 to 50 Employees,Nonprofit Organization,,,,25,48,36.5,Santa Monica,CA,
-Jr Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Birmingham,AL,11.0
-Data Analyst- Fortify,3.6,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),29,46,37.5,Virginia,VA,195.0
-Entry Level Business Analyst,,51 to 200 Employees,Contract,,,,60,70,65.0,Remote,,
-Jr Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Seattle,WA,11.0
-Data Analyst,3.3,51 to 200 Employees,Company - Private,Miscellaneous Manufacturing,Manufacturing,$25 to $50 million (USD),65,75,70.0,Beaverton,OR,50.0
-Forecasting Analyst,4.5,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),95,95,95.0,Mountain View,CA,22.0
-"Data Analyst, Operations (226 Days)",3.5,10000+ Employees,School / School District,Preschool & Child Care,Education,$1 to $2 billion (USD),76,76,76.0,Dallas,TX,153.0
-Data Support Analyst,4.3,501 to 1000 Employees,School / School District,Preschool & Child Care,Education,$100 to $500 million (USD),31,38,34.5,Victorville,CA,
-Health Care Data Analyst,2.6,51 to 200 Employees,Company - Private,,,$5 to $10 million (USD),36,39,37.5,Rockville,MD,42.0
-Medicaid Healthcare Data and Statistical Analyst,3.4,5001 to 10000 Employees,Government,State & Regional Agencies,Government,Less than $1 million (USD),27,27,27.0,Waterbury,VT,229.0
-Data Analyst,4.0,5001 to 10000 Employees,Government,Municipal Governments,Government,$100 to $500 million (USD),67,86,76.5,Washington,DC,
-Health Care Data Analyst,2.6,51 to 200 Employees,Company - Private,,,$5 to $10 million (USD),36,39,37.5,Washington,DC,42.0
-Data Analyst,,1 to 50 Employees,Company - Private,,,,74,74,74.0,Washington,DC,
-Early Childhood Data and Policy Analyst,,,,,,,46,78,62.0,Wake Forest,NC,
-Senior Data and Research Analyst,3.7,1001 to 5000 Employees,Company - Public,,,,70,90,80.0,East Boston,MA,
-OSSE: Management Analyst (Data Analyst),4.0,5001 to 10000 Employees,Government,Municipal Governments,Government,$100 to $500 million (USD),76,97,86.5,Washington,DC,
-Data Analyst III,3.3,5001 to 10000 Employees,Government,State & Regional Agencies,Government,,52,68,60.0,Austin,TX,
-Health Care Data Analyst,2.6,51 to 200 Employees,Company - Private,,,$5 to $10 million (USD),36,39,37.5,Alexandria,VA,42.0
-Research Data Analyst (Clinical),4.3,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),45,62,53.5,Baltimore,MD,144.0
-"Data Analyst, Benchmarking (Energy)",4.0,10000+ Employees,Nonprofit Organization,Colleges & Universities,Education,$100 to $500 million (USD),76,85,80.5,New York,NY,57.0
-"Data and Policy Analyst, Early Care & Education",3.9,51 to 200 Employees,Government,State & Regional Agencies,Government,,71,101,86.0,Alameda,CA,22.0
-Data Analyst - Organizational Foundations (Data Analyst IV),3.2,501 to 1000 Employees,Government,State & Regional Agencies,Government,$100 to $500 million (USD),75,87,81.0,United States,,
-Quality Data Analyst,3.6,10000+ Employees,Government,State & Regional Agencies,Government,$10+ billion (USD),52,52,52.0,Oklahoma,OK,30.0
-Data Analyst,4.4,10000+ Employees,College / University,Colleges & Universities,Education,,43,50,46.5,College Station,TX,149.0
-Data Analyst,4.1,51 to 200 Employees,Company - Private,Lending,Finance,,55,65,60.0,Englewood,CO,14.0
-Data Analyst,,,,,,,80,120,100.0,San Francisco,CA,
-Data Analyst,4.1,51 to 200 Employees,Company - Private,Accounting,Accounting & Legal,,50,80,65.0,Arlington,VA,12.0
-Junior Data Analyst,3.7,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),35,45,40.0,Washington,DC,28.0
-Data Analyst,3.5,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,71,106,88.5,Denver,CO,24.0
-Data Warehouse Analyst,3.3,1001 to 5000 Employees,Government,State & Regional Agencies,Government,,93,93,93.0,Richmond,VA,
-Business Analyst II,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),72,127,99.5,United States,,26.0
-Business Analyst,3.7,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,,124,124,124.0,East Boston,MA,23.0
-Data Analyst Senior,3.3,1001 to 5000 Employees,Government,Municipal Governments,Government,Less than $1 million (USD),55,86,70.5,Golden,CO,161.0
-Data Analyst,3.8,501 to 1000 Employees,Company - Private,IT Services,Information Technology,,71,117,94.0,Fremont,CA,12.0
-Wealth Management Reporting and Data Analyst,3.6,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),89,129,109.0,Sheldonville,MA,192.0
-NAM Card AML Oversight Data Analytics Lead Analyst,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),63,106,84.5,Urbandale,IA,208.0
-Test Analyst - ETL/Data Warehouse/BI Reporting/Java/Micro Services,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),65,76,70.5,Chicago,IL,39.0
-Big Data Analyst,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),64,80,72.0,Philadelphia,PA,39.0
-E-commerce Data Analyst,3.6,10000+ Employees,Company - Public,Lending,Finance,,44,79,61.5,Chicago,IL,108.0
-Data Analyst,4.3,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),59,82,70.5,Stevens Point,WI,116.0
-Seat Services Data Analyst (Norfolk),3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),49,55,52.0,Norfolk,VA,51.0
-Data Analyst,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),34,60,47.0,New York,NY,26.0
-Health Policy Data Analyst,3.8,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),57,61,59.0,Nashville,TN,146.0
-Product Analyst/Data Scientist (Senior or Midlevel),3.7,501 to 1000 Employees,Company - Private,K-12 Education,Education,$100 to $500 million (USD),140,164,152.0,Glendale,CA,13.0
-Principal Data Solutions Analyst,3.8,10000+ Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),116,130,123.0,Boston,MA,108.0
-Data Analyst,2.8,501 to 1000 Employees,Company - Private,Banks & Credit Unions,Finance,,37,67,52.0,Denver,CO,
-Quality Metrics and Data Analyst,3.5,501 to 1000 Employees,Government,Health Care Services & Hospitals,Health Care,,35,49,42.0,Liverpool,NY,
-Data Management Analyst IV,3.6,1001 to 5000 Employees,Company - Private,Home Centers & Hardware Stores,Retail,$500 million to $1 billion (USD),37,77,57.0,San Marcos,TX,93.0
-Data Analyst,4.3,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,,47,91,69.0,New York,NY,20.0
-Entry Level Data Solution Analyst,4.2,1 to 50 Employees,Company - Public,,,$25 to $50 million (USD),82,122,102.0,Bala Cynwyd,PA,
-Data Analyst,4.4,51 to 200 Employees,Company - Private,"Gift, Novelty & Souvenir Stores",Retail,$10 to $25 million (USD),47,84,65.5,Brooklyn,NY,21.0
-Senior Data / Operations Reporting Analyst,,,,,,,49,89,69.0,Grand Rapids,MI,
-Data Analyst,4.1,51 to 200 Employees,Company - Private,Lending,Finance,,59,74,66.5,Englewood,CO,14.0
-Analyst Master Data,4.1,10000+ Employees,Subsidiary or Business Segment,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),74,91,82.5,Solon,OH,154.0
-Data Analyst,2.8,501 to 1000 Employees,Company - Private,General Merchandise & Superstores,Retail,,24,24,24.0,Perris,CA,49.0
-Scientific Data Analyst,4.4,501 to 1000 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),49,90,69.5,Atlanta,GA,21.0
-Data Analyst,4.4,1 to 50 Employees,Company - Private,Research & Development,Business Services,,36,68,52.0,Washington,DC,
-Data Analyst,4.5,1001 to 5000 Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,,33,57,45.0,Evansville,IN,15.0
-Senior Data Analyst,3.8,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),89,105,97.0,Atlanta,GA,172.0
-Data Analyst,3.8,1001 to 5000 Employees,Company - Private,Architectural & Engineering Services,Business Services,$1 to $2 billion (USD),74,91,82.5,Winchester,VA,80.0
-"Data Analyst Lead, Vice President (Collibra Data Governance Center)",3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),116,188,152.0,Tempe,AZ,156.0
-Data Operations Analyst,5.0,1 to 50 Employees,Company - Private,Colleges & Universities,Education,,64,71,67.5,Lisle,IL,
-Financial Data Analyst,3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Pleasant Prairie,WI,40.0
-Epic Clarity Data Analyst,3.8,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),55,75,65.0,Malden,MA,129.0
-Principal Data Solutions Analyst,3.7,10000+ Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),116,130,123.0,Boston,MA,108.0
-Data Analyst,,,,,,,53,70,61.5,Lakewood,OH,
-Data Operations Analyst,5.0,1 to 50 Employees,Company - Private,Colleges & Universities,Education,,64,71,67.5,Lisle,IL,12.0
-Data Conversion Analyst,,,,,,,22,81,51.5,Ames,IA,
-Data Analyst,,,,,,,46,75,60.5,Dallas,TX,
+job_title,rating,size,type_of_ownership,industry,sector,revenue,min_salary,max_salary,avg_salary,city,state,company_age,job_title_simp,seniority
+Data/Reporting Analyst,3.1,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),40,74,57.0,Miami Lakes,FL,11.0,data analyst,
+Lead Data Analyst,3.1,1001 to 5000 Employees,Nonprofit Organization,Lending,Finance,$500 million to $1 billion (USD),48,82,65.0,Harrisburg,PA,57.0,data analyst,senior
+Supply Chain Data Analyst,3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Pleasant Prairie,WI,40.0,data analyst,
+Operations Data Analyst,3.2,1001 to 5000 Employees,Company - Private,Logistics & Supply Chain,Transportation & Logistics,,32,57,44.5,Rancho Cucamonga,CA,44.0,data analyst,
+Life Data Analyst,4.4,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),38,69,53.5,Columbia,MO,74.0,data analyst,
+Digital Engagement Data Analyst/Admin,3.8,1001 to 5000 Employees,Nonprofit Organization,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),50,59,54.5,Ogden,UT,81.0,data analyst,
+Master Data Analyst,3.2,10000+ Employees,Company - Private,Miscellaneous Manufacturing,Manufacturing,,42,75,58.5,Covington,KY,16.0,data analyst,
+Data Quality Assurance Analyst,4.2,5001 to 10000 Employees,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),51,94,72.5,Warrenton,VA,52.0,data analyst,
+Treasury Data Analyst,3.1,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),46,82,64.0,Miami Lakes,FL,11.0,data analyst,
+"ERP Analyst, Data Conversion",3.5,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),79,81,80.0,Somerset,NJ,13.0,data analyst,
+IT Data Analyst,4.4,1001 to 5000 Employees,Company - Private,Lending,Finance,,37,68,52.5,Greenville,SC,34.0,data analyst,
+Data Standard Analyst - Biostatistics Team,3.0,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),34,82,58.0,Cincinnati,OH,28.0,data analyst,
+Contract Data Analyst,3.9,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),54,98,76.0,Arlington,VA,21.0,data analyst,
+"Financial Data Solutions, Sr. Data & Information Reporting Analyst",3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),84,104,94.0,Phoenix,AZ,156.0,data analyst,senior
+Senior Data Analyst,2.5,1001 to 5000 Employees,Company - Public,Lending,Finance,$100 to $500 million (USD),38,68,53.0,Lenexa,KS,36.0,data analyst,senior
+ETL/ Data Warehouse Test Analyst,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),51,59,55.0,Richardson,TX,39.0,data analyst,
+Quality Assurance Analyst - Data Warehouse ETL (South of Milwaukee),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,69,79,74.0,Milwaukee,WI,40.0,data analyst,
+CRA Data Analyst,3.1,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),43,78,60.5,Miami Lakes,FL,11.0,data analyst,
+Regulatory Affairs Data Analyst,4.0,1001 to 5000 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$1 to $2 billion (USD),47,85,66.0,Naples,FL,39.0,data analyst,
+Lead Data Analyst,4.4,10000+ Employees,College / University,Colleges & Universities,Education,,30,53,41.5,College Station,TX,149.0,data analyst,senior
+Lead Data Analyst for Datawarehouse,3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),56,95,75.5,Tempe,AZ,156.0,data analyst,senior
+GME Research Data Developer Analyst,3.5,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,,52,99,75.5,Gainesville,GA,69.0,data analyst,
+Web and Marketing Data Analyst,3.6,10000+ Employees,Subsidiary or Business Segment,Wholesale,Business Services,$10+ billion (USD),48,85,66.5,Newport News,VA,67.0,data analyst,
+Data Engineering Analyst,3.4,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),67,131,99.0,Waltham,MA,179.0,data analyst,
+GBSD Sr Data Analyst – Systems Engineer,4.0,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),64,82,73.0,Roy,UT,81.0,data analyst,senior
+IT Data Analyst III,4.0,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),82,143,112.5,Newark,NJ,88.0,data analyst,
+Data Quality Analyst I,4.0,201 to 500 Employees,Company - Private,Consulting,Business Services,,46,82,64.0,Minneapolis,MN,28.0,data analyst,
+"Data Management Business Analyst-Sourcing Analytics, CT or Remote",3.6,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),74,105,89.5,New Britain,CT,177.0,data analyst,
+"Sr Business/Data Analyst, Technology",4.0,10000+ Employees,Company - Public,Brokerage Services,Finance,$5 to $10 billion (USD),48,94,71.0,Saint Petersburg,FL,58.0,data analyst,senior
+Senior Data Analyst,3.8,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),64,111,87.5,Atlanta,GA,172.0,data analyst,senior
+Data Quality Analyst,3.6,1001 to 5000 Employees,Company - Private,Consulting,Business Services,$100 to $500 million (USD),45,82,63.5,Phoenix,AZ,34.0,data analyst,
+Supply Chain Data Analyst (South of Milwaukee),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Milwaukee,WI,40.0,data analyst,
+Program Finance & Data Analyst,2.9,201 to 500 Employees,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),68,94,81.0,Washington,DC,51.0,data analyst,
+eCommerce/Marketing Data Analyst,3.4,501 to 1000 Employees,Company - Private,,,$100 to $500 million (USD),61,73,67.0,Arlington Heights,IL,,data analyst,
+Data Analyst-Business Information Specialist,3.0,10000+ Employees,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),42,72,57.0,Flint,MI,39.0,data analyst,
+Supply Chain Data Analyst (North of Chicago),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Chicago,IL,40.0,data analyst,
+Digital Data Analyst,3.6,10000+ Employees,Company - Private,Insurance Agencies & Brokerages,Insurance,$1 to $2 billion (USD),48,60,54.0,Chicago,IL,22.0,data analyst,
+Research Data Analyst,4.1,501 to 1000 Employees,College / University,Colleges & Universities,Education,$100 to $500 million (USD),31,57,44.0,Detroit,MI,149.0,data analyst,
+"ETL, Data Warehouse Test Analyst",3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),51,58,54.5,Atlanta,GA,39.0,data analyst,
+Business Analyst - Data Science,3.6,501 to 1000 Employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$1 to $2 billion (USD),37,68,52.5,Fort Wayne,IN,121.0,data analyst,
+Senior Benefits Data Analyst - Compliance,3.5,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$2 to $5 billion (USD),42,72,57.0,North Canton,OH,121.0,data analyst,senior
+Business Analyst - Data Operations,2.9,51 to 200 Employees,Private Practice / Firm,Legal,Accounting & Legal,$10 to $25 million (USD),31,55,43.0,Plymouth,MN,55.0,data analyst,
+Metrics & Data Analytics Analyst,3.8,10000+ Employees,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),68,94,81.0,Washington,DC,24.0,data analyst,
+HR Systems and Data Analyst - Augsburg University,3.8,501 to 1000 Employees,College / University,Colleges & Universities,Education,$50 to $100 million (USD),37,67,52.0,Minneapolis,MN,151.0,data analyst,
+Business System Analyst 3 (Quality Control Data Analyst) - SOM:Cancer Center -Davis,4.4,10000+ Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),74,83,78.5,Sacramento,CA,115.0,data analyst,
+Data Analyst/Tableau Developer,4.4,51 to 200 Employees,Company - Private,Consulting,Business Services,$1 to $5 million (USD),59,106,82.5,Washington,DC,15.0,data analyst,
+Sales Data Analyst,3.5,201 to 500 Employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),41,74,57.5,Carson,CA,34.0,data analyst,
+Lead Reporting Data Analyst,4.0,201 to 500 Employees,Company - Private,Consulting,Business Services,,87,117,102.0,Minneapolis,MN,28.0,data analyst,senior
+Quantitative Data Analyst,3.1,51 to 200 Employees,Company - Private,Internet,Information Technology,,60,63,61.5,Cambridge,MA,15.0,data analyst,
+Business Data Analyst,2.2,501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD),30,57,43.5,Raleigh,NC,24.0,data analyst,
+"Marketing Data Analyst, Portsmouth",3.6,501 to 1000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$2 to $5 billion (USD),36,65,50.5,Portsmouth,NH,63.0,data analyst,
+Data Visualization Analyst,4.2,51 to 200 Employees,Company - Public,Consulting,Business Services,$1 to $5 million (USD),34,65,49.5,Vienna,VA,8.0,data analyst,
+Test Analyst - ETL/Data Warehouse/Unix/Report Testing/Analytics,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),48,56,52.0,Saint Louis,MO,39.0,data analyst,
+Data Analyst-HEDIS & Star,4.1,501 to 1000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$2 to $5 billion (USD),80,91,85.5,Long Beach,CA,43.0,data analyst,
+Senior Crew Data Analyst,3.9,10000+ Employees,Subsidiary or Business Segment,Express Delivery Services,Transportation & Logistics,$10+ billion (USD),85,95,90.0,Memphis,TN,49.0,data analyst,senior
+Travel Data Analyst,2.9,501 to 1000 Employees,Franchise,Membership Organizations,Business Services,$1 to $5 million (USD),49,55,52.0,Worthington,OH,43.0,data analyst,
+"Senior Data Analyst, Data Transformation",3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),64,109,86.5,Charlotte,NC,156.0,data analyst,senior
+Variable Data Analyst,3.2,51 to 200 Employees,Company - Private,,,,74,80,77.0,Peabody,MA,,data analyst,
+Lending Data Analyst,3.5,501 to 1000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$100 to $500 million (USD),44,78,61.0,Rolling Meadows,IL,85.0,data analyst,
+"Senior Analyst, Data & Analytics",4.0,51 to 200 Employees,Company - Private,Internet,Information Technology,$25 to $50 million (USD),61,133,97.0,San Francisco,CA,9.0,data analyst,senior
+IT Data Analyst - Administration,3.6,1001 to 5000 Employees,Company - Public,,,,47,59,53.0,San Diego,CA,,data analyst,
+Data Analyst-Power BI Developer,,,,,,,71,110,90.5,Irvine,CA,,data analyst,
+Seasonal Data Capture Analyst,3.0,51 to 200 Employees,Company - Private,Research & Development,Business Services,,30,55,42.5,Bozeman,MT,,data analyst,
+Research Analyst - Data Science Division,3.6,501 to 1000 Employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),66,132,99.0,Arlington,VA,78.0,data analyst,
+"Data Analyst, Advanced Analytics",3.8,5001 to 10000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),47,84,65.5,Richmond,VA,101.0,data analyst,
+Data Governance Analyst,3.6,1001 to 5000 Employees,Company - Public,Miscellaneous Manufacturing,Manufacturing,$1 to $2 billion (USD),42,75,58.5,Chaska,MN,54.0,data analyst,
+Senior Data Analyst,2.6,201 to 500 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,,45,80,62.5,Honolulu,HI,26.0,data analyst,senior
+Data Analyst I - Cox Business Indirect Sales,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),42,72,57.0,Las Vegas,NV,58.0,data analyst,
+Data Governance Analyst,3.7,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),38,68,53.0,Kansas City,MO,135.0,data analyst,
+Data Operations Analyst,4.0,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),39,57,48.0,Jacksonville,FL,51.0,data analyst,
+"Enterprise Data, Financial Data Analyst - Content Design Specialist Contractor",4.1,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,,58,98,78.0,New York,NY,39.0,data analyst,
+Senior Data Analyst,3.5,10000+ Employees,Company - Public,Transportation Management,Transportation & Logistics,$5 to $10 billion (USD),77,87,82.0,San Diego,CA,87.0,data analyst,senior
+Epic Clarity Data Analyst,3.7,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),55,75,65.0,Malden,MA,129.0,data analyst,
+BI Data Analyst,3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),43,78,60.5,Baltimore,MD,51.0,data analyst,
+MASTER DATA ANALYST,3.2,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),41,73,57.0,Largo,FL,,data analyst,
+Data Science Support Analyst (Journeyman),3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),104,171,137.5,McLean,VA,49.0,data analyst,
+Lead Data Analyst,3.1,51 to 200 Employees,Company - Private,Consulting,Business Services,$100 to $500 million (USD),42,79,60.5,Nashville,TN,26.0,data analyst,senior
+Data Security Analyst,3.5,501 to 1000 Employees,Company - Private,Federal Agencies,Government,$10 to $25 million (USD),76,87,81.5,Burlingame,CA,24.0,data analyst,
+Clinical Data Analyst - Patient Experience,4.2,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),58,71,64.5,Honolulu,HI,,data analyst,
+Senior Financial Analyst-Data Analytics,3.8,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),41,65,53.0,Portland,ME,172.0,data analyst,senior
+SQL Data Analyst,2.9,51 to 200 Employees,Nonprofit Organization,Investment Banking & Asset Management,Finance,$5 to $10 million (USD),48,71,59.5,Denver,CO,,data analyst,
+Data Engineer Analyst / Developer,4.1,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),83,95,89.0,Hartford,CT,167.0,data analyst,
+Tableau Admin / Data Analyst,3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),33,33,33.0,Roy,UT,49.0,data analyst,
+Energy Data Analyst,3.1,51 to 200 Employees,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$25 to $50 million (USD),58,106,82.0,Roanoke,VA,17.0,data analyst,
+"Data Quality Analyst (Trinity County, CA)",3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),43,45,44.0,Eureka,CA,54.0,data analyst,
+Pharmacy Data Analyst,,,,,,,53,80,66.5,Garden Grove,CA,,data analyst,
+Data Analyst,3.5,51 to 200 Employees,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),46,84,65.0,San Diego,CA,33.0,data analyst,
+Lead Medical Coding Data Analyst,4.5,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),11,21,16.0,Indianapolis,IN,55.0,data analyst,senior
+Sr. Data Analyst - Insurance Pricing Specialist,3.8,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD),53,94,73.5,Brea,CA,59.0,data analyst,senior
+"Data Analyst, Digital",3.8,1001 to 5000 Employees,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$100 to $500 million (USD),44,78,61.0,Sycamore,IL,104.0,data analyst,
+Senior Data Science Analyst - Center for Digital Health,4.2,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),72,120,96.0,Rochester,MN,,data analyst,senior
+Senior Application Analyst - Data Visualization & SQL,3.4,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),44,70,57.0,Wayne,PA,42.0,data analyst,senior
+Senior Data Analyst,4.5,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),49,91,70.0,Durant,OK,,data analyst,senior
+HCM Data Analyst,4.4,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),37,44,40.5,Oklahoma City,OK,22.0,data analyst,
+Product Data Analyst,3.1,1001 to 5000 Employees,Company - Public,Automotive Parts & Accessories Stores,Retail,$500 million to $1 billion (USD),52,93,72.5,Colmar,PA,102.0,data analyst,
+Senior Media Data & Reporting Analyst,2.3,1 to 50 Employees,Company - Private,Internet,Information Technology,,91,101,96.0,New York,NY,,data analyst,senior
+Scientific Data Analyst,4.3,501 to 1000 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),49,90,69.5,Atlanta,GA,21.0,data analyst,
+"Senior Quality, Safety, Health Equity Data Analyst / 40 Hours / BWH APSI",3.9,5001 to 10000 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),41,73,57.0,Boston,MA,24.0,data analyst,senior
+Technical Data Analyst,2.0,201 to 500 Employees,Company - Private,Security Services,Business Services,$25 to $50 million (USD),30,52,41.0,Ladera Ranch,CA,27.0,data analyst,
+Lead Data Science Analyst,3.9,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$25 to $50 million (USD),85,118,101.5,Riverwoods,IL,35.0,data analyst,senior
+Data Analyst Coordinator,3.4,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),38,66,52.0,King of Prussia,PA,42.0,data analyst,
+Senior Business Analyst - Data Solutions,2.7,501 to 1000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),58,106,82.0,Denver,CO,49.0,data analyst,senior
+ELINT Data Analyst,3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),44,81,62.5,Austin,TX,58.0,data analyst,
+Data Insight Analyst,4.0,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),74,95,84.5,McLean,VA,81.0,data analyst,
+Data Science Analyst - RH,3.8,10000+ Employees,Company - Private,Wholesale,Business Services,$25 to $50 million (USD),42,74,58.0,Rosemont,IL,44.0,data analyst,
+Sr. Investments Data Analyst,3.7,5001 to 10000 Employees,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),71,83,77.0,New York,NY,160.0,data analyst,senior
+Market Intelligence and Data Analytics Analyst II,3.2,10000+ Employees,Company - Public,Wholesale,Business Services,$10+ billion (USD),48,82,65.0,Lake Mary,FL,85.0,data analyst,
+Master Data Coordinator (Master Data Analyst),4.2,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),45,78,61.5,Saint Louis,MO,57.0,data analyst,
+Marketing Data Analyst,4.6,201 to 500 Employees,Company - Private,Real Estate,Real Estate,$100 to $500 million (USD),40,63,51.5,Troy,OH,28.0,data analyst,
+Guest Data Analyst,3.2,10000+ Employees,Company - Public,Gas Stations,Retail,$5 to $10 billion (USD),33,57,45.0,Ankeny,IA,53.0,data analyst,
+Senior Data Governance Analyst,3.7,1001 to 5000 Employees,Company - Private,Lending,Finance,$500 million to $1 billion (USD),93,106,99.5,Irving,TX,14.0,data analyst,senior
+Senior Data Analyst,3.6,5001 to 10000 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$2 to $5 billion (USD),51,90,70.5,Atlanta,GA,51.0,data analyst,senior
+Quality Assurance Analyst - Data Warehouse ETL (North of Chicago),3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,41,87,64.0,Chicago,IL,40.0,data analyst,
+"Data Quality Analyst (Butte County, CA)",3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),32,57,44.5,Chico,CA,54.0,data analyst,
+Senior Data Analyst,4.5,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,,85,111,98.0,Boston,MA,32.0,data analyst,senior
+"Data Analyst, Linkage Capabilities Transformation",3.4,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),39,69,54.0,Center Valley,PA,179.0,data analyst,
+Master Data Reporting Analyst,4.1,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),51,108,79.5,Wilton,CT,36.0,data analyst,
+Clinical Informatics Analyst- UAB Data Analytics (Full Time),3.8,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,,53,70,61.5,Birmingham,AL,75.0,data analyst,
+Operations Data Analyst,4.3,501 to 1000 Employees,Company - Private,Transportation Management,Transportation & Logistics,$10 to $25 million (USD),38,70,54.0,Birmingham,AL,35.0,data analyst,
+Field Data Collection Analyst (GIS),3.4,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),36,65,50.5,Chicago,IL,24.0,data analyst,
+"Sr. Data Analyst, BI",4.0,5001 to 10000 Employees,Company - Private,Automotive Parts & Accessories Stores,Retail,$2 to $5 billion (USD),52,88,70.0,Palm Beach Gardens,FL,64.0,data analyst,senior
+Data Analyst - Remote,3.6,201 to 500 Employees,Subsidiary or Business Segment,IT Services,Information Technology,$25 to $50 million (USD),38,42,40.0,Chicago,IL,19.0,data analyst,
+HRIS Analyst - Data & Systems Oracle Fusion,3.6,5001 to 10000 Employees,Subsidiary or Business Segment,Transportation Management,Transportation & Logistics,$1 to $2 billion (USD),57,69,63.0,Orlando,FL,28.0,data analyst,
+Data Analyst I,4.7,5001 to 10000 Employees,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),47,87,67.0,Beaverton,OR,11.0,data analyst,
+"Data Analyst, Business Intelligence",4.0,1 to 50 Employees,Company - Private,Internet,Information Technology,Less than $1 million (USD),64,126,95.0,New York,NY,9.0,data analyst,
+Data Analyst - Sales Performance,3.5,10000+ Employees,Subsidiary or Business Segment,Logistics & Supply Chain,Transportation & Logistics,$5 to $10 billion (USD),30,53,41.5,Brentwood,TN,116.0,data analyst,
+Data Analyst – Institutional Clients Group Analytics AVP,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),52,93,72.5,New York,NY,208.0,data analyst,
+Digital Marketing Data Analyst,3.5,10000+ Employees,Company - Private,Transportation Management,Transportation & Logistics,$5 to $10 billion (USD),36,66,51.0,Reading,PA,51.0,data analyst,
+Configuration Data Management Analyst,3.7,5001 to 10000 Employees,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),32,67,49.5,Bridgeton,MO,52.0,data analyst,
+Analyst – Data Center Operations,4.1,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),89,115,102.0,Ashburn,VA,62.0,data analyst,
+ERAP Data Analyst,3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),43,44,43.5,Altamonte Springs,FL,54.0,data analyst,
+E-commerce Data Analyst,3.5,10000+ Employees,Company - Public,Lending,Finance,,44,79,61.5,Chicago,IL,108.0,data analyst,
+"Data Analyst, Business Intelligence",4.6,51 to 200 Employees,Company - Private,,,,75,147,111.0,Bellevue,WA,,data analyst,
+"Data Analyst, Product",4.4,1001 to 5000 Employees,Company - Private,Computer Hardware & Software,Information Technology,,49,87,68.0,Salt Lake City,UT,20.0,data analyst,
+Provider Data Analyst,,,,,,,55,71,63.0,Fort Lauderdale,FL,,data analyst,
+"Statistician-Data Analyst I, FIS University Program",3.8,10000+ Employees,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD),72,78,75.0,Woodbury,MN,52.0,data analyst,
+Research Data Analyst,4.5,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),43,76,59.5,New Haven,CT,319.0,data analyst,
+"Analyst, Data Visualization",4.1,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,,77,87,82.0,Dallas,TX,10.0,data analyst,
+"Data Analyst, Business Intelligence",4.1,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,,82,91,86.5,New York,NY,13.0,data analyst,
+"Senior Analyst, Data Strategy",3.8,5001 to 10000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),57,122,89.5,Richmond,VA,101.0,data analyst,senior
+"Data Center Logistics Analyst, University Grad",4.3,10000+ Employees,Company - Public,Internet,Information Technology,$5 to $10 billion (USD),78,116,97.0,Ashburn,VA,16.0,data analyst,
+Data Analyst I,3.6,1001 to 5000 Employees,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),47,57,52.0,Highland,CA,34.0,data analyst,
+Looker Data Analyst,3.9,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),44,85,64.5,New York,NY,16.0,data analyst,
+Fixed Term Junior Data Analyst,3.9,201 to 500 Employees,Company - Private,Internet,Information Technology,$50 to $100 million (USD),48,88,68.0,New York,NY,19.0,data analyst,junior
+Data Analyst - New York Life Investments,4.0,10000+ Employees,Company - Private,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),46,81,63.5,Jersey City,NJ,175.0,data analyst,
+Data Analyst (Job #1182),3.9,51 to 200 Employees,Company - Private,,,,36,66,51.0,Arlington,VA,,data analyst,
+"Sr Analyst, Business Analytics – Data Analytics Development",3.4,10000+ Employees,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),57,98,77.5,Chicago,IL,5.0,data analyst,senior
+"Data Analyst II - Risk Adjustment Analyst - San Antonio, TX",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),49,79,64.0,San Antonio,TX,43.0,data analyst,
+Vendor Master Data Analyst - 6+ Month Contract - $17/hr,3.4,1001 to 5000 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),40,75,57.5,San Antonio,TX,44.0,data analyst,
+Excel Data Analyst,3.9,1001 to 5000 Employees,Company - Public,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),29,40,34.5,Jacksonville,FL,26.0,data analyst,
+"Data Engineering Analyst, Finance Data and Analytics",4.5,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),67,98,82.5,Chicago,IL,22.0,data analyst,
+Data Integrity Analyst I,3.8,1 to 50 Employees,Company - Private,Miscellaneous Manufacturing,Manufacturing,$5 to $10 million (USD),40,75,57.5,Carlsbad,CA,30.0,data analyst,
+Data Analyst I - Wholesale,4.9,201 to 500 Employees,Company - Private,Telecommunications Services,Telecommunications,,75,85,80.0,Costa Mesa,CA,9.0,data analyst,
+Data Operations Analyst,4.0,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),32,57,44.5,Chicago,IL,48.0,data analyst,
+Market Data Analyst,3.7,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),31,55,43.0,Reno,NV,158.0,data analyst,
+"Lead Data Analyst, Tax Information Reporting and Control Analytics",3.9,1001 to 5000 Employees,Company - Public,Banks & Credit Unions,Finance,$25 to $50 million (USD),64,113,88.5,Fairport,NY,35.0,data analyst,senior
+Business Data Analyst,3.7,10000+ Employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),38,75,56.5,Lafayette,IN,105.0,data analyst,
+Data Analyst IV (Healthcare Analytics),3.5,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),74,124,99.0,Tigard,OR,36.0,data analyst,
+Data Analytics Analyst,3.7,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),54,64,59.0,Industry,CA,20.0,data analyst,
+Healthcare Data Analyst (Remote Opportunity),4.6,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),65,80,72.5,Washington,DC,,data analyst,
+Scientist Level 1 - Data Analyst - US,3.9,1001 to 5000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),52,88,70.0,Northbrook,IL,25.0,data analyst,
+Automation Data Analyst,3.7,10000+ Employees,Company - Public,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),60,78,69.0,Saint Louis,MO,168.0,data analyst,
+Data Analyst,3.1,5001 to 10000 Employees,Company - Public,IT Services,Information Technology,$25 to $50 million (USD),32,59,45.5,Danville,KY,33.0,data analyst,
+Data Analyst III Peri-and-Post Approval Studies,3.2,501 to 1000 Employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),100,114,107.0,Waltham,MA,7.0,data analyst,
+"Data Analyst, Product",4.5,501 to 1000 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),49,89,69.0,New York,NY,9.0,data analyst,
+Data Analyst,4.3,51 to 200 Employees,Company - Private,"Gift, Novelty & Souvenir Stores",Retail,$10 to $25 million (USD),47,84,65.5,Brooklyn,NY,21.0,data analyst,
+"Data Analyst (New York based, relocation required)",4.2,1001 to 5000 Employees,Company - Public,Internet,Information Technology,$500 million to $1 billion (USD),56,104,80.0,New York,NY,15.0,data analyst,
+SQL Data Integration Analyst,4.5,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),51,64,57.5,Los Angeles,CA,33.0,data analyst,
+Operations Data Analyst - Advisor Commissions (Remote),3.9,1001 to 5000 Employees,Company - Public,Insurance Carriers,Insurance,,55,123,89.0,Charlotte,NC,3.0,data analyst,
+Claims Data Analyst,4.1,501 to 1000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$25 to $50 million (USD),50,87,68.5,Albany,NY,36.0,data analyst,
+Data Analyst I,5.0,51 to 200 Employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),60,63,61.5,Denver,CO,19.0,data analyst,
+DATA ANALYST,2.8,51 to 200 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),44,78,61.0,Chicago,IL,,data analyst,
+Data Visualization Analyst,3.1,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,,30,55,42.5,Chicago,IL,5.0,data analyst,
+Data Analyst Fellow,5.0,1 to 50 Employees,Company - Private,Consulting,Business Services,,65,66,65.5,New York,NY,7.0,data analyst,
+Business/Data Analyst,4.0,1 to 50 Employees,Company - Private,IT Services,Information Technology,,64,117,90.5,Washington,DC,13.0,data analyst,
+Student Data Analyst,4.3,1001 to 5000 Employees,College / University,Colleges & Universities,Education,$100 to $500 million (USD),31,43,37.0,Normal,IL,163.0,data analyst,intern
+"Analyst, Data Analytics",3.2,10000+ Employees,Company - Public,Drug & Health Stores,Retail,$10+ billion (USD),49,88,68.5,Deerfield,IL,119.0,data analyst,
+Investment Data Analyst,4.2,501 to 1000 Employees,Company - Private,Investment Banking & Asset Management,Finance,,121,126,123.5,New York,NY,19.0,data analyst,
+Junior Data Analyst,3.9,5001 to 10000 Employees,Company - Private,Accounting,Accounting & Legal,$1 to $2 billion (USD),50,87,68.5,Arlington,VA,96.0,data analyst,junior
+Data Analyst-Technical-Staff,3.7,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),66,110,88.0,Salt Lake City,UT,45.0,data analyst,
+Data Visualization Analyst,4.1,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD),42,77,59.5,Springfield,VA,7.0,data analyst,
+Analyst - Data Analytics,4.4,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,,34,67,50.5,New York,NY,20.0,data analyst,
+Data Science Analyst - Technology Strategic Planning,4.3,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),106,144,125.0,Pleasanton,CA,15.0,data analyst,
+Senior Data Analyst,3.1,1001 to 5000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD),39,69,54.0,Plano,TX,30.0,data analyst,senior
+Health Data Analyst / Statistician Intermediate,4.4,10000+ Employees,College / University,Colleges & Universities,Education,$5 to $10 billion (USD),31,55,43.0,Ann Arbor,MI,203.0,data analyst,
+"Data Analyst, Business Intelligence",3.9,501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,53,107,80.0,New York,NY,3.0,data analyst,
+Quality Data Analyst,2.8,1 to 50 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),51,88,69.5,Anchorage,AK,67.0,data analyst,
+"Data Analyst, Data Analytics",3.2,201 to 500 Employees,Company - Private,Insurance Carriers,Insurance,$25 to $50 million (USD),58,103,80.5,Oakland,CA,105.0,data analyst,
+Quantitative Business Analyst - Strategic Data Solutions,4.3,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),45,83,64.0,Austin,TX,44.0,data analyst,
+Recruiting Data Analyst,3.4,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),72,113,92.5,Palo Alto,CA,16.0,data analyst,
+Environmental Data Analyst - 1 to 5 Years Experience,4.3,1001 to 5000 Employees,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD),42,76,59.0,New York,NY,50.0,data analyst,
+Research Data Analyst,3.9,10000+ Employees,Company - Public,Real Estate,Real Estate,,40,72,56.0,Saddle Brook,NJ,114.0,data analyst,
+Planning Data Analyst - Mahwah NJ,3.1,5001 to 10000 Employees,Company - Public,Health Care Products Manufacturing,Manufacturing,$5 to $10 billion (USD),58,106,82.0,Mahwah,NJ,29.0,data analyst,
+Data Analyst - Strategy,3.4,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),54,98,76.0,San Francisco,CA,19.0,data analyst,
+Data Analyst (GIS),3.4,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),35,64,49.5,Leander,TX,24.0,data analyst,
+Summer Intern: Product Data Analyst,4.3,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),53,98,75.5,New York,NY,21.0,data analyst,intern
+Data Analyst,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),30,64,47.0,New York,NY,26.0,data analyst,
+Research Data Analyst,4.2,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),35,61,48.0,Boston,MA,151.0,data analyst,
+Marketing Data Analyst,3.8,51 to 200 Employees,Company - Private,Financial Analytics & Research,Finance,,44,86,65.0,New York,NY,8.0,data analyst,
+Quality Improvement Data Analyst - Nutrition,4.2,5001 to 10000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),35,61,48.0,Boston,MA,151.0,data analyst,
+Global Process Data Analyst,4.5,1 to 50 Employees,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD),32,61,46.5,Fort Worth,TX,,data analyst,
+Research Data Analyst,4.3,10000+ Employees,College / University,Colleges & Universities,Education,$25 to $50 million (USD),54,93,73.5,San Francisco,CA,156.0,data analyst,
+Business Data Analyst,4.0,51 to 200 Employees,Company - Private,Lending,Finance,,68,80,74.0,New York,NY,5.0,data analyst,
+"Strategic Data Analyst, Population Health Innovation Institute",4.0,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),39,68,53.5,Brooklyn Heights,OH,183.0,data analyst,
+"Portfolio Operations - Data Science, Product Analyst",4.0,1001 to 5000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),62,109,85.5,New York,NY,35.0,data analyst,
+"Data Visualization Analyst, Operations Strategy & Analytics",3.5,10000+ Employees,Company - Public,Home Furniture & Housewares Stores,Retail,$5 to $10 billion (USD),36,72,54.0,Boston,MA,18.0,data analyst,
+Data Governance Analyst,4.0,10000+ Employees,Company - Private,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),44,79,61.5,Saint Louis,MO,98.0,data analyst,
+"Data Analyst, Paid Search",3.9,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),44,85,64.5,New York,NY,16.0,data analyst,
+Research Data Analyst,4.3,10000+ Employees,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),39,69,54.0,Miami,FL,,data analyst,
+IT Technical Data Analyst,3.5,10000+ Employees,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),42,75,58.5,Greensboro,NC,103.0,data analyst,
+Health Care Data Analyst,3.1,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),44,80,62.0,Northbrook,IL,57.0,data analyst,
+Grants Manager/Data Analyst,1.0,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),106,137,121.5,Charlotte,NC,,data analyst,
+Data Analyst (Lab Technician) Supporting the FBI Laboratory,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),43,56,49.5,Quantico,VA,16.0,data analyst,
+Research Data Analyst,4.2,5001 to 10000 Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),45,82,63.5,Stanford,CA,112.0,data analyst,
+Data Visualization & Research Analyst,3.2,501 to 1000 Employees,College / University,Colleges & Universities,Education,$10 to $25 million (USD),36,71,53.5,Scottsdale,AZ,24.0,data analyst,
+Investment Data Quality Analyst,3.9,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD),47,83,65.0,Minneapolis,MN,118.0,data analyst,
+"Analyst, Privacy Operations – Data Privacy Office / Data Governance",3.2,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD),52,100,76.0,Stamford,CT,39.0,data analyst,
+Research and Data Systems Analyst 2,4.5,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),32,61,46.5,Cambridge,MA,159.0,data analyst,
+SHE Data & Analytics Analyst,4.0,10000+ Employees,Company - Public,Farm Support Services,Agriculture & Forestry,$5 to $10 billion (USD),50,86,68.0,Loveland,CO,2.0,data analyst,
+DATA ANALYST (TEMPORARY),4.3,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),48,84,66.0,Seattle,WA,159.0,data analyst,
+Data Research Analyst,3.9,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),38,78,58.0,Parsippany,NJ,3.0,data analyst,
+Arizona School Data Analyst - (AZVA),3.2,5001 to 10000 Employees,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD),38,69,53.5,Glendale,AZ,21.0,data analyst,
+Data Analyst Supporting the FBI,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),51,53,52.0,Washington,DC,16.0,data analyst,
+Attendance and Truancy Data Analyst,3.5,10000+ Employees,School / School District,K-12 Education,Education,,45,79,62.0,Chicago,IL,137.0,data analyst,
+Finance Data Analyst II,3.2,5001 to 10000 Employees,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD),46,80,63.0,Herndon,VA,21.0,data analyst,
+Counterterrorism Data Exploitation Analyst (Mid-Level),3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),64,109,86.5,McLean,VA,49.0,data analyst,
+Analyst II - Data Analytics,4.1,5001 to 10000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),64,107,85.5,Detroit,MI,101.0,data analyst,
+Data Analyst,3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),49,89,69.0,Bethesda,MD,58.0,data analyst,
+Marketing Data Analyst,4.3,5001 to 10000 Employees,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),67,117,92.0,Oakland,CA,81.0,data analyst,
+IT Data Analyst,4.0,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),32,58,45.0,Coral Gables,FL,,data analyst,
+Data Analyst Supporting the DEA,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),45,80,62.5,Richmond,VA,16.0,data analyst,
+Data Link Analyst,3.5,1001 to 5000 Employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),52,93,72.5,Mount Laurel,NJ,49.0,data analyst,
+Data Analyst (Houston),3.9,10000+ Employees,Company - Public,Architectural & Engineering Services,Business Services,$2 to $5 billion (USD),43,56,49.5,Houston,TX,54.0,data analyst,
+"City Research Scientist II / Data Analyst, Bureau of HIV",3.5,5001 to 10000 Employees,Government,Municipal Governments,Government,,46,101,73.5,Queens Village,NY,,data analyst,
+Data Analyst,4.7,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,,45,75,60.0,Nashville,TN,14.0,data analyst,
+Data Analyst,3.5,201 to 500 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),56,100,78.0,Bethesda,MD,22.0,data analyst,
+BSA/AML Data Analytics & Performance Analyst,4.0,10000+ Employees,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD),58,104,81.0,New York,NY,122.0,data analyst,
+Data Analyst/Programmer,3.6,10000+ Employees,Company - Public,Real Estate,Real Estate,$500 million to $1 billion (USD),39,68,53.5,Bloomington,MN,44.0,data analyst,
+Senior Data Analyst,3.5,10000+ Employees,Company - Public,Lending,Finance,,79,90,84.5,Wilmington,DE,108.0,data analyst,senior
+Data Analyst,4.0,51 to 200 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,37,67,52.0,New York,NY,5.0,data analyst,
+Equity Research Data Analyst,4.1,1001 to 5000 Employees,College / University,Colleges & Universities,Education,$100 to $500 million (USD),45,80,62.5,Santa Cruz,CA,55.0,data analyst,
+Data Journalist - Visualization Analyst,3.8,5001 to 10000 Employees,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),32,76,54.0,New York,NY,102.0,data analyst,
+Data Analyst/Contractor,3.0,1 to 50 Employees,Company - Private,,,,56,73,64.5,Philadelphia,PA,,data analyst,
+"Data Analyst, Marketing",4.3,201 to 500 Employees,Company - Public,,,,35,64,49.5,New York,NY,,data analyst,
+(Senior/ Lead) Product Analyst - Data Intelligence,4.5,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),97,159,128.0,San Francisco,CA,21.0,data analyst,senior
+"Data Analyst, High Tech Product & Enablement Platforms",4.2,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),64,101,82.5,Austin,TX,36.0,data analyst,
+Research Data Management Analyst - Kaiser Permanente Bernard J. Tyson School of Medicine,4.1,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),77,94,85.5,Pasadena,CA,75.0,data analyst,
+Data Analyst - Payments,4.6,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),47,87,67.0,Santa Barbara,CA,14.0,data analyst,
+Data Center Analyst,4.4,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),26,36,31.0,Atlanta,GA,50.0,data analyst,
+Finance Data Analyst,3.1,,Company - Public,,,,48,75,61.5,Bronx,NY,,data analyst,
+Data Analyst/Programmer,2.6,1 to 50 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD),44,47,45.5,Falls Church,VA,30.0,data analyst,
+Data and Research Analyst,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),40,107,73.5,Tampa,FL,208.0,data analyst,
+PIM Manager/Data Analyst,3.0,201 to 500 Employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),73,130,101.5,Dallas,TX,52.0,data analyst,
+"Intern, Statistician-Data Analyst, Summer FIS University Program 2021",3.8,10000+ Employees,Company - Public,Financial Transaction Processing,Finance,$10+ billion (USD),41,80,60.5,Woodbury,MN,52.0,data analyst,intern
+DATA INFORMATICS ANALYST,4.6,51 to 200 Employees,Company - Public,,,,42,67,54.5,Madison,WI,,data analyst,
+Supply Chain Data Analyst,4.2,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),78,137,107.5,Santa Clara,CA,16.0,data analyst,
+Data Analyst- Cardiac Surgery Services,4.0,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),44,68,56.0,Chicago,IL,183.0,data analyst,
+Data Analyst,2.7,201 to 500 Employees,Company - Private,Video Games,Media,,47,91,69.0,Boston,MA,21.0,data analyst,
+COLLEGE DATA ANALYST,3.9,1001 to 5000 Employees,School / School District,K-12 Education,Education,$50 to $100 million (USD),40,72,56.0,Houston,TX,22.0,data analyst,
+Data Analyst / Driver Messenger Supporting the USMS,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),46,48,47.0,Miami,FL,16.0,data analyst,
+Technical Data Analyst,4.0,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),79,139,109.0,San Francisco,CA,11.0,data analyst,
+"Market Data Analyst, West Palm Beach, FL",3.6,201 to 500 Employees,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),31,57,44.0,West Palm Beach,FL,29.0,data analyst,
+Systems and Data Analyst 2,3.7,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),72,93,82.5,Englewood,CO,104.0,data analyst,
+Data Analyst,2.6,1001 to 5000 Employees,Company - Private,Transportation Management,Transportation & Logistics,$100 to $500 million (USD),27,49,38.0,Grand Prairie,TX,87.0,data analyst,
+Data Transformation Analyst,3.5,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),40,71,55.5,Atlanta,GA,28.0,data analyst,
+"RESEARCH DATA ANALYST, Boston University School of Public Health",4.3,10000+ Employees,College / University,Colleges & Universities,Education,$1 to $2 billion (USD),43,68,55.5,Boston,MA,181.0,data analyst,
+Data Privacy Analyst,3.3,51 to 200 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,,47,53,50.0,Quincy,MA,10.0,data analyst,
+Data Integrity Analyst,3.5,1 to 50 Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$25 to $50 million (USD),41,77,59.0,Jersey City,NJ,101.0,data analyst,
+Data Enhancement Team: Analyst,4.3,201 to 500 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,,34,62,48.0,Livingston,NJ,26.0,data analyst,
+"Advertising Data Analyst, Business Intelligence",4.1,1001 to 5000 Employees,Company - Private,Advertising & Marketing,Business Services,,61,122,91.5,New York,NY,13.0,data analyst,
+Supply Chain Data Analyst,3.9,1 to 50 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,,84,107,95.5,Waltham,MA,,data analyst,
+Configuration/Data Management Analyst,5.0,1 to 50 Employees,Company - Private,,,Less than $1 million (USD),62,70,66.0,Huntsville,AL,,data analyst,
+Data and Research Analyst,3.9,1001 to 5000 Employees,Company - Private,Lending,Finance,,31,78,54.5,Tampa,FL,,data analyst,
+"Data and Reporting Analyst, Strategic Planning & Delivery-6",3.9,5001 to 10000 Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),45,65,55.0,Springfield,MA,169.0,data analyst,
+Sr Data Analyst,,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),72,124,98.0,Indianapolis,IN,35.0,data analyst,senior
+Data Analyst,3.4,201 to 500 Employees,Company - Private,Advertising & Marketing,Business Services,,31,58,44.5,Sacramento,CA,,data analyst,
+OSP Data Analyst,4.5,1001 to 5000 Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,,29,51,40.0,Evansville,IN,15.0,data analyst,
+Data Quality Analyst,4.3,1 to 50 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),44,79,61.5,Washington,DC,36.0,data analyst,
+Data Analyst - Supply Chain Solution Specialist - USDC,3.9,10000+ Employees,Company - Private,Accounting,Accounting & Legal,$10+ billion (USD),51,92,71.5,Gilbert,AZ,170.0,data analyst,
+Compliance Data Analyst,4.0,5001 to 10000 Employees,Company - Public,Computer Hardware & Software,Information Technology,,75,134,104.5,New York,NY,8.0,data analyst,
+Business/ Data Analyst,3.6,1001 to 5000 Employees,Company - Public,Commercial Equipment Rental,Business Services,$1 to $2 billion (USD),63,118,90.5,Chicago,IL,122.0,data analyst,
+Credit Data Analyst,4.6,501 to 1000 Employees,Company - Public,Financial Transaction Processing,Finance,,58,103,80.5,New York,NY,23.0,data analyst,
+AVP - Data Analyst - ICG EAP NY,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),70,101,85.5,New York,NY,208.0,data analyst,
+"Operations Analyst, Master Data Office",3.4,10000+ Employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10 to $25 million (USD),37,65,51.0,Dublin,CA,63.0,data analyst,
+Data Analyst - Contract to Perm Role,2.6,1 to 50 Employees,Nonprofit Organization,Research & Development,Business Services,,45,82,63.5,Boston,MA,,data analyst,
+Data Privacy Analyst - Global Analytics,4.1,5001 to 10000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),45,81,63.0,San Diego,CA,21.0,data analyst,
+Quantitative Analyst/Data Scientist,4.5,1001 to 5000 Employees,Nonprofit Organization,Banks & Credit Unions,Finance,$5 to $10 billion (USD),62,129,95.5,Charlotte,NC,106.0,data analyst,
+"Data Analyst, Retail Media",4.0,1001 to 5000 Employees,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),50,95,72.5,New York,NY,15.0,data analyst,
+Data Governance Analyst,4.5,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),41,74,57.5,Phoenix,AZ,26.0,data analyst,
+Business Intelligence Analyst - Data Scientist,3.6,1001 to 5000 Employees,Company - Public,Consumer Product Rental,Consumer Services,$1 to $2 billion (USD),47,94,70.5,Bonita Springs,FL,55.0,data analyst,
+Data Analyst II,3.5,1001 to 5000 Employees,Company - Public,Financial Transaction Processing,Finance,$1 to $2 billion (USD),61,103,82.0,St Louis Park,MN,80.0,data analyst,
+"Data Analyst, Self-Driving",4.3,1001 to 5000 Employees,Company - Private,Transportation Equipment Manufacturing,Manufacturing,,82,144,113.0,Palo Alto,CA,11.0,data analyst,
+Business Systems Analyst – Customer Data Analytics,4.3,501 to 1000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),47,90,68.5,Austin,TX,14.0,data analyst,
+Data Analyst/Business Systems Analyst,3.5,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),52,96,74.0,Tampa,FL,26.0,data analyst,
+Data Quality Analyst,,,,,,,23,50,36.5,Tallahassee,FL,,data analyst,
+Marketing Data Analyst,4.1,1001 to 5000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD),54,100,77.0,New York,NY,13.0,data analyst,
+"Data Analyst - Eden Prairie, MN or Telecommute",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),44,79,61.5,Eden Prairie,MN,43.0,data analyst,
+"Data Analyst, Business Intelligence",3.1,1001 to 5000 Employees,Company - Public,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),51,103,77.0,Seattle,WA,13.0,data analyst,
+Data Scientist and Business Analyst,4.4,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),95,148,121.5,Bellevue,WA,45.0,data analyst,
+Data Technology Analyst (Summer 2021 Start Date),4.0,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$100 to $500 million (USD),44,62,53.0,Washington,DC,24.0,data analyst,
+Senior Data Analyst,4.0,10000+ Employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),83,92,87.5,Columbus,IN,101.0,data analyst,senior
+HRIS Data Analyst,4.4,1001 to 5000 Employees,Nonprofit Organization,Religious Organizations,Non-Profit,$100 to $500 million (USD),42,54,48.0,Colorado Springs,CO,79.0,data analyst,
+Procurement Data Analyst,4.1,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$5 to $10 billion (USD),49,87,68.0,Westminster,CO,140.0,data analyst,
+Data Quality Analyst,3.6,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,,38,69,53.5,Colchester,VT,48.0,data analyst,
+Digital Marketing Data Analyst,3.8,10000+ Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),45,55,50.0,Pittsburgh,PA,118.0,data analyst,
+"Data and Integrations Analyst - Minnetonka, MN",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),42,84,63.0,Minnetonka,MN,43.0,data analyst,
+Sports Science Data Analyst,4.3,51 to 200 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),63,113,88.0,Ft Carson,CO,13.0,data analyst,
+"Data Steward, Modeler, Analyst, Scientist, etc.",4.4,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),30,40,35.0,Tampa,FL,37.0,data analyst,
+"Wealth Management, Client Data Analyst",4.0,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),46,83,64.5,Plano,TX,221.0,data analyst,
+"Associate Analyst, Data Intelligence",4.4,201 to 500 Employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$50 to $100 million (USD),75,92,83.5,Minneapolis,MN,27.0,data analyst,
+Data Management Business Analyst,4.0,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),42,85,63.5,Chicago,IL,221.0,data analyst,
+"Data Analyst, Compliance",3.8,10000+ Employees,College / University,Colleges & Universities,Education,,67,90,78.5,New York,NY,122.0,data analyst,
+Marketing Analyst/ Data Scientist,3.2,5001 to 10000 Employees,Company - Public,K-12 Education,Education,$500 million to $1 billion (USD),51,88,69.5,Herndon,VA,21.0,data analyst,
+Technical Data Analyst,3.7,201 to 500 Employees,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),89,129,109.0,Lancaster,PA,21.0,data analyst,
+Data Management Analyst,4.0,10000+ Employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),40,86,63.0,Roswell,GA,112.0,data analyst,
+Data Analyst,4.0,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),39,68,53.5,Jacksonville,FL,,data analyst,
+Marketing Data Analyst,3.7,51 to 200 Employees,Company - Private,Other Retail Stores,Retail,,44,87,65.5,Redwood City,CA,14.0,data analyst,
+Tableau Data Analyst,3.5,5001 to 10000 Employees,Company - Private,Staffing & Outsourcing,Business Services,,38,53,45.5,Durham,NC,37.0,data analyst,
+Senior Data Analyst - Credit Risk Mgmt,3.9,10000+ Employees,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),58,102,80.0,Philadelphia,PA,57.0,data analyst,senior
+Business Data Analyst,3.6,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),45,83,64.0,Brooklyn,NY,114.0,data analyst,
+Sales Data Analyst ( Strong excel),4.4,1 to 50 Employees,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),48,67,57.5,Wilmington,DE,17.0,data analyst,
+Product Data Analyst,3.8,10000+ Employees,Company - Private,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),43,66,54.5,Mundelein,IL,54.0,data analyst,
+Recruiting Data Analyst,4.2,1001 to 5000 Employees,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),43,77,60.0,Plymouth,MI,35.0,data analyst,
+Data Analyst/Data Modeler,3.8,10000+ Employees,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$10+ billion (USD),46,83,64.5,Jersey City,NJ,221.0,data analyst,
+Operation Project Analyst-Data Center,3.8,201 to 500 Employees,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),68,77,72.5,Fremont,CA,33.0,data analyst,
+Safety Data Analyst,4.2,1001 to 5000 Employees,Company - Public,Internet,Information Technology,,37,73,55.0,Dallas,OR,21.0,data analyst,
+Cybersecurity Data Loss Prevention (DLP) Governance Analyst,3.7,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$2 to $5 billion (USD),36,49,42.5,West Valley City,UT,,data analyst,
+CX Data Analyst,4.1,1001 to 5000 Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),39,73,56.0,Provo,UT,36.0,data analyst,
+Data Analyst - Finance,3.8,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),42,80,61.0,Los Angeles,CA,,data analyst,
+Research Data Analyst- Boston CCBHC,4.0,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),41,74,57.5,Boston,MA,24.0,data analyst,
+Data Analyst (Remote Opportunity),4.6,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),50,91,70.5,Austin,TX,,data analyst,
+Technical Data Analyst -(Pharmacy/Healthcare industry preferred),3.1,501 to 1000 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),42,76,59.0,Florham Park,NJ,16.0,data analyst,
+Research Data Analyst,4.3,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),36,65,50.5,Baltimore,MD,144.0,data analyst,
+Healthcare Payer - Data Analyst,3.7,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),47,85,66.0,Wellesley,MA,53.0,data analyst,
+"Banking, Capital Markets and Advisory (BCMA) - Investment Banking, Summer Analyst: Data Science Analyst, M&A Strategic Shareholder Advisory - New York",3.9,1001 to 5000 Employees,Company - Private,Lending,Finance,,72,93,82.5,New York,NY,,data analyst,
+Data Analyst I/II - Patient-Centered Research,3.2,501 to 1000 Employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),52,92,72.0,Seattle,WA,7.0,data analyst,
+QA Analyst – Data Analytics,4.2,10000+ Employees,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),64,115,89.5,San Jose,CA,36.0,data analyst,
+"Analyst I, Data Analytics",3.0,1001 to 5000 Employees,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$2 to $5 billion (USD),28,51,39.5,Boulder,CO,13.0,data analyst,
+Data Analyst III,3.2,501 to 1000 Employees,Company - Private,,,$100 to $500 million (USD),44,80,62.0,Atlanta,GA,,data analyst,
+Data Analytics Analyst/Trainer,4.2,5001 to 10000 Employees,College / University,Colleges & Universities,Education,$500 million to $1 billion (USD),36,63,49.5,Eugene,OR,148.0,data analyst,
+Claims Data Analyst,3.1,501 to 1000 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),34,61,47.5,Scottsdale,AZ,37.0,data analyst,
+Data Analyst – St. Peter's Hospital – Full Time Days,3.7,10000+ Employees,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),39,68,53.5,Albany,NY,9.0,data analyst,
+Data Quality Analyst,3.6,5001 to 10000 Employees,Company - Public,Investment Banking & Asset Management,Finance,$5 to $10 billion (USD),29,53,41.0,Atlanta,GA,20.0,data analyst,
+Data Analyst III,3.5,10000+ Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),55,94,74.5,Indianapolis,IN,36.0,data analyst,
+Pharmacy Data Analyst,2.8,501 to 1000 Employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),27,50,38.5,Louisville,KY,,data analyst,
+Data Analyst Engineering Data & Analytics,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),48,83,65.5,Atlanta,GA,58.0,data analyst,
+Product Data Analyst / Data Scientist,4.2,51 to 200 Employees,Company - Public,Internet,Information Technology,$50 to $100 million (USD),61,115,88.0,Mountain View,CA,7.0,data analyst,
+Laboratory Data Analyst,3.5,1001 to 5000 Employees,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million (USD),51,53,52.0,Quantico,VA,16.0,data analyst,
+Business Data Analyst,3.5,1001 to 5000 Employees,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD),47,87,67.0,Medford,MA,48.0,data analyst,
+US - Data Analyst,3.7,51 to 200 Employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),28,49,38.5,Danville,KY,,data analyst,
+Data Visualization Analyst,3.8,501 to 1000 Employees,Nonprofit Organization,Energy,"Oil, Gas, Energy & Utilities",,67,113,90.0,Carmel,IN,22.0,data analyst,
+Data/Business Intelligence Analyst,3.7,51 to 200 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),52,93,72.5,Nashville,TN,5.0,data analyst,
+Business Intelligence Analyst / Data Scientist,3.1,51 to 200 Employees,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),45,90,67.5,New York,NY,46.0,data analyst,
+Sr Data Analyst,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),48,137,92.5,Arlington,VA,26.0,data analyst,senior
+DoD Data Analyst - Consultant,3.7,5001 to 10000 Employees,Company - Private,Consulting,Business Services,,53,91,72.0,Washington,DC,2.0,data analyst,
+Data Analyst II - Healthcare,3.3,501 to 1000 Employees,Nonprofit Organization,Consulting,Business Services,$50 to $100 million (USD),69,73,71.0,Dallas,TX,47.0,data analyst,
+Department Data Analyst,4.0,10000+ Employees,Hospital,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),50,86,68.0,Dallas,TX,77.0,data analyst,
+Contract Data Study Analyst,5.0,51 to 200 Employees,Company - Private,Internet,Information Technology,,81,100,90.5,New York,NY,13.0,data analyst,
+Data Analytics/Algorithm Analyst,3.7,51 to 200 Employees,Company - Private,Research & Development,Business Services,$50 to $100 million (USD),52,94,73.0,Boston,MA,47.0,data analyst,
+Data Privacy Analyst - USA,3.7,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,59,102,80.5,Waltham,MA,6.0,data analyst,
+"Data Analyst Portland, OR",4.0,,Company - Private,IT Services,Information Technology,,55,65,60.0,Portland,OR,28.0,data analyst,
+Data and Technology Analyst,4.0,1001 to 5000 Employees,Company - Private,Financial Analytics & Research,Finance,$10+ billion (USD),74,101,87.5,New York,NY,106.0,data analyst,
+Scientific Data Analyst,3.9,501 to 1000 Employees,Government,,,,53,97,75.0,Atlanta,GA,,data analyst,
+Data Analyst - Kenra Professional,4.3,10000+ Employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),52,95,73.5,Culver City,CA,144.0,data analyst,
+Digital Marketing Data Analyst,4.1,10000+ Employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),73,123,98.0,Mountain View,CA,34.0,data analyst,
+Data Analyst Manager,3.4,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),69,122,95.5,Bellevue,WA,19.0,data analyst,
+Data Analyst D,4.4,10000+ Employees,College / University,Colleges & Universities,Education,,44,78,61.0,Philadelphia,PA,280.0,data analyst,
+Sr Data Analyst,3.4,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),45,78,61.5,Brentwood,TN,42.0,data analyst,senior
+Data Analyst (Retail Energy),4.4,1 to 50 Employees,Company - Private,Energy,"Oil, Gas, Energy & Utilities",,32,59,45.5,Dallas,TX,11.0,data analyst,
+Data Analyst,4.0,501 to 1000 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),37,69,53.0,Arlington,VA,47.0,data analyst,
+Data and Technology Analyst,4.5,1001 to 5000 Employees,Government,Federal Agencies,Government,,76,104,90.0,New York,NY,107.0,data analyst,
+Talent Acquisition Data Analyst,2.9,1001 to 5000 Employees,School / School District,K-12 Education,Education,$100 to $500 million (USD),80,80,80.0,New York,NY,14.0,data analyst,
+Senior Data Analyst,3.8,201 to 500 Employees,Subsidiary or Business Segment,Vehicle Dealers,Retail,$100 to $500 million (USD),48,86,67.0,Atlanta,GA,,data analyst,senior
+Marketing Automation Data Analyst,4.7,201 to 500 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,,61,112,86.5,Seattle,WA,32.0,data analyst,
+"Provider Data Analyst - Los Angeles, CA or Columbia, MD",3.6,10000+ Employees,Company - Public,Health Care Services & Hospitals,Health Care,$10+ billion (USD),45,84,64.5,Los Angeles,CA,43.0,data analyst,
+Sales Operations Data Analyst II - Cox Media Inc,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),45,77,61.0,Atlanta,GA,58.0,data analyst,
+Data Analyst III,4.0,10000+ Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),64,107,85.5,Atlanta,GA,58.0,data analyst,
+Operations Data Analyst,4.3,5001 to 10000 Employees,Company - Public,Consulting,Business Services,,34,60,47.0,Dallas,TX,,data analyst,
+Data Analyst - Heart Transplant/MCS / 40 Hour / Days,3.9,5001 to 10000 Employees,Subsidiary or Business Segment,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),36,65,50.5,Boston,MA,24.0,data analyst,
+Data Integrity Analyst,3.6,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,,50,60,55.0,Jersey City,NJ,18.0,data analyst,
+Technology Data Management and Reporting Analyst,4.2,201 to 500 Employees,Nonprofit Organization,Real Estate,Real Estate,$100 to $500 million (USD),55,115,85.0,Hayward,CA,52.0,data analyst,
+"Senior Data Analyst, Marketing",3.1,1001 to 5000 Employees,Company - Public,Colleges & Universities,Education,$10 to $25 million (USD),62,108,85.0,Phoenix,AZ,55.0,data analyst,senior
+Senior Data Analyst,4.1,501 to 1000 Employees,Company - Private,Internet,Information Technology,,110,114,112.0,Seattle,WA,13.0,data analyst,senior
+SQL Data Analyst,2.9,1001 to 5000 Employees,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),60,103,81.5,Bowie,MD,22.0,data analyst,
+Data Programmer Analyst I,3.9,1001 to 5000 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),50,88,69.0,Philadelphia,PA,165.0,data analyst,
+Solar Data Analyst,4.3,501 to 1000 Employees,Company - Private,Energy,"Oil, Gas, Energy & Utilities",,38,68,53.0,South Plainfield,NJ,11.0,data analyst,
+Pharmacy Data Analyst,4.0,5001 to 10000 Employees,Company - Private,Insurance Agencies & Brokerages,Insurance,$1 to $2 billion (USD),30,56,43.0,Saint Louis,MO,54.0,data analyst,
+Senior Product & Data Solutions Analyst,4.3,5001 to 10000 Employees,Company - Private,Investment Banking & Asset Management,Finance,$1 to $2 billion (USD),81,134,107.5,Los Angeles,CA,89.0,data analyst,senior
+D&I Business/Data Analyst Summer Internship,4.5,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),59,107,83.0,Arlington,VA,35.0,data analyst,intern
+Operations Data Analyst,4.0,5001 to 10000 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),42,78,60.0,San Diego,CA,31.0,data analyst,
+Call Center Work Force Management- Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,24,43,33.5,Erie,PA,9.0,data analyst,
+Information Technology Data Analyst,3.5,5001 to 10000 Employees,Company - Public,Other Retail Stores,Retail,,39,114,76.5,Tempe,AZ,7.0,data analyst,
+Senior Data Analyst,3.9,1001 to 5000 Employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),94,110,102.0,Washington,DC,8.0,data analyst,senior
+Recruiting Data Analyst,4.0,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$100 to $500 million (USD),65,114,89.5,Palo Alto,CA,59.0,data analyst,
+Data Governance Analyst,4.3,10000+ Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),60,109,84.5,New York,NY,16.0,data analyst,
+Data Integrity Analyst,4.3,1001 to 5000 Employees,Company - Private,Legal,Accounting & Legal,$1 to $2 billion (USD),48,67,57.5,Boston,MA,155.0,data analyst,
+Data Analyst (Insights and Reporting),4.1,5001 to 10000 Employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD),43,80,61.5,Chicago,IL,34.0,data analyst,
+Sales Systems and Data Analyst,3.9,10000+ Employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$5 to $10 billion (USD),51,91,71.0,Austin,TX,14.0,data analyst,
+Health Data Analyst,3.0,201 to 500 Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$25 to $50 million (USD),38,69,53.5,Lowell,MA,50.0,data analyst,
+"DATA Analyst - Clinical Statistician @ Minneapolis, MN",3.1,1 to 50 Employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million (USD),39,71,55.0,Minneapolis,MN,19.0,data analyst,
+Data Conversion Analyst,3.7,10000+ Employees,Company - Public,Consulting,Business Services,$10+ billion (USD),59,75,67.0,Los Angeles,CA,44.0,data analyst,
+Sr Data Analyst,4.2,5001 to 10000 Employees,Company - Public,Lending,Finance,$2 to $5 billion (USD),71,119,95.0,Westlake Village,CA,12.0,data analyst,senior
+Data Governance Analyst,4.0,1 to 50 Employees,Company - Private,Telecommunications Services,Telecommunications,,54,97,75.5,Tempe,AZ,73.0,data analyst,
+"Analyst, Data Management / Quantitative Analysis",3.4,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),31,59,45.0,Chicago,IL,236.0,data analyst,
+Data Scientist/Analyst,4.5,201 to 500 Employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),57,98,77.5,Clarksburg,WV,21.0,data analyst,
+"Business Systems Analyst, Data & Analytics",4.4,501 to 1000 Employees,Company - Private,Investment Banking & Asset Management,Finance,,50,93,71.5,Boston,MA,36.0,data analyst,
+"Data Analyst, Information Systems",3.1,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),40,71,55.5,Sellersville,PA,107.0,data analyst,
+"DATA ANALYST PROGRAMMER, DUKE-MARGOLIS CENTER FOR HEALTH POLICY",4.4,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),27,49,38.0,Durham,NC,182.0,data analyst,
+Claims Data Analyst,4.0,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),43,79,61.0,Garden City,NY,38.0,data analyst,
+Data & Business Analyst,4.2,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$2 to $5 billion (USD),41,77,59.0,Chicago,IL,30.0,data analyst,
+Salesfore Data Analyst,4.6,51 to 200 Employees,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),48,53,50.5,Remote,,9.0,data analyst,
+Junior Data Analyst,,,,,,,46,64,55.0,Irving,TX,,data analyst,junior
+Data Analyst,4.4,1 to 50 Employees,College / University,Colleges & Universities,Education,$1 to $5 million (USD),19,24,21.5,Chapel Hill,NC,,data analyst,
+Data Analyst/Data Entry Analyst.,3.8,1 to 50 Employees,Company - Private,,,,38,48,43.0,Dallas,TX,,data analyst,
+Data Analyst (Entry Level),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Anchorage,AK,11.0,data analyst,intern
+Data Analyst,,,,,,,29,34,31.5,Chicago,IL,,data analyst,
+Data Analyst,3.4,501 to 1000 Employees,Company - Public,Banks & Credit Unions,Finance,$100 to $500 million (USD),58,63,60.5,New York,NY,79.0,data analyst,
+Data Analyst,4.0,51 to 200 Employees,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),65,75,70.0,Princeton,NJ,,data analyst,
+Jr. Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Arkadelphia,AR,11.0,data analyst,junior
+Data Analyst,4.1,1 to 50 Employees,Company - Private,Telecommunications Services,Telecommunications,,19,22,20.5,Tulsa,OK,3.0,data analyst,
+Sales Data Entry & Analyst (Women's clothing wholesale),1.5,,Company - Public,,,,19,29,24.0,Vernon,CA,,data analyst,
+Data Analyst,3.0,1 to 50 Employees,Company - Private,,,Less than $1 million (USD),80,120,100.0,Remote,,,data analyst,
+Data Analyst,,1 to 50 Employees,Company - Public,,,,43,43,43.0,Omaha,NE,,data analyst,
+Data Analyst,,,,,,,58,67,62.5,Austin,TX,,data analyst,
+Data Analyst,3.1,51 to 200 Employees,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),20,48,34.0,Houston,TX,19.0,data analyst,
+Junior Data Analyst,,,,,,,80,80,80.0,Chicago,IL,,data analyst,junior
+Data Analyst,4.1,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),50,97,73.5,Woburn,MA,,data analyst,
+Data Analyst,5.0,1 to 50 Employees,Contract,,,,48,113,80.5,Remote,,,data analyst,
+Data Analyst,,,,,,,48,59,53.5,United States,,,data analyst,
+Data Analyst,,,,,,,27,28,27.5,Laurel,MD,,data analyst,
+Junior Data Analyst,3.6,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,$5 to $10 million (USD),45,70,57.5,Greenwood Village,CO,,data analyst,junior
+Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Texas City,TX,11.0,data analyst,
+Data Analyst,,,,,,,29,38,33.5,Washington,DC,,data analyst,
+Data Analyst,,1 to 50 Employees,Unknown,Real Estate,Real Estate,,19,24,21.5,Dallas,TX,,data analyst,
+Content Development Analyst (Data Entry),3.6,10000+ Employees,Company - Private,Consulting,Business Services,$2 to $5 billion (USD),40,45,42.5,Laramie,WY,126.0,data analyst,
+Data Analyst Intern,,,,,,,17,19,18.0,Remote,,,data analyst,intern
+Data Analyst,3.1,1 to 50 Employees,Company - Private,,,$1 to $5 million (USD),38,38,38.0,Washington,DC,,data analyst,
+Junior Data Analyst / Entry Level / Training,4.6,501 to 1000 Employees,Company - Private,IT Services,Information Technology,,65,70,67.5,San Diego,CA,23.0,data analyst,junior
+Data Analyst (Entry Level),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,California,MD,11.0,data analyst,intern
+Jr Data Analyst (Freshers Can Also Apply),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,United States,,11.0,data analyst,junior
+Junior Data Analyst,,,,,,,65,85,75.0,Bloomfield,NJ,,data analyst,junior
+Tableau Data Analyst,,,,,,,38,43,40.5,Remote,,,data analyst,
+Jr Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Virginia Beach,VA,11.0,data analyst,junior
+Data Analyst - Performance Assurance,3.0,,Company - Private,,,,48,48,48.0,Dallas,TX,,data analyst,
+Jr Data Analyst (Freshers Can Also Apply),4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Indianapolis,IN,11.0,data analyst,junior
+Public Policy Data Analyst (Community Safety),3.5,10000+ Employees,Government,Municipal Governments,Government,,64,87,75.5,San Bernardino,CA,167.0,data analyst,
+Research Assistant/Data Analyst,,1 to 50 Employees,Nonprofit Organization,,,,25,48,36.5,Santa Monica,CA,,data analyst,
+Jr Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Birmingham,AL,11.0,data analyst,junior
+Data Analyst- Fortify,3.6,5001 to 10000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),29,46,37.5,Virginia,VA,195.0,data analyst,
+Entry Level Business Analyst,,51 to 200 Employees,Contract,,,,60,70,65.0,Remote,,,,intern
+Jr Data Analyst,4.6,201 to 500 Employees,Company - Private,Staffing & Outsourcing,Business Services,,60,90,75.0,Seattle,WA,11.0,data analyst,junior
+Data Analyst,3.3,51 to 200 Employees,Company - Private,Miscellaneous Manufacturing,Manufacturing,$25 to $50 million (USD),65,75,70.0,Beaverton,OR,50.0,data analyst,
+Forecasting Analyst,4.5,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),95,95,95.0,Mountain View,CA,22.0,,
+"Data Analyst, Operations (226 Days)",3.5,10000+ Employees,School / School District,Preschool & Child Care,Education,$1 to $2 billion (USD),76,76,76.0,Dallas,TX,153.0,data analyst,
+Data Support Analyst,4.3,501 to 1000 Employees,School / School District,Preschool & Child Care,Education,$100 to $500 million (USD),31,38,34.5,Victorville,CA,,data analyst,
+Health Care Data Analyst,2.6,51 to 200 Employees,Company - Private,,,$5 to $10 million (USD),36,39,37.5,Rockville,MD,42.0,data analyst,
+Medicaid Healthcare Data and Statistical Analyst,3.4,5001 to 10000 Employees,Government,State & Regional Agencies,Government,Less than $1 million (USD),27,27,27.0,Waterbury,VT,229.0,data analyst,
+Data Analyst,4.0,5001 to 10000 Employees,Government,Municipal Governments,Government,$100 to $500 million (USD),67,86,76.5,Washington,DC,,data analyst,
+Health Care Data Analyst,2.6,51 to 200 Employees,Company - Private,,,$5 to $10 million (USD),36,39,37.5,Washington,DC,42.0,data analyst,
+Data Analyst,,1 to 50 Employees,Company - Private,,,,74,74,74.0,Washington,DC,,data analyst,
+Early Childhood Data and Policy Analyst,,,,,,,46,78,62.0,Wake Forest,NC,,data analyst,
+Senior Data and Research Analyst,3.7,1001 to 5000 Employees,Company - Public,,,,70,90,80.0,East Boston,MA,,data analyst,senior
+OSSE: Management Analyst (Data Analyst),4.0,5001 to 10000 Employees,Government,Municipal Governments,Government,$100 to $500 million (USD),76,97,86.5,Washington,DC,,data analyst,
+Data Analyst III,3.3,5001 to 10000 Employees,Government,State & Regional Agencies,Government,,52,68,60.0,Austin,TX,,data analyst,
+Health Care Data Analyst,2.6,51 to 200 Employees,Company - Private,,,$5 to $10 million (USD),36,39,37.5,Alexandria,VA,42.0,data analyst,
+Research Data Analyst (Clinical),4.3,10000+ Employees,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),45,62,53.5,Baltimore,MD,144.0,data analyst,
+"Data Analyst, Benchmarking (Energy)",4.0,10000+ Employees,Nonprofit Organization,Colleges & Universities,Education,$100 to $500 million (USD),76,85,80.5,New York,NY,57.0,data analyst,
+"Data and Policy Analyst, Early Care & Education",3.9,51 to 200 Employees,Government,State & Regional Agencies,Government,,71,101,86.0,Alameda,CA,22.0,data analyst,
+Data Analyst - Organizational Foundations (Data Analyst IV),3.2,501 to 1000 Employees,Government,State & Regional Agencies,Government,$100 to $500 million (USD),75,87,81.0,United States,,,data analyst,
+Quality Data Analyst,3.6,10000+ Employees,Government,State & Regional Agencies,Government,$10+ billion (USD),52,52,52.0,Oklahoma,OK,30.0,data analyst,
+Data Analyst,4.4,10000+ Employees,College / University,Colleges & Universities,Education,,43,50,46.5,College Station,TX,149.0,data analyst,
+Data Analyst,4.1,51 to 200 Employees,Company - Private,Lending,Finance,,55,65,60.0,Englewood,CO,14.0,data analyst,
+Data Analyst,,,,,,,80,120,100.0,San Francisco,CA,,data analyst,
+Data Analyst,4.1,51 to 200 Employees,Company - Private,Accounting,Accounting & Legal,,50,80,65.0,Arlington,VA,12.0,data analyst,
+Junior Data Analyst,3.7,501 to 1000 Employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),35,45,40.0,Washington,DC,28.0,data analyst,junior
+Data Analyst,3.5,201 to 500 Employees,Company - Private,Health Care Services & Hospitals,Health Care,,71,106,88.5,Denver,CO,24.0,data analyst,
+Data Warehouse Analyst,3.3,1001 to 5000 Employees,Government,State & Regional Agencies,Government,,93,93,93.0,Richmond,VA,,data analyst,
+Business Analyst II,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),72,127,99.5,United States,,26.0,,
+Business Analyst,3.7,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,,124,124,124.0,East Boston,MA,23.0,,
+Data Analyst Senior,3.3,1001 to 5000 Employees,Government,Municipal Governments,Government,Less than $1 million (USD),55,86,70.5,Golden,CO,161.0,data analyst,senior
+Data Analyst,3.8,501 to 1000 Employees,Company - Private,IT Services,Information Technology,,71,117,94.0,Fremont,CA,12.0,data analyst,
+Wealth Management Reporting and Data Analyst,3.6,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),89,129,109.0,Sheldonville,MA,192.0,data analyst,
+NAM Card AML Oversight Data Analytics Lead Analyst,3.9,10000+ Employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),63,106,84.5,Urbandale,IA,208.0,data analyst,senior
+Test Analyst - ETL/Data Warehouse/BI Reporting/Java/Micro Services,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),65,76,70.5,Chicago,IL,39.0,data analyst,
+Big Data Analyst,3.4,10000+ Employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),64,80,72.0,Philadelphia,PA,39.0,data analyst,
+E-commerce Data Analyst,3.6,10000+ Employees,Company - Public,Lending,Finance,,44,79,61.5,Chicago,IL,108.0,data analyst,
+Data Analyst,4.3,1001 to 5000 Employees,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),59,82,70.5,Stevens Point,WI,116.0,data analyst,
+Seat Services Data Analyst (Norfolk),3.8,10000+ Employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),49,55,52.0,Norfolk,VA,51.0,data analyst,
+Data Analyst,3.8,10000+ Employees,Company - Public,Internet,Information Technology,$10+ billion (USD),34,60,47.0,New York,NY,26.0,data analyst,
+Health Policy Data Analyst,3.8,10000+ Employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),57,61,59.0,Nashville,TN,146.0,data analyst,
+Product Analyst/Data Scientist (Senior or Midlevel),3.7,501 to 1000 Employees,Company - Private,K-12 Education,Education,$100 to $500 million (USD),140,164,152.0,Glendale,CA,13.0,data analyst,senior
+Principal Data Solutions Analyst,3.8,10000+ Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),116,130,123.0,Boston,MA,108.0,data analyst,senior
+Data Analyst,2.8,501 to 1000 Employees,Company - Private,Banks & Credit Unions,Finance,,37,67,52.0,Denver,CO,,data analyst,
+Quality Metrics and Data Analyst,3.5,501 to 1000 Employees,Government,Health Care Services & Hospitals,Health Care,,35,49,42.0,Liverpool,NY,,data analyst,
+Data Management Analyst IV,3.6,1001 to 5000 Employees,Company - Private,Home Centers & Hardware Stores,Retail,$500 million to $1 billion (USD),37,77,57.0,San Marcos,TX,93.0,data analyst,
+Data Analyst,4.3,51 to 200 Employees,Company - Private,Advertising & Marketing,Business Services,,47,91,69.0,New York,NY,20.0,data analyst,
+Entry Level Data Solution Analyst,4.2,1 to 50 Employees,Company - Public,,,$25 to $50 million (USD),82,122,102.0,Bala Cynwyd,PA,,data analyst,intern
+Data Analyst,4.4,51 to 200 Employees,Company - Private,"Gift, Novelty & Souvenir Stores",Retail,$10 to $25 million (USD),47,84,65.5,Brooklyn,NY,21.0,data analyst,
+Senior Data / Operations Reporting Analyst,,,,,,,49,89,69.0,Grand Rapids,MI,,data analyst,senior
+Data Analyst,4.1,51 to 200 Employees,Company - Private,Lending,Finance,,59,74,66.5,Englewood,CO,14.0,data analyst,
+Analyst Master Data,4.1,10000+ Employees,Subsidiary or Business Segment,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),74,91,82.5,Solon,OH,154.0,data analyst,
+Data Analyst,2.8,501 to 1000 Employees,Company - Private,General Merchandise & Superstores,Retail,,24,24,24.0,Perris,CA,49.0,data analyst,
+Scientific Data Analyst,4.4,501 to 1000 Employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),49,90,69.5,Atlanta,GA,21.0,data analyst,
+Data Analyst,4.4,1 to 50 Employees,Company - Private,Research & Development,Business Services,,36,68,52.0,Washington,DC,,data analyst,
+Data Analyst,4.5,1001 to 5000 Employees,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,,33,57,45.0,Evansville,IN,15.0,data analyst,
+Senior Data Analyst,3.8,5001 to 10000 Employees,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),89,105,97.0,Atlanta,GA,172.0,data analyst,senior
+Data Analyst,3.8,1001 to 5000 Employees,Company - Private,Architectural & Engineering Services,Business Services,$1 to $2 billion (USD),74,91,82.5,Winchester,VA,80.0,data analyst,
+"Data Analyst Lead, Vice President (Collibra Data Governance Center)",3.3,10000+ Employees,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),116,188,152.0,Tempe,AZ,156.0,data analyst,senior
+Data Operations Analyst,5.0,1 to 50 Employees,Company - Private,Colleges & Universities,Education,,64,71,67.5,Lisle,IL,,data analyst,
+Financial Data Analyst,3.6,5001 to 10000 Employees,Company - Private,Industrial Manufacturing,Manufacturing,,65,79,72.0,Pleasant Prairie,WI,40.0,data analyst,
+Epic Clarity Data Analyst,3.8,1001 to 5000 Employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),55,75,65.0,Malden,MA,129.0,data analyst,
+Principal Data Solutions Analyst,3.7,10000+ Employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),116,130,123.0,Boston,MA,108.0,data analyst,senior
+Data Analyst,,,,,,,53,70,61.5,Lakewood,OH,,data analyst,
+Data Operations Analyst,5.0,1 to 50 Employees,Company - Private,Colleges & Universities,Education,,64,71,67.5,Lisle,IL,12.0,data analyst,
+Data Conversion Analyst,,,,,,,22,81,51.5,Ames,IA,,data analyst,
+Data Analyst,,,,,,,46,75,60.5,Dallas,TX,,data analyst,
