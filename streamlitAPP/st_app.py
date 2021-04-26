@@ -9,21 +9,13 @@ import streamlit as st
 
 from PIL import Image
 
-
-
-file_name = "model_file.p"
-with open(file_name, 'rb') as pickled:
-    data = pickle.load(pickled)
-    model = data['model']
-
-
 def welcome():
     return "Welcome All"
 
 
-def predict_note_authentication(data_in):
+def predict_note_authentication(data_in, model):
 
-    prediction = model.predict()
+    prediction = model.predict(data_in)
     print(prediction)
     return prediction
 
@@ -35,6 +27,8 @@ def main():
     <h2 style="color:white;text-align:center;">Streamlit Salary Prediction ML App </h2>
     </div>
     """
+
+    st.markdown(html_temp, unsafe_allow_html=True)
 
     features = {'rating': 0,
                     'company_age': 0,
@@ -374,10 +368,6 @@ def main():
 
                 
                
-              
-
-    st.markdown(html_temp, unsafe_allow_html=True)
-
     rating = st.text_input("Rating", "Type Here")
     features['rating'] = rating
 
@@ -511,7 +501,7 @@ def main():
     features[option] = 1 
 
 
-# revenue
+    # revenue
     option = st.selectbox(
         'Choose revenue: ',
         ('revenue_1-2b',
@@ -530,16 +520,6 @@ def main():
     features[option] = 1 
 
 
-    
-
-    
-    result = ""
-    if st.button("Predict"):
-        result = predict_note_authentication(data_in)
-    st.success('The output is {}'.format(result))
-    if st.button("About"):
-        st.text("Lets LEarn")
-        st.text("Built with Streamlit")
 
 
 # city
@@ -783,7 +763,19 @@ def main():
     st.write('You selected:', option)
     features[option] = 1 
 
+    file_name = "model_file.p"
+    with open(file_name, 'rb') as pickled:
+        data = pickle.load(pickled)
+        model = data['model']
 
+    features = list(features.values())
+    features = np.array(features).reshape(1, -1)
+    
+    result = ""
+    if st.button("Predict"):
+        result = predict_note_authentication(features, model)
+        st.success('The output is {}'.format(result))
+    
 
 if __name__ == '__main__':
     main()
