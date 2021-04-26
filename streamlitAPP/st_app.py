@@ -522,9 +522,9 @@ def main():
 
 
 
-# city
+    # city
     option = st.selectbox(
-        'Choose revenue: ',
+        'Choose city: ',
         ('city_Albany',
                 'city_Altamonte Springs',
                 'city_Anchorage',
@@ -717,9 +717,9 @@ def main():
     features[option] = 1 
 
 
-# state
+    # state
     option = st.selectbox(
-        'Choose type of ownership: ',
+        'Choose state: ',
         ('state_AK',
                 'state_AL',
                 'state_AZ',
@@ -771,10 +771,10 @@ def main():
     features = list(features.values())
     features = np.array(features).reshape(1, -1)
     
-    result = ""
+    
     if st.button("Predict"):
-        result = predict_note_authentication(features, model)
-        st.success('The output is {}'.format(result))
+        result = float(predict_note_authentication(features, model))
+        st.success('The predicted salary is: {} USD'.format(result*1000))
     
 
 if __name__ == '__main__':
