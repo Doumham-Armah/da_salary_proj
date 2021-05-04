@@ -1,4 +1,4 @@
-# Data Analyst Salary Prediction
+# Data Analyst Salary Prediction: Project Overview
 
 ## Acquiring The Data
 
