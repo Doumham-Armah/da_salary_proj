@@ -13,6 +13,7 @@ Coded my own web scraper to scrape over 1000 job postings from glassdoor.com. Wi
 *	Company 
 *	Location
 *	Company Size
+*	Company Age
 *	Company Founded Date
 *	Type of Ownership 
 *	Industry
